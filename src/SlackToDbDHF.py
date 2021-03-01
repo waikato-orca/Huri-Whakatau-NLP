@@ -49,7 +49,7 @@ class Slack2Db:
 
         # Connect to database - args[username, password, dbname, enable writes]
         self.reader = fr.sqlReader(
-            "root", "priyank1611", "jr_slack", True)
+            "root", "123456789", "jr_slack", True)
 
     def create_menus(self):
         print("adding menus")

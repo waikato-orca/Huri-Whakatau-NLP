@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import filedialog
-from sqlreader import sqlReader
+from .sqlreader import sqlReader
 
 #Opens the file with the raw data that is to be analysed
 def openFile(window):
