@@ -1,0 +1,40 @@
+[
+{
+    "user_id": "U013HQYVAF6",
+    "user_name": "alexgeary37",
+    "date": "1589530839",
+    "change_type": "removed",
+    "reason": "user_deactivated",
+    "app_type": "Google Drive",
+    "app_id": "A6NL8MJ6Q",
+    "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+},
+{
+    "user_id": "U013HQYVAF6",
+    "user_name": "alexgeary37",
+    "date": "1589530838",
+    "change_type": "disabled",
+    "reason": "admin",
+    "service_id": 1113837796485,
+    "service_type": "Google Drive",
+    "scope": "files:write:user"
+},
+{
+    "user_id": "U013D1YDVGS",
+    "user_name": "dennis4rivercity",
+    "date": "1589176728",
+    "change_type": "added",
+    "app_type": "Google Drive",
+    "app_id": "A6NL8MJ6Q",
+    "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+},
+{
+    "user_id": "U013D1YDVGS",
+    "user_name": "dennis4rivercity",
+    "date": "1589176713",
+    "change_type": "added",
+    "service_id": 1113837796485,
+    "service_type": "Google Drive",
+    "scope": "files:write:user"
+}
+]

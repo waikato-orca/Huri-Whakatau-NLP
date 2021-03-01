@@ -1,0 +1,133 @@
+[
+  {
+    "id": "C012CJTM55M",
+    "name": "sweet_vs_savouryP",
+    "created": 1588221535,
+    "creator": "U0126U931AB",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U0126U931AB"],
+    "pins": [
+      {
+        "id": "1588221560.001300",
+        "type": "C",
+        "created": 1588221563,
+        "user": "U0126U931AB",
+        "owner": "U0126U931AB"
+      }
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Which is more pleasing to the taste buds?",
+      "creator": "U0126U931AB",
+      "last_set": 1588221537
+    }
+  },
+  {
+    "id": "C012LHUHJ3X",
+    "name": "children_devicesP",
+    "created": 1588047583,
+    "creator": "U0126U931AB",
+    "is_archived": true,
+    "is_general": false,
+    "members": [],
+    "pins": [
+      {
+        "id": "1588047660.002300",
+        "type": "C",
+        "created": 1588047667,
+        "user": "U0126U931AB",
+        "owner": "U0126U931AB"
+      }
+    ],
+    "topic": {
+      "value": "Should children have mobile devices like smartphones?",
+      "creator": "U0126U931AB",
+      "last_set": 1588047640
+    },
+    "purpose": {
+      "value": "Should children have mobile devices like smartphones?",
+      "creator": "U0126U931AB",
+      "last_set": 1588047585
+    }
+  },
+  {
+    "id": "C012TSSBD4L",
+    "name": "ketchup_vs_mustardP",
+    "created": 1588032420,
+    "creator": "U0126U931AB",
+    "is_archived": true,
+    "is_general": false,
+    "members": [],
+    "pins": [
+      {
+        "id": "1588032932.001000",
+        "type": "C",
+        "created": 1588032939,
+        "user": "U0126U931AB",
+        "owner": "U0126U931AB"
+      }
+    ],
+    "topic": {
+      "value": "Which is better on hotdogs?",
+      "creator": "U0126U931AB",
+      "last_set": 1588032447
+    },
+    "purpose": {
+      "value": "Which is better on hotdogs?",
+      "creator": "U0126U931AB",
+      "last_set": 1588032422
+    }
+  },
+  {
+    "id": "C012ZFC8KSQ",
+    "name": "pineapple_on_pizzaP",
+    "created": 1588219649,
+    "creator": "U0126U931AB",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U0126U931AB"],
+    "pins": [
+      {
+        "id": "1588219679.001300",
+        "type": "C",
+        "created": 1588219685,
+        "user": "U0126U931AB",
+        "owner": "U0126U931AB"
+      }
+    ],
+    "topic": {
+      "value": "Description ......",
+      "creator": "U0126U931AB",
+      "last_set": 1588282490
+    },
+    "purpose": {
+      "value": "Is this a good combination or not?",
+      "creator": "U0126U931AB",
+      "last_set": 1588219650
+    }
+  },
+  {
+    "id": "C013099LJPK",
+    "name": "generalP",
+    "created": 1588030556,
+    "creator": "U0126U931AB",
+    "is_archived": false,
+    "is_general": true,
+    "members": ["U0126U931AB", "U012EUG2MHU", "U012TRUP0CU", "U012VHUHRRQ"],
+    "topic": {
+      "value": "Company-wide announcements and work-based matters",
+      "creator": "U0126U931AB",
+      "last_set": 1588030556
+    },
+    "purpose": {
+      "value": "This channel is for general chat between discussions. All members are in this channel.",
+      "creator": "U0126U931AB",
+      "last_set": 1588219025
+    }
+  }
+]

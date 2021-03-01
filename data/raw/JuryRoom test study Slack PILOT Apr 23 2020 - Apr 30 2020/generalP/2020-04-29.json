@@ -1,0 +1,2879 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1588219025.000100",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> set the channel purpose: This channel is for general chat between discussions. All members are in this channel.",
+        "purpose": "This channel is for general chat between discussions. All members are in this channel."
+    },
+    {
+        "client_msg_id": "199EDE5C-34E3-40F8-A767-26E4A840CC60",
+        "type": "message",
+        "text": "Are we waiting for a new channel to be made or am I missing something? :blush:",
+        "user": "U0130GKUGCR",
+        "ts": "1588219399.001200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we waiting for a new channel to be made or am I missing something? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aad01c65-94aa-473f-9227-b3c09cbd3ed4",
+        "type": "message",
+        "text": "I think so.",
+        "user": "U013BNX11CG",
+        "ts": "1588219411.001400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think so."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2103e04b-b21c-4045-acf5-8b3d0885e3c2",
+        "type": "message",
+        "text": "Yea I was just waiting a couple minutes for people to arrive",
+        "user": "U0126U931AB",
+        "ts": "1588219422.001800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vap",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea I was just waiting a couple minutes for people to arrive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013BNX11CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f324347b-1e61-4460-b9a7-1863a4f2b542",
+        "type": "message",
+        "text": "Hi, am I in the right place or confused or both?",
+        "user": "U012MTPDH98",
+        "ts": "1588219436.002300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VuxIb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, am I in the right place or confused or both?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08d17d4c-ef7d-462d-9664-38948ad5bc62",
+        "type": "message",
+        "text": "You're in the right place at the moment",
+        "user": "U0126U931AB",
+        "ts": "1588219452.002800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You're in the right place at the moment"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc19fdb6-82b1-43ff-8c69-1a5945d90bcc",
+        "type": "message",
+        "text": "If I could ask a couple of questions just while we wait. Was the process of setting up Slack and getting on here all fine and dandy?",
+        "user": "U0126U931AB",
+        "ts": "1588219486.004100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Edv3R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If I could ask a couple of questions just while we wait. Was the process of setting up Slack and getting on here all fine and dandy?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ad83d75-3ef3-49d2-8a58-15cd66a900fb",
+        "type": "message",
+        "text": "Did you secretly enslave 1,000 home PCs to make the supercomputer that generated our random names, or did you use your own creativity?",
+        "user": "U012MTPDH98",
+        "ts": "1588219514.004600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PIbZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did you secretly enslave 1,000 home PCs to make the supercomputer that generated our random names, or did you use your own creativity?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d94899f-e83d-473e-b887-80486ffe8651",
+        "type": "message",
+        "text": "Oh, _you_ ask questions... right...",
+        "user": "U012MTPDH98",
+        "ts": "1588219544.005600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4frO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "you",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ask questions... right..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fa8b726-c748-4f5c-a4e4-0975cdf2e019",
+        "type": "message",
+        "text": "I did not find it too difficult to get set up.",
+        "user": "U013BNX11CG",
+        "ts": "1588219564.006300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bmh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did not find it too difficult to get set up."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63d42b12-4dcd-4693-9feb-35b05c41003d",
+        "type": "message",
+        "text": "I went to a website for generating random usernames. I also tried to pick some that I thought in some way reflected you guys...",
+        "user": "U0126U931AB",
+        "ts": "1588219569.006600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I went to a website for generating random usernames. I also tried to pick some that I thought in some way reflected you guys..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb5430ee-8efc-4d4f-b75a-61294f0a968b",
+        "type": "message",
+        "text": "I just clicked the old link and it took me straight here, I think it was straightforward",
+        "user": "U012MTPDH98",
+        "ts": "1588219572.006700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ywJ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just clicked the old link and it took me straight here, I think it was straightforward"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c037a2e-388d-407c-8288-f752e9018583",
+        "type": "message",
+        "text": "Great",
+        "user": "U0126U931AB",
+        "ts": "1588219590.007000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zwvlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b7accf4-0be9-43de-bc81-de54cabf51f2",
+        "type": "message",
+        "text": "!!! Now you are messing with my head",
+        "user": "U012MTPDH98",
+        "ts": "1588219603.007800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Igmx3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "!!! Now you are messing with my head"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6b87cf2-9181-489d-b18d-d8265dbf0aae",
+        "type": "message",
+        "text": "What is an anklefuvet?",
+        "user": "U013BNX11CG",
+        "ts": "1588219610.008100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Fns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is an anklefuvet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a62a056a-6c75-4db3-90a4-97c1c6c23382",
+        "type": "message",
+        "text": "I think I'll create the discussion now. I have no idea what it is anklefuvet",
+        "user": "U0126U931AB",
+        "ts": "1588219628.008700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Utm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I'll create the discussion now. I have no idea what it is anklefuvet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d72c8872-d65a-4d03-866a-57186ce3551e",
+        "type": "message",
+        "text": "Must be something awesome if it reflects me.",
+        "user": "U013BNX11CG",
+        "ts": "1588219635.008900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Must be something awesome if it reflects me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7258d6b1-72a2-4d26-8923-1fa84b536645",
+        "type": "message",
+        "text": "I thought it was a portmanteux (sp?) of duvet and feather, + ankle.",
+        "user": "U012MTPDH98",
+        "ts": "1588219663.009400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BA3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought it was a portmanteux (sp?) of duvet and feather, + ankle."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96c2f299-893e-4dea-9573-f6b668469f3b",
+        "type": "message",
+        "text": "A small duvet to keep your ankle warm",
+        "user": "U012MTPDH98",
+        "ts": "1588219673.009700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agpy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A small duvet to keep your ankle warm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9a979fb-4b26-4e21-a819-4604490c0d0a",
+        "type": "message",
+        "text": "Right....................",
+        "user": "U013BNX11CG",
+        "ts": "1588219681.009900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z1Yg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right...................."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0aab971e-65e0-441a-8da5-3969454c7093",
+        "type": "message",
+        "text": "Pretty awesome, you are correct",
+        "user": "U012MTPDH98",
+        "ts": "1588219701.010200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretty awesome, you are correct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92e9163f-4ad4-4139-8c3c-3666c62ecf93",
+        "type": "message",
+        "text": "WHoops! Just home ... am I too late",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220185.010500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pfY4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WHoops! Just home ... am I too late"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55c0f810-178f-4e60-9e7b-9955f21c777a",
+        "type": "message",
+        "text": "Yes",
+        "user": "U013BNX11CG",
+        "ts": "1588220194.010700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8exEy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fe0ad61-e0a5-44b8-a8a0-623f0de2744d",
+        "type": "message",
+        "text": "Kidding!",
+        "user": "U013BNX11CG",
+        "ts": "1588220204.011000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kidding!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8736dc66-bf32-4017-9a43-c06b7b12d047",
+        "type": "message",
+        "text": "A general observation <@U0126U931AB>, one disadvantage is that it seems to me you can't see if others are responding in real time",
+        "user": "U012MTPDH98",
+        "ts": "1588220784.011700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fM3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A general observation "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0126U931AB"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", one disadvantage is that it seems to me you can't see if others are responding in real time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d805477-80b1-40ae-b0e7-6a25e7f475d9",
+        "type": "message",
+        "text": "What do you mean?",
+        "user": "U0126U931AB",
+        "ts": "1588220809.012100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EZAT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb912fac-341c-4e75-a6e5-1a991ee5a265",
+        "type": "message",
+        "text": "Now it's time to figure out what a nationalyuity is",
+        "user": "U012MTPDH98",
+        "ts": "1588220815.012400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSo7H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now it's time to figure out what a nationalyuity is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e7fdcb4-e104-4ce3-860f-2bf33708cf2a",
+        "type": "message",
+        "text": "Like typing?",
+        "user": "U0126U931AB",
+        "ts": "1588220815.012500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "izZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like typing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff6bd90d-5939-4d3f-acca-8b34d483002c",
+        "type": "message",
+        "text": "Yeah, it's hard to tell if someone is listening\/typing or gone to make coffee",
+        "user": "U012MTPDH98",
+        "ts": "1588220845.013100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it's hard to tell if someone is listening\/typing or gone to make coffee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ba93a58-798d-40a8-a95b-14eed7d18cc0",
+        "type": "message",
+        "text": "Or late...",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220854.013300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mP7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or late..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e550be1-fad2-4d39-acac-14ee193ca339",
+        "type": "message",
+        "text": "*sorry*",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220862.013600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OfQ0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd9ec8db-fae5-45a7-83f5-56aeef66f835",
+        "type": "message",
+        "text": "It says down the bottom if someone is typing.",
+        "user": "U013BNX11CG",
+        "ts": "1588220872.014000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJ6JQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It says down the bottom if someone is typing."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aba85bff-c560-40b5-a976-205a42975a29",
+        "type": "message",
+        "text": "Right. Thanks for letting me know",
+        "user": "U0126U931AB",
+        "ts": "1588220876.014300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right. Thanks for letting me know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e36d12c0-4e06-409f-84ed-c0281be7b898",
+        "type": "message",
+        "text": "Oh, I see that now, thanks",
+        "user": "U012MTPDH98",
+        "ts": "1588220889.015100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SOKX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, I see that now, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013BNX11CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54a1e142-8391-4fba-95a6-2ffaa76baff5",
+        "type": "message",
+        "text": "Can I ask if giving the \"thumbs up\" makes sense? As in the purpose of it and when you're meant to do it?",
+        "user": "U0126U931AB",
+        "ts": "1588220929.016100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WNFU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I ask if giving the \"thumbs up\" makes sense? As in the purpose of it and when you're meant to do it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a8f84f2-dbe4-4362-8103-544ecfb842dc",
+        "type": "message",
+        "text": "Can I ask what the benefit of pinning that message is.  The thumb signal is fine, but you lose the thread scrolling around trying to find where the button is, which I tend to be pushing on and off quite a lot",
+        "user": "U012MTPDH98",
+        "ts": "1588220983.017300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VZBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I ask what the benefit of pinning that message is.  The thumb signal is fine, but you lose the thread scrolling around trying to find where the button is, which I tend to be pushing on and off quite a lot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6E6171CA-77EA-478B-B953-D5071EF1C74D",
+        "type": "message",
+        "text": "It makes sense but I have to scroll all the way back up to it, don’t see an option to bring it down\/easy access on my phone ",
+        "user": "U0130GKUGCR",
+        "ts": "1588221012.018200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+khv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It makes sense but I have to scroll all the way back up to it, don’t see an option to bring it down\/easy access on my phone "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "914f8bb0-c7c7-4681-86dd-8fb991f2be09",
+        "type": "message",
+        "text": "Well the message is pinned so you can click on it and it immediately takes you to it",
+        "user": "U0126U931AB",
+        "ts": "1588221030.018800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BiCH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well the message is pinned so you can click on it and it immediately takes you to it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d46397a-9e6b-43a1-a2ce-1c3ee70d1fa7",
+        "type": "message",
+        "text": "Under 'details' it has 'pinned items'",
+        "user": "U0126U931AB",
+        "ts": "1588221048.019800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Under 'details' it has 'pinned items'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a4e4051-5a09-48d5-bc8e-a730308c5aa6",
+        "type": "message",
+        "text": "We seem to check if everyone is in agreement anyway. So, I do not know if we need it.",
+        "user": "U013BNX11CG",
+        "ts": "1588221064.020400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+=c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We seem to check if everyone is in agreement anyway. So, I do not know if we need it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c57f2f99-63a8-491d-8b62-71fcc64b4b6c",
+        "type": "message",
+        "text": "I get confused about when to push the thumbs up button ,,, but am getting the hang of it now.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221071.020700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a6Su",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I get confused about when to push the thumbs up button ,,, but am getting the hang of it now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a55f8e37-068c-412c-a97f-81c47320ee94",
+        "type": "message",
+        "text": "Yeah I had it showing to the side, but didn't take it to the next level of navigating back",
+        "user": "U012MTPDH98",
+        "ts": "1588221077.020900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtwz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I had it showing to the side, but didn't take it to the next level of navigating back"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54E5D905-ABD2-4A35-93FC-5FDEBA61F25D",
+        "type": "message",
+        "text": "I have found how to get to it on my phone now, thanks :blush:",
+        "user": "U0130GKUGCR",
+        "ts": "1588221129.021400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UsDZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have found how to get to it on my phone now, thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "366cda03-6fb6-4c55-b2b8-8055c5f8b56d",
+        "type": "message",
+        "text": "Yea on the phone it's a bit different and harder to find",
+        "user": "U0126U931AB",
+        "ts": "1588221168.022300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3r1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yea on the phone it's a bit different and harder to find"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F012RV18JHK",
+                "created": 1588221200,
+                "timestamp": 1588221200,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U012MTPDH98",
+                "editable": false,
+                "size": 2224260,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T012MLD722E-F012RV18JHK\/image.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T012MLD722E-F012RV18JHK\/download\/image.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_64.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_80.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_360.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 234,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_480.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 312,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_160.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_720.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 468,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_800.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 520,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_960.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 623,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012RV18JHK-9463676523\/image_1024.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 665,
+                "original_w": 1024,
+                "original_h": 665,
+                "thumb_tiny": "AwAfADCNgGI+anBo1XjPHqaDGgclc59CaJFZ1JIwPYVN7hYkWQMeORUTNTYmVCRnj+EUFzg4GR3NVewmhVkJPNLu54B600NHjJyPoc07CjB38fSlzDsxXZWclQcHpgVGWyc7jj3phjaJjzwKlUB3U4pARkFCGBDZ6U9lEi\/MCGqRrZiNwOO3NNaN4hywOOoFNeYmn0IDGSQeRmpEYBdpUEe9L5RmAYEAjuakEIXA359eKdtRK9j\/2Q==",
+                "permalink": "https:\/\/juryroomteststudy.slack.com\/files\/U012MTPDH98\/F012RV18JHK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T012MLD722E-F012RV18JHK-78c62536f9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U012MTPDH98",
+        "display_as_bot": false,
+        "ts": "1588221205.023700",
+        "client_msg_id": "ccd36c4c-1656-4ba0-94cf-32c910814970"
+    },
+    {
+        "client_msg_id": "33c36bd2-c78a-4323-a9ad-c944b6c039b1",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> the idea of when to push it is difficult to put into word",
+        "user": "U0126U931AB",
+        "ts": "1588221206.024100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " the idea of when to push it is difficult to put into word"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ef745b3-c4e0-4a2d-9900-dcab85070c18",
+        "type": "message",
+        "text": "The instructions about it were: Welcome to the study! The goal of this discussion is for you to try to reach a consensus on the topic: Ketchup vs Mustard. In order to reach a consensus, the \"I agree!” message above has been pinned to the top of the discussion. Please give this message a “thumbs up” when you are happy with the state of the discussion, i.e, when you are in agreement, and when you believe the topic has been resolved. Remove the “thumbs up” when you are unhappy with the state of discussion. You can easily find this post by clicking on “details”, and then “Pinned Items”. This may be different on mobile devices. If you have trouble finding it, please contact me privately to ask for help. This can be done on Slack under the “Direct messages” section on the left of screen. We ask that you refrain from posting images, and that all things mentioned in this discussion are done with the intent to reach a consensus and not done to jeopardize the study",
+        "user": "U0126U931AB",
+        "ts": "1588221238.024800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kwgg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The instructions about it were: Welcome to the study! The goal of this discussion is for you to try to reach a consensus on the topic: Ketchup vs Mustard. In order to reach a consensus, the \"I agree!” message above has been pinned to the top of the discussion. Please give this message a “thumbs up” when you are happy with the state of the discussion, i.e, when you are in agreement, and when you believe the topic has been resolved. Remove the “thumbs up” when you are unhappy with the state of discussion. You can easily find this post by clicking on “details”, and then “Pinned Items”. This may be different on mobile devices. If you have trouble finding it, please contact me privately to ask for help. This can be done on Slack under the “Direct messages” section on the left of screen. We ask that you refrain from posting images, and that all things mentioned in this discussion are done with the intent to reach a consensus and not done to jeopardize the study"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb94ef18-9107-489a-8ede-41a7f6ac599e",
+        "type": "message",
+        "text": "So............... beautiful...........",
+        "user": "U013BNX11CG",
+        "ts": "1588221243.025000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCrm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So............... beautiful..........."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F012CJPRC31",
+                "created": 1588221268,
+                "timestamp": 1588221268,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U012MTPDH98",
+                "editable": false,
+                "size": 548559,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T012MLD722E-F012CJPRC31\/image.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T012MLD722E-F012CJPRC31\/download\/image.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012CJPRC31-7523c97721\/image_64.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012CJPRC31-7523c97721\/image_80.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012CJPRC31-7523c97721\/image_360.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T012MLD722E-F012CJPRC31-7523c97721\/image_160.png?t=xoxe-1089693240082-1098606976499-1097018077509-bdf700b9a3006bb32b2284654502575c",
+                "original_w": 474,
+                "original_h": 355,
+                "thumb_tiny": "AwAjADCMu7KCTuHambxj3pxqPKFsfkazExCxU\/KatHAttxYZxVcIGHXOKcCMFdpHv2NUhocYmdSxY5yO\/WnXFuyqpLb2LYAxTVBIJ+X2xSs0oIPJ28jPNFxioN+D\/OnPFGQS3XHUCmxn5G7NUcgO7IzuaptqJIlESmMEnnAGfxp2FAO0\/gKrEseA31p6hgCwPtwcVVmVZomUD+8PoRSTEhfb1zmhdoHKkn\/eoJRuNv8A49QiehFbk+aaS8dhIAGIGM0W\/wDrTTb3\/XD6VQIZEB5bHvmgk\/KM9QDSxf6p\/qKQ9U+goL+yTxMTGcnNKDnGabD9ynDt9aCT\/9k=",
+                "permalink": "https:\/\/juryroomteststudy.slack.com\/files\/U012MTPDH98\/F012CJPRC31\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T012MLD722E-F012CJPRC31-2a502252a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U012MTPDH98",
+        "display_as_bot": false,
+        "ts": "1588221271.025400",
+        "client_msg_id": "146cd4d7-44de-4903-aa04-5699b11a5530"
+    },
+    {
+        "client_msg_id": "7408562d-867e-4a7f-9cc5-15dde9332d37",
+        "type": "message",
+        "text": ":heart:",
+        "user": "U012MTPDH98",
+        "ts": "1588221295.026600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfadfe67-10f4-4374-ace5-e77f407d0475",
+        "type": "message",
+        "text": "I changed those instructions a little because the other day <@U012MTPDH98> gave the thumbs up but then decided the discussion hadn't really reached a conclusion",
+        "user": "U0126U931AB",
+        "ts": "1588221300.027000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "crv3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I changed those instructions a little because the other day "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012MTPDH98"
+                            },
+                            {
+                                "type": "text",
+                                "text": " gave the thumbs up but then decided the discussion hadn't really reached a conclusion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40C6F692-B8A1-416D-876F-CA5EDB13AE39",
+        "type": "message",
+        "text": "I find the conversation changes quite quickly to go back and forth between liking and unliking...",
+        "user": "U0130GKUGCR",
+        "ts": "1588221324.027600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dE0XQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I find the conversation changes quite quickly to go back and forth between liking and unliking..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab77493a-d5ce-4ca9-8652-24293443fa3c",
+        "type": "message",
+        "text": "True",
+        "user": "U012MTPDH98",
+        "ts": "1588221331.028100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OU0f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fd20cf3-d9df-4cd4-9f44-be5b31da146b",
+        "type": "message",
+        "text": "Agreed.",
+        "user": "U013BNX11CG",
+        "ts": "1588221340.028500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sEh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "136d6913-e517-4449-9105-69acec35ff2d",
+        "type": "message",
+        "text": "Usually a lag",
+        "user": "U012MTPDH98",
+        "ts": "1588221340.028600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bHRn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Usually a lag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7206d10-ea6d-427b-aedf-3892ddee2bda",
+        "type": "message",
+        "text": "Wait.....Is this another study question?",
+        "user": "U013BNX11CG",
+        "ts": "1588221370.030100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pt8o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait.....Is this another study question?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c677905f-2edd-4805-b1a4-5f8213ca0208",
+        "type": "message",
+        "text": "No I'm just asking questions. We could do another discussion if you guys feel like discussing sweet vs savoury",
+        "user": "U0126U931AB",
+        "ts": "1588221411.031300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sgGIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No I'm just asking questions. We could do another discussion if you guys feel like discussing sweet vs savoury"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62f3390e-56ba-4c6f-bad1-9bc238c70f16",
+        "type": "message",
+        "text": "That is one of the difficulties for me - we appear to reach a consensus, then the conversation goes off topic or someone introduces an alternative point of view that may cause me to no longer agree with the final statement given .... nice bromeliads!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221424.031700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is one of the difficulties for me - we appear to reach a consensus, then the conversation goes off topic or someone introduces an alternative point of view that may cause me to no longer agree with the final statement given .... nice bromeliads!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0da73802-a224-4814-9792-1b5b152d6e84",
+        "type": "message",
+        "text": "Here's a question... taking all factors into account, what is the best garden plant?",
+        "user": "U012MTPDH98",
+        "ts": "1588221441.032000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LKm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's a question... taking all factors into account, what is the best garden plant?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3af297cb-bf29-48c8-ad72-61aa59888cc7",
+        "type": "message",
+        "text": "Like that <@U012U3HJ0FN>",
+        "user": "U012MTPDH98",
+        "ts": "1588221448.032200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like that "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99706773-0760-470d-9340-936b44690416",
+        "type": "message",
+        "text": "Yup!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221460.032500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c3c3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da0b6d20-1b96-4e0a-ae8b-c3418b44866a",
+        "type": "message",
+        "text": "A fruit tree",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221471.033000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QdLA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A fruit tree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7450c23-b7a2-46a1-83c4-96406ebd653b",
+        "type": "message",
+        "text": "Plum",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221481.033500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dA=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plum"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dfcaa2de-cfa1-4a38-bf1b-7d2ae3d484e8",
+        "type": "message",
+        "text": "Ok I'm going to start a discussion",
+        "user": "U0126U931AB",
+        "ts": "1588221487.034000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPjj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok I'm going to start a discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "033f8b98-2ecd-4da4-9f30-d1aea6580e44",
+        "type": "message",
+        "text": "Flowers, shade, food",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221491.034200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFL4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Flowers, shade, food"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16fb299e-8c70-43b8-983d-c70636cd8a14",
+        "type": "message",
+        "text": "Ok",
+        "user": "U013BNX11CG",
+        "ts": "1588221495.034600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WfHPm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0df0ad9-ed3e-4dd2-b6ae-9a52e573cc3b",
+        "type": "message",
+        "text": "In the Garden of Eden...",
+        "user": "U012MTPDH98",
+        "ts": "1588221497.034700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ExR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the Garden of Eden..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f214865-603f-4f86-9508-d808e0931f61",
+        "type": "message",
+        "text": "Plum not apple",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221506.034900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8Qg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Plum not apple"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb26f139-1172-4a09-8470-1c2de5a349f9",
+        "type": "message",
+        "text": "... God placed plants \"pleasing to the eye and good for food.\"",
+        "user": "U012MTPDH98",
+        "ts": "1588221535.035600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "... God placed plants \"pleasing to the eye and good for food.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0e5e2d5-ab05-47fd-9b86-2a6aa14ca842",
+        "type": "message",
+        "text": "(I know the species of fruit is not stated in Genesis)",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221543.035900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H91",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(I know the species of fruit is not stated in Genesis)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6614aa0-6c25-42fc-bea1-2e26f08889b9",
+        "type": "message",
+        "text": "So I take it the best plants can cover both dimensions.",
+        "user": "U012MTPDH98",
+        "ts": "1588221561.036300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vih",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I take it the best plants can cover both dimensions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b123bad6-1360-49b7-982c-d9fa32e5d664",
+        "type": "message",
+        "text": "Like a pineapple, for instance",
+        "user": "U012MTPDH98",
+        "ts": "1588221568.036600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1UnF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like a pineapple, for instance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc84ecf8-96f7-44e7-b606-5bc8fd33ce84",
+        "type": "message",
+        "text": "I think a Chinese quince is a fine garden plant, for instance.",
+        "user": "U012MTPDH98",
+        "ts": "1588221585.037000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iGr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think a Chinese quince is a fine garden plant, for instance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abd29567-3363-4eff-b400-ab3a1e062544",
+        "type": "message",
+        "text": "Multicoloured and interesting bark, bright fruit and autumn colours, plus something you can eat",
+        "user": "U012MTPDH98",
+        "ts": "1588221610.037500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FHj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Multicoloured and interesting bark, bright fruit and autumn colours, plus something you can eat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

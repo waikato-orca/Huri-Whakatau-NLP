@@ -1,0 +1,238 @@
+[
+    {
+        "client_msg_id": "68bd7456-1e1c-4304-8546-4b60560733d1",
+        "type": "message",
+        "text": "Should children have mechanical devices like headphones?",
+        "user": "U013RL95ZL1",
+        "ts": "1589440947.000500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dg+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should children have mechanical devices like headphones?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05a7cf8c-0f81-4af5-a79a-ddfc968be956",
+        "type": "message",
+        "text": "Knackerkitten are you able to go to discussion3",
+        "user": "U013HQYVAF6",
+        "ts": "1589440983.001000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLunm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Knackerkitten are you able to go to discussion3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ac0b0c3-f42f-4316-9fc6-2c6ae6530eef",
+        "type": "message",
+        "text": "<#C013EGL5SGN|discussion3>",
+        "user": "U013HQYVAF6",
+        "ts": "1589440987.001200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jCbhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C013EGL5SGN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a55de6a9-5a94-4709-a1f0-0e6694b130a8",
+        "type": "message",
+        "text": "@I I am trying to go to discussion 3 <@U013HQYVAF6>",
+        "user": "U013RL95ZL1",
+        "ts": "1589441071.001800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FIfF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@I I am trying to go to discussion 3 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013HQYVAF6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6dcbdbfd-ec71-4e39-9883-8896cbf3a05f",
+        "type": "message",
+        "text": "If you click on <#C013EGL5SGN|discussion3>",
+        "user": "U013HQYVAF6",
+        "ts": "1589441092.002100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you click on "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C013EGL5SGN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b0c0c25-f9b1-4401-9b66-c62634dbafe3",
+        "type": "message",
+        "text": "Yes, it was bodacious, dude.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442748.002700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cYi9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, it was bodacious, dude."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

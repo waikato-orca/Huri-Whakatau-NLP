@@ -1,0 +1,3083 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588221536.000200",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1588221537.000300",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> set the channel purpose: Which is more pleasing to the taste buds?",
+        "purpose": "Which is more pleasing to the taste buds?"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588221550.000500",
+        "user": "U013BNX11CG",
+        "text": "<@U013BNX11CG> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588221550.000700",
+        "user": "U0130GKUGCR",
+        "text": "<@U0130GKUGCR> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588221551.000900",
+        "user": "U012U3HJ0FN",
+        "text": "<@U012U3HJ0FN> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588221551.001100",
+        "user": "U012MTPDH98",
+        "text": "<@U012MTPDH98> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "client_msg_id": "83d50536-6de8-4858-bd05-272e8ff67867",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U0126U931AB",
+        "ts": "1588221560.001300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KYPKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012MTPDH98",
+                    "U013BNX11CG",
+                    "U0130GKUGCR",
+                    "U012U3HJ0FN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91ECBF51-4CC3-4B96-85CF-6B1E7D627C29",
+        "type": "message",
+        "text": "Well, I’m a sweet tooth, and I already know I’m going to be the minority...",
+        "user": "U0130GKUGCR",
+        "ts": "1588221588.002300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9vPc9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, I’m a sweet tooth, and I already know I’m going to be the minority..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40474392-a225-465a-8b60-bd0ba71421bd",
+        "type": "message",
+        "text": "Sweet and sour is the perfect sauce as it caters for both",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221591.002600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=OV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet and sour is the perfect sauce as it caters for both"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3d71313-0412-4483-a68a-4afbed01fa1b",
+        "type": "message",
+        "text": "Savoury because you can eat more of it without getting sick.",
+        "user": "U013BNX11CG",
+        "ts": "1588221617.002900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uVxQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Savoury because you can eat more of it without getting sick."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1872cc88-beaa-4c3c-8633-4f1a824b067e",
+        "type": "message",
+        "text": "Unless you want to lose weight ...",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221647.003900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0VE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unless you want to lose weight ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29589709-0a2a-4b5d-bd94-1799bb597677",
+        "type": "message",
+        "text": "Yes",
+        "user": "U013BNX11CG",
+        "ts": "1588221669.004400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2EVI5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DFC82824-46F8-4DE5-8827-E6A80F1278C8",
+        "type": "message",
+        "text": "But sweet releases greater endorphins and fills you up at the same time. Dark chocolate even has healthy benefits :wink:",
+        "user": "U0130GKUGCR",
+        "ts": "1588221700.005200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FlYPx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But sweet releases greater endorphins and fills you up at the same time. Dark chocolate even has healthy benefits "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2b63b36-f3db-4721-9c9f-6b8bf44d8dc6",
+        "type": "message",
+        "text": "Hmmm, there are many foods both sweet and savoury, when you stop to think...",
+        "user": "U012MTPDH98",
+        "ts": "1588221702.005400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5utg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm, there are many foods both sweet and savoury, when you stop to think..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "452f5eb2-f5c7-42ae-90e6-f7ac2fe8c8fb",
+        "type": "message",
+        "text": "Like a McDonald's bun",
+        "user": "U012MTPDH98",
+        "ts": "1588221713.005700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "66x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like a McDonald's bun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6371712c-c881-4363-8fed-9b6537aeb615",
+        "type": "message",
+        "text": "Ketchup",
+        "user": "U012MTPDH98",
+        "ts": "1588221716.006000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BYTj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ketchup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce33839d-b3f6-40ff-8305-e65d79e3914f",
+        "type": "message",
+        "text": "Salted caramel",
+        "user": "U012MTPDH98",
+        "ts": "1588221732.006300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vSCyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salted caramel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce75043b-9585-4edf-85ae-cac4d6e551e4",
+        "type": "message",
+        "text": "I have a fine cook friend who is Thai",
+        "user": "U012MTPDH98",
+        "ts": "1588221747.006900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YC0cO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a fine cook friend who is Thai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd507e75-c37e-4459-989b-039c7d1f03f2",
+        "type": "message",
+        "text": "This is a very hard one. I like both!",
+        "user": "U013BNX11CG",
+        "ts": "1588221748.007100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zSUW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is a very hard one. I like both!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8e63d1f-f80c-4d41-a585-5493fce3c785",
+        "type": "message",
+        "text": "He thinks all food needs a bit of both or its boring",
+        "user": "U012MTPDH98",
+        "ts": "1588221760.007400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRghN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He thinks all food needs a bit of both or its boring"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ba62796-d23c-4dcc-896a-12b4564936c3",
+        "type": "message",
+        "text": "Sweet and sour is one of my favorite flavours.",
+        "user": "U013BNX11CG",
+        "ts": "1588221784.008800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+Vk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet and sour is one of my favorite flavours."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa924a51-7f43-484c-b6ef-f9fb53404967",
+        "type": "message",
+        "text": "As with some others, this question seems to pose a false dichotomy",
+        "user": "U012MTPDH98",
+        "ts": "1588221794.009400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vZw0x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As with some others, this question seems to pose a false dichotomy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69586f59-3417-486a-bac1-200a86ad399c",
+        "type": "message",
+        "text": "A two-course meal?",
+        "user": "U012MTPDH98",
+        "ts": "1588221805.009800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cnp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A two-course meal?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8191DF2E-5D40-4CA4-AAD3-00E7227ACF33",
+        "type": "message",
+        "text": "I would be happy to agree that most people prefer savoury and could handle more savoury foods at a time than sweet, despite preferring sweet",
+        "user": "U0130GKUGCR",
+        "ts": "1588221809.010000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NHqs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would be happy to agree that most people prefer savoury and could handle more savoury foods at a time than sweet, despite preferring sweet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17387200-466a-43fa-9fcf-f786113e43e0",
+        "type": "message",
+        "text": "It's all about context.  One goes with coffee, another with gravy",
+        "user": "U012MTPDH98",
+        "ts": "1588221850.011500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QV8gE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's all about context.  One goes with coffee, another with gravy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f597d657-2d9c-4962-a2b4-f7802898679e",
+        "type": "message",
+        "text": "Who would go for potato chips over lollies.",
+        "user": "U013BNX11CG",
+        "ts": "1588221887.013100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "le2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who would go for potato chips over lollies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3467dcf-49fe-421a-84fa-40ad8388bd2b",
+        "type": "message",
+        "text": "?",
+        "user": "U013BNX11CG",
+        "ts": "1588221891.013400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "967d7e32-06f7-4a89-98dd-428d509acc29",
+        "type": "message",
+        "text": "Scientifically speaking, I think there would be few foods without at least trace levels of both carbohydrates and salt",
+        "user": "U012MTPDH98",
+        "ts": "1588221909.014000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZFdjE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scientifically speaking, I think there would be few foods without at least trace levels of both carbohydrates and salt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de05dc7d-69ac-4781-9950-d31f2cc4c29c",
+        "type": "message",
+        "text": "if both were on the table.",
+        "user": "U013BNX11CG",
+        "ts": "1588221916.014600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if both were on the table."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fa09d73-2afc-4387-a4a0-08dcf0213a79",
+        "type": "message",
+        "text": "I used to work with someone who mixed chocolate and chips in a bowl for her work snacks.  She was also a good cook",
+        "user": "U012MTPDH98",
+        "ts": "1588221937.015600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VWva",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I used to work with someone who mixed chocolate and chips in a bowl for her work snacks.  She was also a good cook"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e57e2be3-7ae0-40d0-a434-4b7a899081ba",
+        "type": "message",
+        "text": "Hmmm is savoury food better for us because it is lower in diabetes-inducing, cancer-feeding saccharides?  If this is the case, regardless of taste, savoury should be preferred over sweet.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221938.015700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm is savoury food better for us because it is lower in diabetes-inducing, cancer-feeding saccharides?  If this is the case, regardless of taste, savoury should be preferred over sweet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93D1B0B3-FF6F-4714-8BC1-F6882017CF76",
+        "type": "message",
+        "text": "Depends what kind lollies :stuck_out_tongue_winking_eye:",
+        "user": "U0130GKUGCR",
+        "ts": "1588221956.016500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SnQv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depends what kind lollies "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cf5066d-2d44-4e75-8f8c-93ef914089dd",
+        "type": "message",
+        "text": "Pretzels dipped in white chocolate. Absolutely delicious.",
+        "user": "U012MTPDH98",
+        "ts": "1588221972.017300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sm3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pretzels dipped in white chocolate. Absolutely delicious."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f0220be-f045-456b-845c-70799f3edbce",
+        "type": "message",
+        "text": "Salt and vinegar chips over lollies every time ... until the lining of my mouth peels off from the acid. Then lollies.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588221989.018100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNyQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Salt and vinegar chips over lollies every time ... until the lining of my mouth peels off from the acid. Then lollies."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3859c0c5-57d2-48e7-975c-cc24c295bc6e",
+        "type": "message",
+        "text": "True, say fruit bursts?",
+        "user": "U013BNX11CG",
+        "ts": "1588221990.018300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZ1DS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True, say fruit bursts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "808281a6-1b02-4563-be4c-4d9f1883f27c",
+        "type": "message",
+        "text": "On health basis, agreed savoury is better.",
+        "user": "U012MTPDH98",
+        "ts": "1588221994.018400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kSNN5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On health basis, agreed savoury is better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cec246c5-4e5a-45b1-a4fc-feadfef45967",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> Yes!",
+        "user": "U013BNX11CG",
+        "ts": "1588222001.018600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+Wb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A93495FD-D28E-4DC3-966A-49B4F6AB74B1",
+        "type": "message",
+        "text": "I would go for the lollies tbh",
+        "user": "U0130GKUGCR",
+        "ts": "1588222081.020900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j3Cv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would go for the lollies tbh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2183b36d-bb25-4c7b-81de-0feeb95edd99",
+        "type": "message",
+        "text": "So can we put the taste preferences to one side and reach consensus of savoury over sweet because we can eat more savoury food (sans MSG) with greater health benefits than we can sweet foods?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222102.022200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VXI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So can we put the taste preferences to one side and reach consensus of savoury over sweet because we can eat more savoury food (sans MSG) with greater health benefits than we can sweet foods?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ECAFDAC0-41FF-4AA6-9C3D-1A40C7C57FCD",
+        "type": "message",
+        "text": "But I like the idea of considering health, savoury is someone better for health, but you can’t forget large quantities of salt isn’t great either ",
+        "user": "U0130GKUGCR",
+        "ts": "1588222117.023200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnTK8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I like the idea of considering health, savoury is someone better for health, but you can’t forget large quantities of salt isn’t great either "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7aab6178-2300-402b-8be5-d67d9d9747fd",
+        "type": "message",
+        "text": "Well, based on flavour we are not going to get a consensus I think.",
+        "user": "U013BNX11CG",
+        "ts": "1588222124.023400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UfU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, based on flavour we are not going to get a consensus I think."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f9e0c46-961a-4ea9-8782-ffe0a5f584d6",
+        "type": "message",
+        "text": "You do not need to put salt on carrot sticks.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222142.024000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "26apE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You do not need to put salt on carrot sticks."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5570fe50-5b7b-4301-853a-ef0e1105051a",
+        "type": "message",
+        "text": "Daniel Kahneman says that decision-making powers decrease predictably in line with time since last snack.  I think we are seeing that in this discussion.",
+        "user": "U012MTPDH98",
+        "ts": "1588222148.024300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Daniel Kahneman says that decision-making powers decrease predictably in line with time since last snack.  I think we are seeing that in this discussion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D754E176-59B2-466F-BD8E-005B8246020D",
+        "type": "message",
+        "text": "Carrots are sweet :sweat_smile:",
+        "user": "U0130GKUGCR",
+        "ts": "1588222153.024700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pom",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Carrots are sweet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b3c15f9-357d-4c50-9936-92595fc7f9b2",
+        "type": "message",
+        "text": "Agreed.",
+        "user": "U012MTPDH98",
+        "ts": "1588222176.025600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFEo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b605b94-0be3-4c20-9af8-d36159444728",
+        "type": "message",
+        "text": "Not when compared to HFCS filled marshmallows!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222194.026300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+1iK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not when compared to HFCS filled marshmallows!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97e28df5-8d53-4199-8771-39ab4bced2bf",
+        "type": "message",
+        "text": "I am not sure about the healthiness of both, but excess carbs of any kind is bad for everyone.",
+        "user": "U013BNX11CG",
+        "ts": "1588222201.026400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WMM5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am not sure about the healthiness of both, but excess carbs of any kind is bad for everyone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4abbda8b-39e7-4a18-a7c0-6ec947ce7a9c",
+        "type": "message",
+        "text": "Unless you are seriously under weight.",
+        "user": "U013BNX11CG",
+        "ts": "1588222222.027100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X7X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unless you are seriously under weight."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45a67c36-3876-43eb-a5fc-71620c590ccf",
+        "type": "message",
+        "text": "HFCS.  Hydrofluorocarbons?",
+        "user": "U012MTPDH98",
+        "ts": "1588222225.027300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K+u1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HFCS.  Hydrofluorocarbons?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41e617e4-9bed-442e-b050-6616e81a3499",
+        "type": "message",
+        "text": "You do not need to put salt on celery sticks either.  High Fructose Corn Syrup.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222253.028500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8bhr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You do not need to put salt on celery sticks either.  High Fructose Corn Syrup."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57cbe858-15cc-4a93-b9cd-6572d3b8bb86",
+        "type": "message",
+        "text": "We could pull the \"should not ague about taste\" like we did on the pizzas.",
+        "user": "U013BNX11CG",
+        "ts": "1588222269.028900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swNuC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could pull the \"should not ague about taste\" like we did on the pizzas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "835d0920-63c7-4762-b6bd-c25e7ea7e312",
+        "type": "message",
+        "text": "argue",
+        "user": "U013BNX11CG",
+        "ts": "1588222280.029500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7B8hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "argue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B76A2748-83ED-4643-9884-614BB65BB31F",
+        "type": "message",
+        "text": "Okay taste aside, I think\/agree savoury is more beneficial",
+        "user": "U0130GKUGCR",
+        "ts": "1588222282.029700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "elQFh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay taste aside, I think\/agree savoury is more beneficial"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "411527ff-8ae4-4347-9baa-52986e4dc5a8",
+        "type": "message",
+        "text": "But it is legitimate to argue about health benefits, I think savoury more beneficial",
+        "user": "U012MTPDH98",
+        "ts": "1588222297.030400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ePtQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it is legitimate to argue about health benefits, I think savoury more beneficial"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a276c1db-3e79-4e8b-a333-ee9c028dce9b",
+        "type": "message",
+        "text": "Agreed",
+        "user": "U013BNX11CG",
+        "ts": "1588222303.030600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "73H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec435e45-dd98-4bd0-9290-ba8dcfb045ba",
+        "type": "message",
+        "text": "From a health benefit basis, low-fat, low salt savoury food is better than high saccharide sweet food? (It pains me to say this!)",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222330.031500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BPZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From a health benefit basis, low-fat, low salt savoury food is better than high saccharide sweet food? (It pains me to say this!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9bf3cd1-28fc-494b-a6d9-545bb57545c5",
+        "type": "message",
+        "text": "Agreed! Savoury wins.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222355.032000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGEMZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed! Savoury wins."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b796027-2fd4-4426-83c0-86a6babd259b",
+        "type": "message",
+        "text": "I think we may be reaching a consensus?",
+        "user": "U013BNX11CG",
+        "ts": "1588222355.032100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we may be reaching a consensus?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42f48428-844b-45f1-a7f1-a1801561d35a",
+        "type": "message",
+        "text": "Are we done?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222407.032500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x7kv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we done?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6355e9b6-d74b-44f6-9a40-93d022d36671",
+        "type": "message",
+        "text": "We have four yeses.",
+        "user": "U013BNX11CG",
+        "ts": "1588222431.033300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SwD6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have four yeses."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a53197c1-1769-45ac-b6b8-d810136a7bed",
+        "type": "message",
+        "text": "I am.  Going to get some caramel slice now.",
+        "user": "U012MTPDH98",
+        "ts": "1588222437.033700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zkzAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am.  Going to get some caramel slice now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9691571e-8269-42e2-8b3c-3ffc635bc3fc",
+        "type": "message",
+        "text": "Hooray!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222438.033800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aTPW6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hooray!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3aec3a99-90ec-432a-be65-e6dc5dcad570",
+        "type": "message",
+        "text": "Great",
+        "user": "U0126U931AB",
+        "ts": "1588222449.034600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YeN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7d26b00-01e3-4060-b3e8-9df50e4e4e4a",
+        "type": "message",
+        "text": "<@U0126U931AB> do you need anything more from us?",
+        "user": "U012MTPDH98",
+        "ts": "1588222454.034900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "84nzs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0126U931AB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you need anything more from us?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e84901f-d5c8-407b-86e7-815125177b2e",
+        "type": "message",
+        "text": "This seems to be done.",
+        "user": "U0126U931AB",
+        "ts": "1588222455.035200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R1DA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This seems to be done."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b572622-0b21-4c8c-9ef0-30ed5b099b89",
+        "type": "message",
+        "text": "Sweet peoples!",
+        "user": "U013BNX11CG",
+        "ts": "1588222464.035700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUTI7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sweet peoples!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0ecad1a-7aba-4009-badf-c9f981b8afde",
+        "type": "message",
+        "text": "I'm off to scoff my Hawaiian pizza with a marshmallow chaser.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222469.036000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rnh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm off to scoff my Hawaiian pizza with a marshmallow chaser."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1baa956a-de74-474e-a93c-69fa0e786bf1",
+        "type": "message",
+        "text": "Can I just ask if having this split over two sessions is preferred to doing it all in one go?",
+        "user": "U0126U931AB",
+        "ts": "1588222479.036200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7osb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can I just ask if having this split over two sessions is preferred to doing it all in one go?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b1c1b54-af05-48ff-af26-a1ab1afb1f74",
+        "type": "message",
+        "text": "I think it is better, though one session is not impossible.",
+        "user": "U013BNX11CG",
+        "ts": "1588222508.037600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mDFt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it is better, though one session is not impossible."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b12a8489-ee03-467e-bb5e-d0423b789ecf",
+        "type": "message",
+        "text": "Definitely.  Your brain has a limited bandwidth for concentrated work, needs to be topped up regularly.",
+        "user": "U012MTPDH98",
+        "ts": "1588222518.038300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ttSjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely.  Your brain has a limited bandwidth for concentrated work, needs to be topped up regularly."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0457132f-4ef1-4fcc-af82-5538c38c9272",
+        "type": "message",
+        "text": "Probably two sessions was easier to manage ... even with late arrivals (sorry)",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222524.038600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C=lIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Probably two sessions was easier to manage ... even with late arrivals (sorry)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "382c983a-67d3-4ebf-a275-0b927f40a323",
+        "type": "message",
+        "text": "Believe it or not, your brain runs on glucose",
+        "user": "U012MTPDH98",
+        "ts": "1588222533.038900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I1H3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Believe it or not, your brain runs on glucose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c180092e-125c-43bd-aff0-bed1990f4d41",
+        "type": "message",
+        "text": "That's what I understand, anyway.",
+        "user": "U012MTPDH98",
+        "ts": "1588222545.039500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r3z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's what I understand, anyway."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7688b663-6cd9-4b10-b891-c59a75acab2f",
+        "type": "message",
+        "text": "Sadly true (chomping marshmallows - the new brain food!)",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222557.040400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C0Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sadly true (chomping marshmallows - the new brain food!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "027bf417-bb27-46fd-9a29-10bf4dcc1a47",
+        "type": "message",
+        "text": "So sweet things have some value",
+        "user": "U012MTPDH98",
+        "ts": "1588222563.040700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O4om\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So sweet things have some value"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6f547fc-46aa-4f19-8083-ead6a83263f0",
+        "type": "message",
+        "text": "Ok. Well thanks for participating guys. Hope you enjoyed it",
+        "user": "U0126U931AB",
+        "ts": "1588222602.042300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NMET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok. Well thanks for participating guys. Hope you enjoyed it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "702023DE-05D8-47EE-85D6-DF4D295BD242",
+        "type": "message",
+        "text": "Agreed with all of those, two sessions help with concentration. You’re welcome!",
+        "user": "U0130GKUGCR",
+        "ts": "1588222613.043200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FPR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed with all of those, two sessions help with concentration. You’re welcome!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "764a637f-d956-4e4c-a54c-090e104ef879",
+        "type": "message",
+        "text": "Thanks Alex!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222613.043300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Alex!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "284f63f3-ded7-47fc-b9c0-fafe0cea17b7",
+        "type": "message",
+        "text": "Cheers. It was fun!",
+        "user": "U013BNX11CG",
+        "ts": "1588222614.043500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3F9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cheers. It was fun!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fa7a661-5f47-4770-a480-68e41613047b",
+        "type": "message",
+        "text": "Ok thanks Alex.",
+        "user": "U012MTPDH98",
+        "ts": "1588222618.043700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H8B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok thanks Alex."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f94f89d0-5e96-45a7-9848-f20be2c08170",
+        "type": "message",
+        "text": "See you round.",
+        "user": "U012MTPDH98",
+        "ts": "1588222631.044100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t4+h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See you round."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBF403FD-5D10-4644-B2D1-00C9960F23D1",
+        "type": "message",
+        "text": "Bye strangers!",
+        "user": "U0130GKUGCR",
+        "ts": "1588222642.044800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bye strangers!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7071746-3e08-48d3-9b57-a6104556af81",
+        "type": "message",
+        "text": "Awesome. You have been a great help to me",
+        "user": "U0126U931AB",
+        "ts": "1588222645.044900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Q5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Awesome. You have been a great help to me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b929a65d-b714-47e0-993f-090469cedb35",
+        "type": "message",
+        "text": "Bye everyone.",
+        "user": "U012MTPDH98",
+        "ts": "1588222651.045100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ello",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bye everyone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c6a02fe-3e69-47fb-b301-44fe3dc9866a",
+        "type": "message",
+        "text": ":wave:",
+        "user": "U012U3HJ0FN",
+        "ts": "1588222677.045300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

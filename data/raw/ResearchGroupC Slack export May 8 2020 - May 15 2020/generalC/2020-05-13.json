@@ -1,0 +1,1588 @@
+[
+    {
+        "client_msg_id": "eb63df1b-ad15-4759-bfec-4cc99873912f",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U013A8TCPDK",
+        "ts": "1589416786.000600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U013A8TCPDK",
+            "ts": "1589418213.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0uUl1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013A8TCPDK",
+                    "U013KDVS71B",
+                    "U013M1S8U67",
+                    "U014AL8CUSU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2afde8f2-af7a-4343-bf9d-b63db561f249",
+        "type": "message",
+        "text": "Test message 2",
+        "user": "U013A8TCPDK",
+        "ts": "1589416788.000800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTwNv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01001860-9b41-4eee-ba04-d31301ac6a10",
+        "type": "message",
+        "text": "Test message 3",
+        "user": "U013A8TCPDK",
+        "ts": "1589416790.001000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDh8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "addfda09-d92d-49f8-a8a0-efdf81216b4d",
+        "type": "message",
+        "text": "Test message 4",
+        "user": "U013A8TCPDK",
+        "ts": "1589416791.001200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMGHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfb2d8a9-69f7-4ba9-9fac-a0c487b9214b",
+        "type": "message",
+        "text": "Test message 5",
+        "user": "U013A8TCPDK",
+        "ts": "1589416793.001400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGog",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d006ebde-cab3-439e-83ad-0a52ea730f10",
+        "type": "message",
+        "text": "Test message 6",
+        "user": "U013A8TCPDK",
+        "ts": "1589416795.001600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "idJH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea9c87a4-7802-4115-92d5-5cfffb8b196d",
+        "type": "message",
+        "text": "Test message 7",
+        "user": "U013A8TCPDK",
+        "ts": "1589416798.001800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dY0kL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b50e20e-ec12-4266-be15-4df2c2b8ce2d",
+        "type": "message",
+        "text": "Test message 8",
+        "user": "U013A8TCPDK",
+        "ts": "1589416799.002000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQs0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22fc8740-271a-4fc3-b5b0-fe9c2d60044b",
+        "type": "message",
+        "text": "Test message 9",
+        "user": "U013A8TCPDK",
+        "ts": "1589416801.002200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKeM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7ca10c3-2ce2-4ff6-99a2-3ad2a2ccea70",
+        "type": "message",
+        "text": "Test message 10",
+        "user": "U013A8TCPDK",
+        "ts": "1589416804.002400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9I8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ff09505-2e70-4ce2-9205-d218b39aa2bb",
+        "type": "message",
+        "text": "Test message 11",
+        "user": "U013A8TCPDK",
+        "ts": "1589416808.002600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 11"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47984eba-81ce-49ae-b6b9-5659e7225a88",
+        "type": "message",
+        "text": "Test message 12",
+        "user": "U013A8TCPDK",
+        "ts": "1589416811.002800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5u5u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d93ad52-5989-4172-8cfe-8b322c8d45b3",
+        "type": "message",
+        "text": "Test message 13",
+        "user": "U013A8TCPDK",
+        "ts": "1589416814.003000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9os",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 13"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7a6619f-4d44-40d1-bfdd-c9c1ec8c4b12",
+        "type": "message",
+        "text": "Test message 14",
+        "user": "U013A8TCPDK",
+        "ts": "1589416816.003200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xBHxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 14"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50844e32-0d24-4b23-8d6a-dfff753a4522",
+        "type": "message",
+        "text": "Test message 15",
+        "user": "U013A8TCPDK",
+        "ts": "1589416817.003400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e7fcb8c-c10f-447d-87df-9a536154cf63",
+        "type": "message",
+        "text": "Test message 16",
+        "user": "U013A8TCPDK",
+        "ts": "1589416820.003600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 16"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8bdfee1-95f6-409d-83f5-b42cf2bcbb2d",
+        "type": "message",
+        "text": "Test message 17",
+        "user": "U013A8TCPDK",
+        "ts": "1589416823.003800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iUOv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 17"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30f2ea87-1580-4976-9303-95b85da82a0d",
+        "type": "message",
+        "text": "Test message 18",
+        "user": "U013A8TCPDK",
+        "ts": "1589416825.004000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dwq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 18"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "106db66d-d516-4599-a28d-97bb4f895b6b",
+        "type": "message",
+        "text": "Test message 19",
+        "user": "U013A8TCPDK",
+        "ts": "1589416827.004200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=4pEt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcc82713-22cb-41e9-abfd-2083282f269e",
+        "type": "message",
+        "text": "Test message 20",
+        "user": "U013A8TCPDK",
+        "ts": "1589416830.004400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "huv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589416842.004500",
+        "user": "U013A8TCPDK",
+        "text": "<@U013A8TCPDK> set the channel topic: Questions about the study can be asked here.",
+        "topic": "Questions about the study can be asked here."
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589416869.004600",
+        "user": "U013A8TCPDK",
+        "text": "<@U013A8TCPDK> set the channel purpose: Questions can be asked here",
+        "purpose": "Questions can be asked here"
+    },
+    {
+        "client_msg_id": "83bf4070-b7ae-451b-9938-4a3718000c11",
+        "type": "message",
+        "text": "Test message 21",
+        "user": "U013A8TCPDK",
+        "ts": "1589416878.004800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eyzi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74b3b972-c941-4be8-a43e-a7859c63baaa",
+        "type": "message",
+        "text": "Test message 22",
+        "user": "U013A8TCPDK",
+        "ts": "1589416883.005000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3R1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Test message 22"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589417568.005100",
+        "user": "U014AL8B2TA",
+        "text": "<@U014AL8B2TA> has joined the channel"
+    },
+    {
+        "client_msg_id": "881bea7c-f390-4050-ae1b-ae9c1e1e7ee1",
+        "type": "message",
+        "text": "Welcome to the study! The goal for each of the 4 discussions is for you to attempt to reach a consensus on the given topic. Each discussion will be in a new channel. When you believe the topic of discussion has reached a satisfactory conclusion and you agree with it, please send a message with a ‘thumbs up’. If you have any difficulty with anything, you can message me privately at any time via the “Direct messages” section, left of screen.",
+        "user": "U013A8TCPDK",
+        "ts": "1589418188.005300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HwAP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the study! The goal for each of the 4 discussions is for you to attempt to reach a consensus on the given topic. Each discussion will be in a new channel. When you believe the topic of discussion has reached a satisfactory conclusion and you agree with it, please send a message with a ‘thumbs up’. If you have any difficulty with anything, you can message me privately at any time via the “Direct messages” section, left of screen."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c4ce093-a1e3-4d67-b2c9-9e3f6af8c2b3",
+        "type": "message",
+        "text": ":ok_hand::skin-tone-5:",
+        "user": "U014AL8B2TA",
+        "ts": "1589418696.006000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xCu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589431467.000100",
+        "user": "U014AL8CUSU",
+        "text": "<@U014AL8CUSU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589435751.000200",
+        "user": "U013M1S8U67",
+        "text": "<@U013M1S8U67> has joined the channel"
+    },
+    {
+        "client_msg_id": "8e015b25-9add-4cc2-8462-b3ae93bb068e",
+        "type": "message",
+        "text": "HI - I'm here!",
+        "user": "U014AL8CUSU",
+        "ts": "1589435931.000400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vx\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HI - I'm here!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589435943.000500",
+        "user": "U013KDVS71B",
+        "text": "<@U013KDVS71B> has joined the channel"
+    },
+    {
+        "client_msg_id": "236e3b2a-632c-487b-a82e-b29923146d8f",
+        "type": "message",
+        "text": "Hello people, I believe almost everyone is here",
+        "user": "U013A8TCPDK",
+        "ts": "1589436014.000900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello people, I believe almost everyone is here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed349b3a-2ab3-4976-9726-07e2de8cc69c",
+        "type": "message",
+        "text": "Hey!",
+        "user": "U014AL8B2TA",
+        "ts": "1589436097.001400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29bac774-d44a-466c-9eee-6b52fbb6758b",
+        "type": "message",
+        "text": "So welcome to this study. Does the welcome message above make sense to people?",
+        "user": "U013A8TCPDK",
+        "ts": "1589436126.002100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So welcome to this study. Does the welcome message above make sense to people?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013KDVS71B",
+                    "U014AL8CUSU",
+                    "U013M1S8U67"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45471412-04c0-4f53-a04d-bde2f4abb56a",
+        "type": "message",
+        "text": "So before we start the first discussion, it would be good if each of you could give a thumbs up to the pinned comment in this channel",
+        "user": "U013A8TCPDK",
+        "ts": "1589436200.003400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dw8r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So before we start the first discussion, it would be good if each of you could give a thumbs up to the pinned comment in this channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae98d137-4306-4cae-b073-cfdadab602f4",
+        "type": "message",
+        "text": "Could everyone do that now please? If you need help you can go to the help desk channels for either mobile or pc",
+        "user": "U013A8TCPDK",
+        "ts": "1589436238.004400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J5k5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could everyone do that now please? If you need help you can go to the help desk channels for either mobile or pc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc11f5a8-6a48-403c-baed-056248295216",
+        "type": "message",
+        "text": "Great. magnetmussel a yellow thumbs up would be preferred but I guess that works as well",
+        "user": "U013A8TCPDK",
+        "ts": "1589436289.005200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Apz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great. magnetmussel a yellow thumbs up would be preferred but I guess that works as well"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12f83758-6c74-4c48-b45d-176a961470b1",
+        "type": "message",
+        "text": "So everyone understands that you should do that \"When you believe the topic of discussion has reached a satisfactory conclusion and you agree with it\"? And when you disagree, you can remove it again. Does that all make sense?",
+        "user": "U013A8TCPDK",
+        "ts": "1589436362.006500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X6mK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So everyone understands that you should do that \"When you believe the topic of discussion has reached a satisfactory conclusion and you agree with it\"? And when you disagree, you can remove it again. Does that all make sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013KDVS71B",
+                    "U013M1S8U67"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a46ddee0-c5b8-4e74-b1fc-37beee49bbf7",
+        "type": "message",
+        "text": "Cool, so I will create the first discussion channel now and we can get started",
+        "user": "U013A8TCPDK",
+        "ts": "1589436406.007500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KewXi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool, so I will create the first discussion channel now and we can get started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "111db751-8c2d-44a2-97bb-7affa5b45284",
+        "type": "message",
+        "text": "Let's do this!",
+        "user": "U014AL8B2TA",
+        "ts": "1589436414.007800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bVSPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let's do this!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40b8da06-daac-4cd0-b59a-e8d0ab5116c6",
+        "type": "message",
+        "text": "consensus with 3 minutes to spare!",
+        "user": "U013KDVS71B",
+        "ts": "1589437661.008400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jTt62",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "consensus with 3 minutes to spare!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52dc6b8d-c6aa-4dc5-b5d3-92457a885664",
+        "type": "message",
+        "text": "Whoop whoop!",
+        "user": "U014AL8CUSU",
+        "ts": "1589437670.008700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whoop whoop!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33c6e575-77e6-40f2-89d3-1ce639def013",
+        "type": "message",
+        "text": "I will now create the next discussion and you will have until 7 to discuss that. Also feel free to take a mini break if you need to",
+        "user": "U013A8TCPDK",
+        "ts": "1589437720.009900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will now create the next discussion and you will have until 7 to discuss that. Also feel free to take a mini break if you need to"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9e18b50-8859-4ab6-b5e7-2218e6ecf506",
+        "type": "message",
+        "text": "I feel like I'll need some kind of cleanse after that. haha",
+        "user": "U014AL8B2TA",
+        "ts": "1589437788.010200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iInfA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like I'll need some kind of cleanse after that. haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013KDVS71B",
+                    "U014AL8B2TA"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

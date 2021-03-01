@@ -1,0 +1,245 @@
+[
+    {
+        "client_msg_id": "3ab85d51-526b-4e04-b211-4c2e14cf7f12",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U013HQYVAF6",
+        "ts": "1589154925.000200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJa\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013HQYVAF6",
+                    "U01369TSH9C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U013D1YDVGS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2ad3df4-579c-4c36-97cb-d487b2c5beba",
+        "type": "message",
+        "text": "Welcome to the study! The goal for each of the 4 discussions is for you to attempt to reach a consensus on the given topic. Each discussion will be in a new channel. When you believe the topic of discussion has reached a satisfactory conclusion and you agree with it, please send a message with a ‘thumbs up’. If you have any difficulty with anything, you can message me privately at any time via the “Direct messages” section, left of screen.",
+        "user": "U013HQYVAF6",
+        "ts": "1589162077.001500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U013HQYVAF6",
+            "ts": "1589182441.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFC\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the study! The goal for each of the 4 discussions is for you to attempt to reach a consensus on the given topic. Each discussion will be in a new channel. When you believe the topic of discussion has reached a satisfactory conclusion and you agree with it, please send a message with a ‘thumbs up’. If you have any difficulty with anything, you can message me privately at any time via the “Direct messages” section, left of screen."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589168242.000100",
+        "user": "U013RL95ZL1",
+        "text": "<@U013RL95ZL1> has joined the channel"
+    },
+    {
+        "client_msg_id": "a5c2c6d5-1379-419c-bbaf-3a4cc8d64e5a",
+        "type": "message",
+        "text": ":dancer: Just arrived!",
+        "user": "U013RL95ZL1",
+        "ts": "1589168620.000200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "dancer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Just arrived!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589174030.000100",
+        "user": "U01369TSH9C",
+        "text": "<@U01369TSH9C> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589176198.000100",
+        "user": "U013D1YDVGS",
+        "text": "<@U013D1YDVGS> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589178469.000300",
+        "user": "U013D1YD2NN",
+        "text": "<@U013D1YD2NN> has joined the channel"
+    },
+    {
+        "client_msg_id": "55629549-05f0-46c7-9488-e78a6b39238d",
+        "type": "message",
+        "text": "Hi",
+        "user": "U013D1YD2NN",
+        "ts": "1589178620.000400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o1Y2+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d391cf7-dca3-4769-8e0b-4cbfbfed7c5f",
+        "type": "message",
+        "text": "good evening",
+        "user": "U013D1YDVGS",
+        "ts": "1589179976.000700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ezpa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good evening"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

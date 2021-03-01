@@ -1,0 +1,1950 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589182694.001300",
+        "user": "U013HQYVAF6",
+        "text": "<@U013HQYVAF6> set the channel topic: What should we worry about with the emergence of intelligent machines?",
+        "topic": "What should we worry about with the emergence of intelligent machines?"
+    },
+    {
+        "client_msg_id": "45c46279-43cb-4b2f-9f13-6ae8ef27b967",
+        "type": "message",
+        "text": "What should we worry about with the emergence of intelligent machines? With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?",
+        "user": "U013HQYVAF6",
+        "ts": "1589182702.001500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CqKA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What should we worry about with the emergence of intelligent machines? With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a224f615-1606-45ae-bcab-d7fc52f0beb8",
+        "type": "message",
+        "text": "Ok that's the description above",
+        "user": "U013HQYVAF6",
+        "ts": "1589182712.001800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CmX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok that's the description above"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9765978b-0fe4-4d89-ab64-37ff01591349",
+        "type": "message",
+        "text": "<@U013RL95ZL1> The problem with intelligent machines is that they are not human.",
+        "user": "U013RL95ZL1",
+        "ts": "1589182759.002500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MioX+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013RL95ZL1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The problem with intelligent machines is that they are not human."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc9db6f4-dae6-4930-bcc3-458ed4c9550a",
+        "type": "message",
+        "text": "isn't that a good thing too?",
+        "user": "U013D1YDVGS",
+        "ts": "1589182840.004100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vtr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "isn't that a good thing too?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1ba15a8-403e-4897-9486-b16432a2d74e",
+        "type": "message",
+        "text": "Thinking specifically in relation to AI being used in health care...technology is useful but shouldn't replace a human nurse\/carer.",
+        "user": "U013D1YD2NN",
+        "ts": "1589182874.005600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AS5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thinking specifically in relation to AI being used in health care...technology is useful but shouldn't replace a human nurse\/carer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1126117e-6102-4a49-8739-649c4ac25d83",
+        "type": "message",
+        "text": "I believe the only concern is the need for humans to upskill in order to work alongside machinery. This could be difficult in areas that have been traditionally less technical",
+        "user": "U01369TSH9C",
+        "ts": "1589182941.008000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "88Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe the only concern is the need for humans to upskill in order to work alongside machinery. This could be difficult in areas that have been traditionally less technical"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34c00a62-f4d7-444d-9f40-05cc4411c2bd",
+        "type": "message",
+        "text": "<@U013RL95ZL1> Human beings have a moral sense which cannot be taught to machines.",
+        "user": "U013RL95ZL1",
+        "ts": "1589182949.008300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9qLlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013RL95ZL1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Human beings have a moral sense which cannot be taught to machines."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e81531b-e26f-4bdd-be24-f28f11cb263e",
+        "type": "message",
+        "text": "True",
+        "user": "U013D1YD2NN",
+        "ts": "1589182955.008500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=CRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2831e81-4d05-4295-ae71-436b2411b5b5",
+        "type": "message",
+        "text": "Wouldn't we agree that the tech in our phones, that make so many things easier for us, is a good thing?",
+        "user": "U013D1YDVGS",
+        "ts": "1589182959.008600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "joYK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wouldn't we agree that the tech in our phones, that make so many things easier for us, is a good thing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "043ddb1a-c192-4d8b-93f2-5349d5678c52",
+        "type": "message",
+        "text": "Yes but at the same time, you loose touch with reality too easily",
+        "user": "U013D1YD2NN",
+        "ts": "1589182991.009900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lfW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes but at the same time, you loose touch with reality too easily"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b035901-0fe5-4dab-8bab-3d4e7734429a",
+        "type": "message",
+        "text": "how? example'",
+        "user": "U013D1YDVGS",
+        "ts": "1589183010.010900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/YmU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how? example'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "257a8e95-48f2-4e6e-8aaf-6e62476a22fc",
+        "type": "message",
+        "text": "<@U013D1YDVGS> <@U013RL95ZL1> Tech stuff is good so long as it serves the needs of humanity, so long as what humanity needs is rational and sane.",
+        "user": "U013RL95ZL1",
+        "ts": "1589183023.011300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdb=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013RL95ZL1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Tech stuff is good so long as it serves the needs of humanity, so long as what humanity needs is rational and sane."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f8beb04-9024-46e3-9d63-8732a61c953d",
+        "type": "message",
+        "text": "that's true - the whole point",
+        "user": "U013D1YDVGS",
+        "ts": "1589183043.012100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fTu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's true - the whole point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bc956c1-1041-4699-962d-40c65e735db6",
+        "type": "message",
+        "text": "<@U013RL95ZL1> You're right",
+        "user": "U013D1YD2NN",
+        "ts": "1589183063.013300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FOyH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013RL95ZL1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You're right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b587a6c-b85d-4aab-887d-b6e53db38363",
+        "type": "message",
+        "text": "So the issue isn't really about the AI itself but humanity and its selfish or benevolent drives",
+        "user": "U013D1YDVGS",
+        "ts": "1589183078.014400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vYo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So the issue isn't really about the AI itself but humanity and its selfish or benevolent drives"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ebe5c4e-0416-4b41-8a62-8c1eaac41939",
+        "type": "message",
+        "text": "Is it possible that we worry the machines will logically conclude that many of the decisions we make are not rational",
+        "user": "U01369TSH9C",
+        "ts": "1589183088.014800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it possible that we worry the machines will logically conclude that many of the decisions we make are not rational"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c61a831d-cc4f-4750-89e0-29d64d693026",
+        "type": "message",
+        "text": "haha, yep",
+        "user": "U013D1YDVGS",
+        "ts": "1589183108.015400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jyU9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha, yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87360291-92a1-42d6-9fd4-bdc8f464bb9e",
+        "type": "message",
+        "text": "I guess so...AI could be used by humans in an irrational manner",
+        "user": "U013D1YD2NN",
+        "ts": "1589183111.015500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/I=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess so...AI could be used by humans in an irrational manner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c693dd62-555d-45bf-a0a6-8a84d2e5dc77",
+        "type": "message",
+        "text": "<@U013D1YD2NN> Yes, but AI would not have the ability to tell that what is being asked is irrational.",
+        "user": "U013RL95ZL1",
+        "ts": "1589183169.016900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YD2NN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, but AI would not have the ability to tell that what is being asked is irrational."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2e1962d-47d0-452d-b8f6-7949147bad01",
+        "type": "message",
+        "text": "Surely it would. Isn't that what artificial intelligence is all about?",
+        "user": "U01369TSH9C",
+        "ts": "1589183198.017700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wa30d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Surely it would. Isn't that what artificial intelligence is all about?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7975f177-1448-4304-be22-e8d1662d191f",
+        "type": "message",
+        "text": "I was meaning it in reply to <@U013D1YDVGS>",
+        "user": "U013D1YD2NN",
+        "ts": "1589183200.017900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6uD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was meaning it in reply to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25947eb0-e9d4-46c1-8f5c-4fc11897623c",
+        "type": "message",
+        "text": "And with a moral\/spiritual sense of self removed from the decision making then it could conclude that?",
+        "user": "U01369TSH9C",
+        "ts": "1589183252.020300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EavX1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And with a moral\/spiritual sense of self removed from the decision making then it could conclude that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae9e614b-2742-463d-9551-0346e8e95821",
+        "type": "message",
+        "text": "I don't think AI can ever be more intelligent than a human mind...after all it is created and therefore not as intelligent than the creator",
+        "user": "U013D1YD2NN",
+        "ts": "1589183275.021100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jzY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think AI can ever be more intelligent than a human mind...after all it is created and therefore not as intelligent than the creator"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f55f85e-ba48-469c-bd2a-c56f66466567",
+        "type": "message",
+        "text": "<@U013RL95ZL1> Very well said, individual mind",
+        "user": "U013RL95ZL1",
+        "ts": "1589183311.022000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4gyeU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013RL95ZL1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Very well said, individual mind"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04c46d63-3a26-4675-9f88-549520b89ffc",
+        "type": "message",
+        "text": "Ok so the actual topic is whether the further development of AI something to worry about",
+        "user": "U013D1YD2NN",
+        "ts": "1589183388.023800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok so the actual topic is whether the further development of AI something to worry about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b0fb41e-4041-4265-869c-43eab1cc7e7e",
+        "type": "message",
+        "text": "I think it is because of the whole loosing touch with reality",
+        "user": "U013D1YD2NN",
+        "ts": "1589183429.025600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWHh3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it is because of the whole loosing touch with reality"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05364ca4-450e-4d56-95e6-92f522e95596",
+        "type": "message",
+        "text": "Seems we are all agreed that there is some concern",
+        "user": "U01369TSH9C",
+        "ts": "1589183462.027400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t968",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seems we are all agreed that there is some concern"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e96fdf48-9cee-47ee-ba90-c9d48544a34d",
+        "type": "message",
+        "text": "<@U013RL95ZL1> It's not so much the development of AI, but its use.  The use of nuclear power to make  a weapon is a case in point",
+        "user": "U013RL95ZL1",
+        "ts": "1589183487.028400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013RL95ZL1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It's not so much the development of AI, but its use.  The use of nuclear power to make  a weapon is a case in point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "347c104f-9e02-4c8c-8dce-074bf4f27e7d",
+        "type": "message",
+        "text": "A difficulty in topic is name hitech machines as sing artificial \"intelligence\"  - its not 'intelligence' at all. Mathematicians and neurologists tell us we are a whole quantum jump away from developing computers that can be creative like people can. But they CAN do a lot of those menial tasks... (comes back to helping people to upskill as they loose their jobs to AI",
+        "user": "U013D1YDVGS",
+        "ts": "1589183496.028600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "24rXc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A difficulty in topic is name hitech machines as sing artificial \"intelligence\"  - its not 'intelligence' at all. Mathematicians and neurologists tell us we are a whole quantum jump away from developing computers that can be creative like people can. But they CAN do a lot of those menial tasks... (comes back to helping people to upskill as they loose their jobs to AI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48442ed5-b558-4c5e-ba3d-e84dcca75f64",
+        "type": "message",
+        "text": "So machines are just like useful slaves, except that we don't have to treat them well.",
+        "user": "U013RL95ZL1",
+        "ts": "1589183563.029900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6mT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So machines are just like useful slaves, except that we don't have to treat them well."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "273811d4-93e8-49a6-93dd-325b1ecbd4da",
+        "type": "message",
+        "text": "yes",
+        "user": "U013D1YDVGS",
+        "ts": "1589183596.030600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4mZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1dbb51b-8af9-4294-bac4-7329e58f0ade",
+        "type": "message",
+        "text": "True but at the same time it could have the potential to give those with more power the ability to do harm to those with less power. So although it could be helpful I think the concern outweighs the benefit",
+        "user": "U013D1YD2NN",
+        "ts": "1589183614.031000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True but at the same time it could have the potential to give those with more power the ability to do harm to those with less power. So although it could be helpful I think the concern outweighs the benefit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "593c84e6-df4b-4d96-8da5-34b2775059ae",
+        "type": "message",
+        "text": "There is 10 minutes remaining in the discussion",
+        "user": "U013HQYVAF6",
+        "ts": "1589183670.031700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8P6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is 10 minutes remaining in the discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93364d69-0dce-476f-96c8-397d8cbccdb2",
+        "type": "message",
+        "text": "original question: \"Is this something to be 'concerned' about? Surely we would all agree, that 'concern' would be helpful",
+        "user": "U013D1YDVGS",
+        "ts": "1589183692.032200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "original question: \"Is this something to be 'concerned' about? Surely we would all agree, that 'concern' would be helpful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3c387a4-2577-4126-b819-9898c89b8797",
+        "type": "message",
+        "text": "Could you elaborate a bit more on what it is helpful to\/with?",
+        "user": "U013D1YD2NN",
+        "ts": "1589183744.033700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ie5u8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could you elaborate a bit more on what it is helpful to\/with?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bc961f3-776d-469d-9c5b-aacedb2189e8",
+        "type": "message",
+        "text": "all i meant was that we would agree that we should be concerned, rather than not concerned",
+        "user": "U013D1YDVGS",
+        "ts": "1589183785.034800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sru",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "all i meant was that we would agree that we should be concerned, rather than not concerned"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e582bbef-6116-4972-8947-7558e8ae7846",
+        "type": "message",
+        "text": "Yup agreed",
+        "user": "U013D1YD2NN",
+        "ts": "1589183797.035300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lnoqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup agreed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c35f9df7-95f4-4ed7-97be-e8eba2ac259c",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U01369TSH9C",
+        "ts": "1589183799.035400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUNI3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f25a74e7-8987-4304-a36e-b1db1edd0bd9",
+        "type": "message",
+        "text": "If machines malfunction, the results can be disastrous on a huge scale, Chernobly, for example.  If we trust too much of our lives to machines, their malfunction may throw everything into chaos.",
+        "user": "U013RL95ZL1",
+        "ts": "1589183800.035500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7EQZ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If machines malfunction, the results can be disastrous on a huge scale, Chernobly, for example.  If we trust too much of our lives to machines, their malfunction may throw everything into chaos."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1990182-d2fd-40f1-ac02-863e0a60e154",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U013D1YD2NN",
+        "ts": "1589183818.035700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOKHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e0c1fa1-6935-452b-9155-9ddb3e849a3d",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U013D1YDVGS",
+        "ts": "1589183855.035900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rfXt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b031e81d-fe9e-4568-9530-9ae88a474f9b",
+        "type": "message",
+        "text": "chernoble was a people issue rather than a machine issue at the end of the day",
+        "user": "U013D1YDVGS",
+        "ts": "1589183888.036400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RSElg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "chernoble was a people issue rather than a machine issue at the end of the day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ce64b54-e100-4a85-88d9-f32988c27b61",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U013RL95ZL1",
+        "ts": "1589183918.036600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0if",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33c5cc84-7a30-424f-9f8c-908bb19ec2d7",
+        "type": "message",
+        "text": "This discussion has been concluded",
+        "user": "U013HQYVAF6",
+        "ts": "1589183948.037100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a3eJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This discussion has been concluded"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0892df4-1b91-49a2-be0a-5c227e62bd54",
+        "type": "message",
+        "text": "Thank you all heaps for participating. I'll send a reminder on Wednesday night for Thursday's session will see you all then.",
+        "user": "U013HQYVAF6",
+        "ts": "1589184028.038700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQ\/M4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you all heaps for participating. I'll send a reminder on Wednesday night for Thursday's session will see you all then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52f1e490-9ea4-4a99-a22f-b78e069fcec2",
+        "type": "message",
+        "text": "Ok, thank's Alex",
+        "user": "U013D1YD2NN",
+        "ts": "1589184043.039000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g88cf9d47d04",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/88cf9d47d043ff8e60acb066ec6e8dfb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "individual mind",
+            "display_name": "individual mind",
+            "team": "T0134TKKD4N",
+            "name": "00theprecious",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBAm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, thank's Alex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7e1779a-8077-43ae-8bee-710a35ab9454",
+        "type": "message",
+        "text": "Thanks, master.",
+        "user": "U013RL95ZL1",
+        "ts": "1589184054.039400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0hOcC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, master."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6eb11c91-13ec-415c-a62a-6798528cee9c",
+        "type": "message",
+        "text": "that was fun - thanks alex",
+        "user": "U013D1YDVGS",
+        "ts": "1589184057.039500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uY3N7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that was fun - thanks alex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77db4a3e-010c-44f7-9f7c-39864837659a",
+        "type": "message",
+        "text": "See you.",
+        "user": "U01369TSH9C",
+        "ts": "1589184068.039700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oA4EJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52cc2c1d-bcc7-4785-a825-b62699e064b7",
+        "type": "message",
+        "text": "Have a good night",
+        "user": "U013HQYVAF6",
+        "ts": "1589184075.039900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have a good night"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3881 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589582077.000200",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589582079.000300",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> set the channel purpose: Pineapple on Pizza: Is this a good combination?",
+        "purpose": "Pineapple on Pizza: Is this a good combination?"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589582083.000600",
+        "user": "U0130GFAT8X",
+        "text": "<@U0130GFAT8X> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589582084.000800",
+        "user": "U013F8V6ZH8",
+        "text": "<@U013F8V6ZH8> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589582084.001000",
+        "user": "U013MCC7XJ8",
+        "text": "<@U013MCC7XJ8> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589582084.001200",
+        "user": "U013ME40S6Q",
+        "text": "<@U013ME40S6Q> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589582085.001400",
+        "user": "U013TT5TDR7",
+        "text": "<@U013TT5TDR7> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "client_msg_id": "dc46115f-dcb8-4ff9-ba85-00856500d6f6",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U013HQRJLRJ",
+        "ts": "1589582090.001600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pFnnn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013ME40S6Q",
+                    "U0130GFAT8X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589582115.002100",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> set the channel topic: Pineapple on Pizza: Is this a good combination?",
+        "topic": "Pineapple on Pizza: Is this a good combination?"
+    },
+    {
+        "client_msg_id": "30f8a86e-862d-4377-b0af-bbe70a44e211",
+        "type": "message",
+        "text": "Okay, so, originally, pizza had just cheese and tomato sauce I believe, so I think you can argue that only tomato sauce and cheese belong on pizza, and all others are foreigners",
+        "user": "U013TT5TDR7",
+        "ts": "1589582136.002600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9\/\/Mj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, so, originally, pizza had just cheese and tomato sauce I believe, so I think you can argue that only tomato sauce and cheese belong on pizza, and all others are foreigners"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54bad5fc-57b6-4886-a1f5-9e97e47442be",
+        "type": "message",
+        "text": "Thus pineapple is not for pizza.\nHistorical pizza.",
+        "user": "U013TT5TDR7",
+        "ts": "1589582157.003000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thus pineapple is not for pizza.\nHistorical pizza."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "159506e9-352b-444e-ad63-ee86e62597a2",
+        "type": "message",
+        "text": "Yeah, I think if a case was to be made against pineapple, it would be based on history",
+        "user": "U0130GFAT8X",
+        "ts": "1589582216.003600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, I think if a case was to be made against pineapple, it would be based on history"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d47996a2-13e9-4e97-b079-804da8386872",
+        "type": "message",
+        "text": "For some people, also on taste, because they don't like pineapple.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582230.004000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ovp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For some people, also on taste, because they don't like pineapple."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5133ff72-6f45-4dad-a416-9f29373b4feb",
+        "type": "message",
+        "text": "But I enjoy it, including on pizza.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582240.004300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I enjoy it, including on pizza."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b40916a-f313-41ae-bd11-e86f255610b0",
+        "type": "message",
+        "text": "Pineapple on pizza is a good combination",
+        "user": "U013ME40S6Q",
+        "ts": "1589582278.005400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zHSX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pineapple on pizza is a good combination"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "342f1f3b-7fbb-4205-847d-8789f48fcd2d",
+        "type": "message",
+        "text": "Ew",
+        "user": "U013TT5TDR7",
+        "ts": "1589582283.005700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XlB6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ew"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19954d0a-39b6-4d2b-b4d3-667ad1233617",
+        "type": "message",
+        "text": "Well I don't really mind if there's pineapple on pizza.",
+        "user": "U013F8V6ZH8",
+        "ts": "1589582287.005900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vx5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well I don't really mind if there's pineapple on pizza."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6bba30f-530b-4e76-b048-2169c5007714",
+        "type": "message",
+        "text": "Especially if it goes with ham ... yummy.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582304.006600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sSmtV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Especially if it goes with ham ... yummy."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "775607a3-8bd5-4afb-9daa-004bd60e50ea",
+        "type": "message",
+        "text": "Okay, depends, what else are you putting with your pineapple?",
+        "user": "U013TT5TDR7",
+        "ts": "1589582311.006800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V3Lv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, depends, what else are you putting with your pineapple?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c860402b-4250-4a3c-bc8d-b67e3cc2d3fc",
+        "type": "message",
+        "text": "No, not ham!",
+        "user": "U013TT5TDR7",
+        "ts": "1589582314.007000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eo\/2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, not ham!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03357a1e-7796-4d9b-bf94-c286b8feee9e",
+        "type": "message",
+        "text": "It's a classic",
+        "user": "U0130GFAT8X",
+        "ts": "1589582331.007400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's a classic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "915b163c-a796-440a-95e9-f89f7aa158e1",
+        "type": "message",
+        "text": "I will accept a dessert pizza with pineapple, but no else!",
+        "user": "U013TT5TDR7",
+        "ts": "1589582337.007600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNY0r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will accept a dessert pizza with pineapple, but no else!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f200f381-a7f9-4dc5-9b8e-040ddf9cd824",
+        "type": "message",
+        "text": "Things can be classic and bad",
+        "user": "U013TT5TDR7",
+        "ts": "1589582359.008100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "81u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Things can be classic and bad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39e04c03-990d-4ea1-9405-40136570d125",
+        "type": "message",
+        "text": "so no fruit on pizza?",
+        "user": "U0130GFAT8X",
+        "ts": "1589582369.008500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6LJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so no fruit on pizza?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "005ee855-7fd5-4fe1-95a4-be07b6a9acc3",
+        "type": "message",
+        "text": "Tomato is a fruit",
+        "user": "U0130GFAT8X",
+        "ts": "1589582375.009000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tomato is a fruit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f4b45ac-217c-446a-8996-63cdaa67f3fa",
+        "type": "message",
+        "text": "Ahah",
+        "user": "U013ME40S6Q",
+        "ts": "1589582375.009100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6ja\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "974f0aeb-e4ad-4793-b608-b06c662c0145",
+        "type": "message",
+        "text": "No no, you can have fruit, but just as a dessert pizza without cheese and tomatoes and garlic etc.",
+        "user": "U013TT5TDR7",
+        "ts": "1589582393.009500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQ3ms",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No no, you can have fruit, but just as a dessert pizza without cheese and tomatoes and garlic etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7dacd5cf-481f-417a-999e-28bb6ef6abea",
+        "type": "message",
+        "text": "So fruit belongs on dessert pizza and tomato belongs on normal pizza?",
+        "user": "U0130GFAT8X",
+        "ts": "1589582451.010100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "34v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So fruit belongs on dessert pizza and tomato belongs on normal pizza?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589582451.010100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589582615.013600",
+        "reply_users": [
+            "U013TT5TDR7"
+        ],
+        "replies": [
+            {
+                "user": "U013TT5TDR7",
+                "ts": "1589582615.013600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d8b38310-12db-406f-abef-0862b3381f98",
+        "type": "message",
+        "text": "cheese and tomatoes and garlic etc. and pineapple",
+        "user": "U013ME40S6Q",
+        "ts": "1589582522.011200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HWm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cheese and tomatoes and garlic etc. and pineapple"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c1e2ce4-00ca-4895-9bad-cf096d1453a2",
+        "type": "message",
+        "text": "Sounds good",
+        "user": "U013ME40S6Q",
+        "ts": "1589582535.011600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6rS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4295d79c-4e32-4406-8012-0ae3d9860c73",
+        "type": "message",
+        "text": "Look, a tomato is a fruit just like whales are not fish\n\nEveryone recognises a distinction between tomatoes and other 'fruits', so let's go with that distinction in banning it from the dessert pizza",
+        "user": "U013TT5TDR7",
+        "ts": "1589582536.011800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1vU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Look, a tomato is a fruit just like whales are not fish\n\nEveryone recognises a distinction between tomatoes and other 'fruits', so let's go with that distinction in banning it from the dessert pizza"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U013TT5TDR7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aff6a76a-5bd5-429f-b63d-103e27a52fdb",
+        "type": "message",
+        "text": "When are you cooking it for us Borys",
+        "user": "U013ME40S6Q",
+        "ts": "1589582549.012100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uCF2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When are you cooking it for us Borys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8958e4bf-1aab-43a7-bd82-842449889477",
+        "type": "message",
+        "text": "You can have a virtual pizza, ahaha!",
+        "user": "U013TT5TDR7",
+        "ts": "1589582571.012400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can have a virtual pizza, ahaha!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U013TT5TDR7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5917c57-8f5e-41d5-9cf0-10029fbf5dd7",
+        "type": "message",
+        "text": "Get real",
+        "user": "U013ME40S6Q",
+        "ts": "1589582593.013000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jf1e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Get real"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f2b691a-949a-45ae-aa73-70f570faf85c",
+        "type": "message",
+        "text": "Give me real",
+        "user": "U013ME40S6Q",
+        "ts": "1589582598.013200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mp+tW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Give me real"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd30b3ae-4508-43bd-9b5d-942eb302320e",
+        "type": "message",
+        "text": "Yes",
+        "user": "U013TT5TDR7",
+        "ts": "1589582615.013600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/cTs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589582451.010100",
+        "parent_user_id": "U0130GFAT8X"
+    },
+    {
+        "client_msg_id": "bf111a99-d9be-47e3-8462-e7d80e14f6ca",
+        "type": "message",
+        "text": "I cannot do that now",
+        "user": "U013TT5TDR7",
+        "ts": "1589582638.014300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a9wZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I cannot do that now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5c98f3d-e1f4-41ab-9372-da88b57b963a",
+        "type": "message",
+        "text": "So tomato is not a normal fruit, and it has special permission to be on a normal pizza because of history.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582644.014700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JNvJ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So tomato is not a normal fruit, and it has special permission to be on a normal pizza because of history."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "698b3f4f-43f1-4537-92f7-088bd3779f35",
+        "type": "message",
+        "text": "Its level 2",
+        "user": "U013ME40S6Q",
+        "ts": "1589582647.014900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6p2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its level 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc0ab6af-ff56-4ca0-a8e1-29fa8cb0058d",
+        "type": "message",
+        "text": "I think its fine",
+        "user": "U013ME40S6Q",
+        "ts": "1589582661.015400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think its fine"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb1e7fab-0c25-49bd-a7e1-c06ed28b65a1",
+        "type": "message",
+        "text": "I that case, pineapple isn't a normal fruit either. It should also have special permission to be on a nomral pizza.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582671.016000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qe4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I that case, pineapple isn't a normal fruit either. It should also have special permission to be on a nomral pizza."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b6bc4e7-d8c9-4ce6-ac6b-d5345f6a9bdb",
+        "type": "message",
+        "text": "It as far more tradition behind it than, say, peach pizza.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582686.016800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=q5kb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It as far more tradition behind it than, say, peach pizza."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b99861db-fad6-458a-b191-5e0f680a816f",
+        "type": "message",
+        "text": "Yes, yes magpie, and likewise pineapple as a normal fruit is denied a place on a normal, savoury pizza, as should plum sauce also be denied, the heathens!",
+        "user": "U013TT5TDR7",
+        "ts": "1589582702.017300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nj9IZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, yes magpie, and likewise pineapple as a normal fruit is denied a place on a normal, savoury pizza, as should plum sauce also be denied, the heathens!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb906318-03fc-4095-b9c4-46162689ef15",
+        "type": "message",
+        "text": "No, pineapple is sweet and very unlike tomato such that it is not out of place in the fruit salad",
+        "user": "U013TT5TDR7",
+        "ts": "1589582734.018000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3wowc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, pineapple is sweet and very unlike tomato such that it is not out of place in the fruit salad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "812ee228-1925-4c3c-95c2-a90184c628b1",
+        "type": "message",
+        "text": "At one end of the scale is \"perfect for pizza\". At that end we have tomato.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582766.018700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At one end of the scale is \"perfect for pizza\". At that end we have tomato."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a18ad107-94fe-41d0-94bb-748be2aee87a",
+        "type": "message",
+        "text": "Tomato suce is sweet",
+        "user": "U013ME40S6Q",
+        "ts": "1589582771.018900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0JAr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tomato suce is sweet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0a284a7-00a3-4ebc-a47e-6bdb7bf90f2c",
+        "type": "message",
+        "text": "At the other end of the scale is peaches. They are weird and only for dessert pizzas.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582782.019500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2WJ6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At the other end of the scale is peaches. They are weird and only for dessert pizzas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f6d9998-ce01-4711-b201-c09e1b747ab5",
+        "type": "message",
+        "text": "Remember",
+        "user": "U013ME40S6Q",
+        "ts": "1589582782.019600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnit",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Remember"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6c64188-1aeb-4196-8a45-b8309b4594f0",
+        "type": "message",
+        "text": "Then put it on your cake!",
+        "user": "U013TT5TDR7",
+        "ts": "1589582784.019800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wu5g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then put it on your cake!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a93eceb6-fe14-4cb8-a890-b61838792500",
+        "type": "message",
+        "text": "Pinapple is in the middle. I would say more towards the tomato end.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582793.020200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cz7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pinapple is in the middle. I would say more towards the tomato end."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31629b90-673f-499f-8e1d-e21ad1afdf21",
+        "type": "message",
+        "text": "I would too",
+        "user": "U013ME40S6Q",
+        "ts": "1589582795.020400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "00nqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "944ffee4-bd5f-4000-9c5a-91382ee10af4",
+        "type": "message",
+        "text": "Have done too",
+        "user": "U013ME40S6Q",
+        "ts": "1589582809.020700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U2Iq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have done too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b019108c-130a-45de-a61b-ac43d308e8b3",
+        "type": "message",
+        "text": "Ham is friends with pineapple just like pork is friends with apple sauce.",
+        "user": "U0130GFAT8X",
+        "ts": "1589582854.021900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15dVi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ham is friends with pineapple just like pork is friends with apple sauce."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013F8V6ZH8",
+                    "U013ME40S6Q"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4582c05c-972f-4786-9b5d-fe50001e7b63",
+        "type": "message",
+        "text": "Nice",
+        "user": "U013ME40S6Q",
+        "ts": "1589582861.022200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJHk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e359aaa0-1ad1-4176-a1b8-34bdec6787e7",
+        "type": "message",
+        "text": "I am going to look up what specifically is unique about the tomato",
+        "user": "U013TT5TDR7",
+        "ts": "1589582861.022300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C773",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am going to look up what specifically is unique about the tomato"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf44cb6c-6d4c-4ebd-b90c-ff1827a0e445",
+        "type": "message",
+        "text": "No, say no to the ham!",
+        "user": "U013TT5TDR7",
+        "ts": "1589582883.023300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HgF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, say no to the ham!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "760c1016-846b-4290-b103-7b413b6af7c8",
+        "type": "message",
+        "text": "Therefore it is a good combination on pizza",
+        "user": "U013ME40S6Q",
+        "ts": "1589582884.023400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bcR=w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Therefore it is a good combination on pizza"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1b03ac0-338d-4131-a21f-883a16c3d5be",
+        "type": "message",
+        "text": "What do you have against ham???",
+        "user": "U013ME40S6Q",
+        "ts": "1589582905.023900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oc7jV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you have against ham???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab65636b-0b10-494b-b7fc-c07e0f6724ca",
+        "type": "message",
+        "text": "The wiki says it: \"While tomatoes are <https:\/\/en.wikipedia.org\/wiki\/Fruit|fruits>—<https:\/\/en.wikipedia.org\/wiki\/Botanically|botanically> classified as <https:\/\/en.wikipedia.org\/wiki\/Berry_(botany)|berries>—they are commonly used as a <https:\/\/en.wikipedia.org\/wiki\/Vegetable|vegetable> ingredient or <https:\/\/en.wikipedia.org\/wiki\/Side_dish|side dish>.<https:\/\/en.wikipedia.org\/wiki\/Tomato#cite_note-eb-3|[3]>\"\n\nI just don't like ham with pineapple and tomato, as I've been saying. Ham in itself can be okay sometimes",
+        "user": "U013TT5TDR7",
+        "ts": "1589582981.024900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HcVH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The wiki says it: \"While tomatoes are "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Fruit",
+                                "text": "fruits"
+                            },
+                            {
+                                "type": "text",
+                                "text": "—"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Botanically",
+                                "text": "botanically"
+                            },
+                            {
+                                "type": "text",
+                                "text": " classified as "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Berry_(botany)",
+                                "text": "berries"
+                            },
+                            {
+                                "type": "text",
+                                "text": "—they are commonly used as a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Vegetable",
+                                "text": "vegetable"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ingredient or "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Side_dish",
+                                "text": "side dish"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Tomato#cite_note-eb-3",
+                                "text": "[3]"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"\n\nI just don't like ham with pineapple and tomato, as I've been saying. Ham in itself can be okay sometimes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2da4f02e-8565-4f6c-a874-f262c07f11af",
+        "type": "message",
+        "text": "See, \"much lower sugar content\":\n\n\"However, the tomato is considered a \"<https:\/\/en.wikipedia.org\/wiki\/Vegetable#Terminology|culinary vegetable>\" because it has a much lower sugar content than <https:\/\/en.wikipedia.org\/wiki\/List_of_culinary_fruits|culinary fruits>\"",
+        "user": "U013TT5TDR7",
+        "ts": "1589583021.025600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U013TT5TDR7",
+            "ts": "1589583069.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Tac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See, \"much lower sugar content\":\n\n\"However, the tomato is considered a \""
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Vegetable#Terminology",
+                                "text": "culinary vegetable"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" because it has a much lower sugar content than "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/List_of_culinary_fruits",
+                                "text": "culinary fruits"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a8c1260-f88b-4813-9c47-a3cb65913304",
+        "type": "message",
+        "text": "Oh, damnit, why did it have to bloat the message with images and things",
+        "user": "U013TT5TDR7",
+        "ts": "1589583046.026400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9oDV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, damnit, why did it have to bloat the message with images and things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd664709-cab5-473b-bfdf-e87751c1c8ab",
+        "type": "message",
+        "text": "Keep it clean",
+        "user": "U013ME40S6Q",
+        "ts": "1589583059.026600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JbPGs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Keep it clean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7296c58a-eedd-4231-bdd7-534709cf0ac2",
+        "type": "message",
+        "text": "There we go, they're gone now",
+        "user": "U013TT5TDR7",
+        "ts": "1589583077.027100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6pi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There we go, they're gone now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1587435-8d5a-4a7c-9704-07eb1cb5118a",
+        "type": "message",
+        "text": "Yes, all cleaned up",
+        "user": "U013TT5TDR7",
+        "ts": "1589583088.027300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=W7C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, all cleaned up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c98927c-c17a-4c97-b46d-569e10197503",
+        "type": "message",
+        "text": "Anyone who thinks pineapple is fine, like this message",
+        "user": "U013ME40S6Q",
+        "ts": "1589583124.027900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzXj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone who thinks pineapple is fine, like this message"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013F8V6ZH8",
+                    "U0130GFAT8X",
+                    "U013ME40S6Q"
+                ],
+                "count": 3
+            },
+            {
+                "name": "-1",
+                "users": [
+                    "U013TT5TDR7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbc52e68-6ec3-489f-b1df-d6a112c6a39d",
+        "type": "message",
+        "text": "This is 8 minutes remaining in this discussion",
+        "user": "U013HQRJLRJ",
+        "ts": "1589583162.028500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "edAT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is 8 minutes remaining in this discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deb6ac8f-3a16-4855-bd1a-981298a59845",
+        "type": "message",
+        "text": "That ism three people",
+        "user": "U013ME40S6Q",
+        "ts": "1589583180.028900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EnLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That ism three people"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf8bedb4-47ed-4c16-a169-58d5f7436543",
+        "type": "message",
+        "text": "Can we persuade Borys its good for another reason that wanting to eat it",
+        "user": "U013ME40S6Q",
+        "ts": "1589583220.030000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Pk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we persuade Borys its good for another reason that wanting to eat it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9a77d72-ff41-4a8b-9dda-ff2335e607d8",
+        "type": "message",
+        "text": "For example, a good color scheme?",
+        "user": "U013ME40S6Q",
+        "ts": "1589583233.030700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q3hic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For example, a good color scheme?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98c90555-c518-47da-847e-67a5dbec61ed",
+        "type": "message",
+        "text": "Yeah, so given the lower sugar content of tomatoes, they are acceptable on the ordinary savoury pizza, pineapples however, are too sugary and should be relegated to the sweeter dessert pizza",
+        "user": "U013TT5TDR7",
+        "ts": "1589583241.031000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EkYUp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, so given the lower sugar content of tomatoes, they are acceptable on the ordinary savoury pizza, pineapples however, are too sugary and should be relegated to the sweeter dessert pizza"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "180efdc2-bc3c-4162-929c-023f735fb558",
+        "type": "message",
+        "text": "Or it gives him nogestelgia",
+        "user": "U013ME40S6Q",
+        "ts": "1589583253.031500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o8rb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or it gives him nogestelgia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "230182b6-202a-4db1-82df-3452a5a15398",
+        "type": "message",
+        "text": "It is not, you could have yellow capsicum, yellow cheese, so many other options",
+        "user": "U013TT5TDR7",
+        "ts": "1589583270.032200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AS+WA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is not, you could have yellow capsicum, yellow cheese, so many other options"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec48d1c9-70d5-491b-9d51-2c19e8e5ff48",
+        "type": "message",
+        "text": "Or maybe it makes other people around him happy",
+        "user": "U013ME40S6Q",
+        "ts": "1589583276.032400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fq3r9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or maybe it makes other people around him happy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bd5608f-1a5f-46fb-9a7c-ed3bb7e70313",
+        "type": "message",
+        "text": "here's a point",
+        "user": "U0130GFAT8X",
+        "ts": "1589583289.033100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n=7x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here's a point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33b93e0d-a1d5-486b-bc7d-50a35f13c18e",
+        "type": "message",
+        "text": "Or maybe its classic",
+        "user": "U013ME40S6Q",
+        "ts": "1589583296.033400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jf9cX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or maybe its classic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a064ce70-8001-4fd2-9c2d-f4e44c71cc09",
+        "type": "message",
+        "text": "or iconic of NZ",
+        "user": "U013ME40S6Q",
+        "ts": "1589583309.034100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or iconic of NZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1042750f-627d-475d-a33d-909ccdda25cd",
+        "type": "message",
+        "text": "Just because my friends enjoy heresies does not make the heresy any better",
+        "user": "U013TT5TDR7",
+        "ts": "1589583317.034500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OQPqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just because my friends enjoy heresies does not make the heresy any better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7219bbd5-aa92-47aa-874c-d8585b536e50",
+        "type": "message",
+        "text": "in a culture with few culinary fruits, they may choose the closest thing to a culinary fruit and give it honorary status as culinary fruit",
+        "user": "U0130GFAT8X",
+        "ts": "1589583321.034700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6aLZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in a culture with few culinary fruits, they may choose the closest thing to a culinary fruit and give it honorary status as culinary fruit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "615a0620-581c-4fc5-a88a-a95b9651fb13",
+        "type": "message",
+        "text": "Maybe the Hawaiians did that with pinapple",
+        "user": "U0130GFAT8X",
+        "ts": "1589583327.035100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HX3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe the Hawaiians did that with pinapple"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "213700bb-966a-429d-9ea8-4c9cb17779df",
+        "type": "message",
+        "text": "NZ? I thought it's across the world?",
+        "user": "U013TT5TDR7",
+        "ts": "1589583329.035200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UDw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NZ? I thought it's across the world?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f30ffbe-da22-497b-9573-6f9d5dc58a9f",
+        "type": "message",
+        "text": "Pizza isn't morally deplorable heresy is",
+        "user": "U013ME40S6Q",
+        "ts": "1589583351.035900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lImb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pizza isn't morally deplorable heresy is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "522e0e9e-46c4-4979-8a14-ff847fa2a0bf",
+        "type": "message",
+        "text": "It would be enough to have the tomato, one needs no more culinary fruits",
+        "user": "U013TT5TDR7",
+        "ts": "1589583364.036200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M4VP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It would be enough to have the tomato, one needs no more culinary fruits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c410201-867b-4c7f-b18a-77b8f7e9a9ad",
+        "type": "message",
+        "text": "Maybe the Hawaiians didn't have many tomatoes",
+        "user": "U0130GFAT8X",
+        "ts": "1589583386.036800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gsR3F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe the Hawaiians didn't have many tomatoes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "233a1248-d654-465d-af1c-0ec0be1e5096",
+        "type": "message",
+        "text": "This is 4 minutes remaining in this discussion",
+        "user": "U013HQRJLRJ",
+        "ts": "1589583390.037000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J7g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is 4 minutes remaining in this discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92f9bce2-0636-4a64-b9e7-37b75469b98f",
+        "type": "message",
+        "text": "Those poor Hawaiians. They weren't trying to be perverse. They were just translating a concept into their own environment.",
+        "user": "U0130GFAT8X",
+        "ts": "1589583436.037900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+c3Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Those poor Hawaiians. They weren't trying to be perverse. They were just translating a concept into their own environment."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef6424ef-a198-4c4a-8173-27f7032b25b7",
+        "type": "message",
+        "text": "Well, let's ask the internet!",
+        "user": "U013TT5TDR7",
+        "ts": "1589583440.038200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=1\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, let's ask the internet!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c912db2-760f-4d7a-afef-a0205e4826c8",
+        "type": "message",
+        "text": "I think we have a consensus save B",
+        "user": "U013ME40S6Q",
+        "ts": "1589583453.038600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we have a consensus save B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d2126a9-c4c1-49cd-b28c-3808abb73de1",
+        "type": "message",
+        "text": "okay",
+        "user": "U0130GFAT8X",
+        "ts": "1589583454.038700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YTir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80661257-53c0-42ef-923e-bf4e2f81bd4f",
+        "type": "message",
+        "text": "Besides, one can import fruits, and it's better to not have the pizza than to have a false pizza",
+        "user": "U013TT5TDR7",
+        "ts": "1589583474.039300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pNj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Besides, one can import fruits, and it's better to not have the pizza than to have a false pizza"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c82bcb64-9dc9-4dda-b0fe-adfaf4c3cfae",
+        "type": "message",
+        "text": "is it really, though?",
+        "user": "U0130GFAT8X",
+        "ts": "1589583491.039600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eEZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it really, though?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013S3ZQ7U3",
+                "created": 1589583502,
+                "timestamp": 1589583502,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U013TT5TDR7",
+                "editable": false,
+                "size": 152178,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0134TC8N94-F013S3ZQ7U3\/image.png?t=xoxe-1106930294310-1151775330224-1127938257394-472935d8e3d912f3b6a5ebba7b2fd5c8",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0134TC8N94-F013S3ZQ7U3\/download\/image.png?t=xoxe-1106930294310-1151775330224-1127938257394-472935d8e3d912f3b6a5ebba7b2fd5c8",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0134TC8N94-F013S3ZQ7U3-581dcc33c9\/image_64.png?t=xoxe-1106930294310-1151775330224-1127938257394-472935d8e3d912f3b6a5ebba7b2fd5c8",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0134TC8N94-F013S3ZQ7U3-581dcc33c9\/image_80.png?t=xoxe-1106930294310-1151775330224-1127938257394-472935d8e3d912f3b6a5ebba7b2fd5c8",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0134TC8N94-F013S3ZQ7U3-581dcc33c9\/image_360.png?t=xoxe-1106930294310-1151775330224-1127938257394-472935d8e3d912f3b6a5ebba7b2fd5c8",
+                "thumb_360_w": 360,
+                "thumb_360_h": 160,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0134TC8N94-F013S3ZQ7U3-581dcc33c9\/image_480.png?t=xoxe-1106930294310-1151775330224-1127938257394-472935d8e3d912f3b6a5ebba7b2fd5c8",
+                "thumb_480_w": 480,
+                "thumb_480_h": 213,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0134TC8N94-F013S3ZQ7U3-581dcc33c9\/image_160.png?t=xoxe-1106930294310-1151775330224-1127938257394-472935d8e3d912f3b6a5ebba7b2fd5c8",
+                "original_w": 706,
+                "original_h": 313,
+                "thumb_tiny": "AwAVADDRLEHrx9KA\/rSMPm7UhHoR+dADt49DTJn2wswJGO9Ox9KSSMyRMmcZoAprcSEkbzmpreVnkAL54OaYLFgciQfiKkt7ZonyXDD6VKTAsEA0bR7\/AJ0tFUAm0e\/50hwD3\/OnUxvvUAAP1\/OnA5pg\/pTl6mgD\/9k=",
+                "permalink": "https:\/\/researchgroupa.slack.com\/files\/U013TT5TDR7\/F013S3ZQ7U3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0134TC8N94-F013S3ZQ7U3-4a1ad2d5ea",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U013TT5TDR7",
+        "display_as_bot": false,
+        "ts": "1589583504.040000",
+        "client_msg_id": "b410f7a3-ad4a-4aeb-ba62-c7bab9410375"
+    },
+    {
+        "client_msg_id": "6e4c71f2-effd-41b7-b735-63c3e008dbeb",
+        "type": "message",
+        "text": "And \"one can import fruits\" ... my, my, check your privilege there",
+        "user": "U0130GFAT8X",
+        "ts": "1589583511.040300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qm0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And \"one can import fruits\" ... my, my, check your privilege there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d0f4ca5-5291-4d9c-b1fd-152a320b180d",
+        "type": "message",
+        "text": "jk",
+        "user": "U0130GFAT8X",
+        "ts": "1589583536.040600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfQ6C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "badecf16-1e9f-491a-8922-95fda81a0ca7",
+        "type": "message",
+        "text": "How is that privileged?",
+        "user": "U013TT5TDR7",
+        "ts": "1589583540.040800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How is that privileged?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f1f8e10-68d0-47c1-8b4e-a12bbca5ec82",
+        "type": "message",
+        "text": "Many, I'm sure even poor countries at least import some goods from their immediate neighbours",
+        "user": "U013TT5TDR7",
+        "ts": "1589583566.041700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cXE+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Many, I'm sure even poor countries at least import some goods from their immediate neighbours"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d51d4837-e530-4f7f-aeb8-0000cb34a7d2",
+        "type": "message",
+        "text": "Well, maybe helicopter is right ... we don't have a consesnus of 4",
+        "user": "U0130GFAT8X",
+        "ts": "1589583568.041800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhAwN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, maybe helicopter is right ... we don't have a consesnus of 4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9383ca2-595e-41eb-a4bf-7f327fb826bc",
+        "type": "message",
+        "text": "Besides, the have tomatoes anyway",
+        "user": "U013TT5TDR7",
+        "ts": "1589583575.042200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Bv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Besides, the have tomatoes anyway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29cbb9b7-2a51-40f3-b9ca-b1590fed2b7a",
+        "type": "message",
+        "text": "Consensous of 3",
+        "user": "U013ME40S6Q",
+        "ts": "1589583583.042600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Consensous of 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38fe418b-e472-4e38-852a-b1ec47210bd6",
+        "type": "message",
+        "text": "Hawaii's immediate neighbour: the ocean",
+        "user": "U0130GFAT8X",
+        "ts": "1589583587.042800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MOR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hawaii's immediate neighbour: the ocean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U013TT5TDR7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61ba1a00-261f-429c-b57c-3520ac2c39d5",
+        "type": "message",
+        "text": "Conspiracy of one",
+        "user": "U013ME40S6Q",
+        "ts": "1589583591.043000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Hc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Conspiracy of one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e689e801-6db6-4747-b7d5-7ad666854615",
+        "type": "message",
+        "text": "This discussion has concluded without a consensus",
+        "user": "U013HQRJLRJ",
+        "ts": "1589583622.043800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1JZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This discussion has concluded without a consensus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f508e5dd-9058-4421-86eb-fe766e00f7cb",
+        "type": "message",
+        "text": "come with me to #genderal",
+        "user": "U013HQRJLRJ",
+        "ts": "1589583632.044200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wsi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "come with me to #genderal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e87db76-f559-4e17-8faf-8fe923b62477",
+        "type": "message",
+        "text": "<#C013BKGS6TU|general>",
+        "user": "U013HQRJLRJ",
+        "ts": "1589583637.044500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j2Y2J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C013BKGS6TU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5319797e-7707-4d6a-b45e-6540817edb3d",
+        "type": "message",
+        "text": "Yes, well they can't trade with the mermaids, but I believe the pineapple pizza probably came around when we already had planes and ships going to Hawaii",
+        "user": "U013TT5TDR7",
+        "ts": "1589583648.044800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fC5Zu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, well they can't trade with the mermaids, but I believe the pineapple pizza probably came around when we already had planes and ships going to Hawaii"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

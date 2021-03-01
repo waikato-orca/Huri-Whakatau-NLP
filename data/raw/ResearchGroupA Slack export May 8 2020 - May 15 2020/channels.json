@@ -1,0 +1,215 @@
+[
+  {
+    "id": "C0130K8DJSK",
+    "name": "aiA",
+    "created": 1589239815,
+    "creator": "U013HQRJLRJ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U0130GFAT8X",
+      "U013F8V6ZH8",
+      "U013HQRJLRJ",
+      "U013MCC7XJ8",
+      "U013ME40S6Q",
+      "U013TT5TDR7"
+    ],
+    "pins": [
+      {
+        "id": "1589239831.001600",
+        "type": "C",
+        "created": 1589239835,
+        "user": "U013HQRJLRJ",
+        "owner": "U013HQRJLRJ"
+      }
+    ],
+    "topic": {
+      "value": "What should we worry about with the emergence of intelligent machines?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589239850
+    },
+    "purpose": {
+      "value": "With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589239880
+    }
+  },
+  {
+    "id": "C0138SX6HV5",
+    "name": "children_devicesA",
+    "created": 1589508450,
+    "creator": "U013HQRJLRJ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U0130GFAT8X",
+      "U013F8V6ZH8",
+      "U013HQRJLRJ",
+      "U013MCC7XJ8",
+      "U013ME40S6Q",
+      "U013TT5TDR7"
+    ],
+    "pins": [
+      {
+        "id": "1589508478.001700",
+        "type": "C",
+        "created": 1589508482,
+        "user": "U013HQRJLRJ",
+        "owner": "U013HQRJLRJ"
+      }
+    ],
+    "topic": {
+      "value": "Should children have mobile devices like smartphones?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589508472
+    },
+    "purpose": {
+      "value": "Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children to have, and if so, from what age?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589538668
+    }
+  },
+  {
+    "id": "C013BKGS6TU",
+    "name": "generalA",
+    "created": 1588983486,
+    "creator": "U013HQRJLRJ",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+      "U0130GFAT8X",
+      "U013F8V6ZH8",
+      "U013HQRJLRJ",
+      "U013MCC7XJ8",
+      "U013ME40S6Q",
+      "U013TT5TDR7"
+    ],
+    "pins": [
+      {
+        "id": "1589190526.000600",
+        "type": "C",
+        "created": 1589190533,
+        "user": "U013HQRJLRJ",
+        "owner": "U013HQRJLRJ"
+      }
+    ],
+    "topic": {
+      "value": "Questions about the study can be asked here.",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589232415
+    },
+    "purpose": {
+      "value": "This channel will be used between discussions. It will also be used to clarify the instructions I post",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589190662
+    }
+  },
+  {
+    "id": "C013MB0FAQL",
+    "name": "mobile_help_deskA",
+    "created": 1589232287,
+    "creator": "U013HQRJLRJ",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U013HQRJLRJ"],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Screenshots show how to do things",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589232288
+    }
+  },
+  {
+    "id": "C013MB2R5AQ",
+    "name": "pc_help_deskA",
+    "created": 1589232360,
+    "creator": "U013HQRJLRJ",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U013HQRJLRJ"],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Screenshots show how to do things",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589232361
+    }
+  },
+  {
+    "id": "C013MG5GJA0",
+    "name": "ketchup_vs_mustardA",
+    "created": 1589238656,
+    "creator": "U013HQRJLRJ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U0130GFAT8X",
+      "U013F8V6ZH8",
+      "U013HQRJLRJ",
+      "U013MCC7XJ8",
+      "U013ME40S6Q",
+      "U013TT5TDR7"
+    ],
+    "pins": [
+      {
+        "id": "1589238669.001600",
+        "type": "C",
+        "created": 1589238673,
+        "user": "U013HQRJLRJ",
+        "owner": "U013HQRJLRJ"
+      }
+    ],
+    "topic": {
+      "value": "Ketchup vs Mustard: Which is the better condiment?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589238703
+    },
+    "purpose": {
+      "value": "Ketchup vs Mustard: Which is the better condiment?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589238658
+    }
+  },
+  {
+    "id": "C013RSHAXL2",
+    "name": "pineapple_on_pizzaA",
+    "created": 1589582077,
+    "creator": "U013HQRJLRJ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U0130GFAT8X",
+      "U013F8V6ZH8",
+      "U013HQRJLRJ",
+      "U013MCC7XJ8",
+      "U013ME40S6Q",
+      "U013TT5TDR7"
+    ],
+    "pins": [
+      {
+        "id": "1589582090.001600",
+        "type": "C",
+        "created": 1589582093,
+        "user": "U013HQRJLRJ",
+        "owner": "U013HQRJLRJ"
+      }
+    ],
+    "topic": {
+      "value": "Pineapple on Pizza: Is this a good combination?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589582115
+    },
+    "purpose": {
+      "value": "Pineapple on Pizza: Is this a good combination?",
+      "creator": "U013HQRJLRJ",
+      "last_set": 1589582079
+    }
+  }
+]

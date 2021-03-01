@@ -1,0 +1,1765 @@
+[
+    {
+        "client_msg_id": "84bb918d-43fd-4a58-830b-f925ad041ce3",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U0126U931AB",
+        "ts": "1588032932.001000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qklMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U012MTPDH98",
+                    "U0130GKUGCR",
+                    "U013BNX11CG",
+                    "U012U3HJ0FN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "beb2786b-19d4-4e23-b5cc-6ca7436d8a9b",
+        "type": "message",
+        "text": "*Welcome to the study! The goal of this discussion is for you to try to reach a consensus on the topic: Ketchup vs Mustard. In order to reach a consensus, the \"I agree!” message above has been pinned to the top of the discussion. Please give this message a “thumbs up” when you are happy with the state of the discussion, i.e, when you are in agreement. Remove the “thumbs up” when you’re unhappy with the state of discussion. You can easily find this post by clicking on “details”, and then “Pinned Items”. This may be different on mobile devices. If you have trouble finding it, please contact me privately to ask for help. This can be done on Slack under the “Direct messages” section on the left of screen. We ask that you refrain from posting images, and that all things mentioned in this discussion are done with the intent to reach a consensus and not done to jeopardize the study.*",
+        "user": "U0126U931AB",
+        "ts": "1588032996.001400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the study! The goal of this discussion is for you to try to reach a consensus on the topic: Ketchup vs Mustard. In order to reach a consensus, the \"I agree!” message above has been pinned to the top of the discussion. Please give this message a “thumbs up” when you are happy with the state of the discussion, i.e, when you are in agreement. Remove the “thumbs up” when you’re unhappy with the state of discussion. You can easily find this post by clicking on “details”, and then “Pinned Items”. This may be different on mobile devices. If you have trouble finding it, please contact me privately to ask for help. This can be done on Slack under the “Direct messages” section on the left of screen. We ask that you refrain from posting images, and that all things mentioned in this discussion are done with the intent to reach a consensus and not done to jeopardize the study.",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588045050.000500",
+        "user": "U013BNX11CG",
+        "text": "<@U013BNX11CG> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588045918.000600",
+        "user": "U012U3HJ0FN",
+        "text": "<@U012U3HJ0FN> has joined the channel"
+    },
+    {
+        "client_msg_id": "5b7d672a-eb87-4a42-b4ef-d8ddb55f2e54",
+        "type": "message",
+        "text": ":wave: I’m here! What’d I miss?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588045990.000800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YUoML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m here! What’d I miss?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588046448.002300",
+        "user": "U012MTPDH98",
+        "text": "<@U012MTPDH98> has joined the channel"
+    },
+    {
+        "client_msg_id": "19b4e9d0-fda0-493e-8f1e-6f2042bbb9f3",
+        "type": "message",
+        "text": "So for the people who are here, do the instructions above make sense?",
+        "user": "U0126U931AB",
+        "ts": "1588046507.003000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tOl3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So for the people who are here, do the instructions above make sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588046528.003300",
+        "user": "U0130GKUGCR",
+        "text": "<@U0130GKUGCR> has joined the channel"
+    },
+    {
+        "client_msg_id": "4ed8716d-cb0e-4c39-b3a6-f10577f07fe9",
+        "type": "message",
+        "text": "`How often are we supposed to give or remove thumbs ups?`",
+        "user": "U012U3HJ0FN",
+        "ts": "1588046560.004900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XiCA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How often are we supposed to give or remove thumbs ups?",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7111fa8b-96ad-4c75-b349-e24547b9e17d",
+        "type": "message",
+        "text": "I think so Mr Geary.  Everyone has to agree mustard is better then we give the thumbs up",
+        "user": "U012MTPDH98",
+        "ts": "1588046572.005400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think so Mr Geary.  Everyone has to agree mustard is better then we give the thumbs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b423405f-a880-4f5e-b794-a3f3570fb79a",
+        "type": "message",
+        "text": "So we put a thumbs up on the \"I agree\" if we are happy with the latest comment?",
+        "user": "U013BNX11CG",
+        "ts": "1588046587.006000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXc8I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So we put a thumbs up on the \"I agree\" if we are happy with the latest comment?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3620194d-e0b8-4676-b5ef-a87d5b47584e",
+        "type": "message",
+        "text": "But I prefer tomato sauce\/ketchup, so do I give no reaction?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588046614.007100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UN0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I prefer tomato sauce\/ketchup, so do I give no reaction?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a174817-7f6b-4f73-9ebb-1376087903f4",
+        "type": "message",
+        "text": "Like I just did",
+        "user": "U012MTPDH98",
+        "ts": "1588046615.007200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mSdg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like I just did"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f79ce0ad-9907-4c04-b920-6da3aed76366",
+        "type": "message",
+        "text": "As often as you want <@U012U3HJ0FN>",
+        "user": "U0126U931AB",
+        "ts": "1588046622.007400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0E+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As often as you want "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6580c008-0d2e-4aa6-be5a-1be4242c76c9",
+        "type": "message",
+        "text": "<@U013BNX11CG>I guess the latest comment would do yea",
+        "user": "U0126U931AB",
+        "ts": "1588046673.008400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9hsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013BNX11CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I guess the latest comment would do yea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d3b2474-6373-45a9-903b-1e4e74fe1a6a",
+        "type": "message",
+        "text": "Or overall your feeling of where the discussion has got to",
+        "user": "U0126U931AB",
+        "ts": "1588046690.009000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QTNvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or overall your feeling of where the discussion has got to"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6166f2b-7024-4749-9e5b-307c7f5b29fb",
+        "type": "message",
+        "text": "Ok",
+        "user": "U013BNX11CG",
+        "ts": "1588046704.009500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oMAn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54ff8844-1793-4bef-8b3b-201b1d8eac61",
+        "type": "message",
+        "text": "Should we be trying to influence other's opinion re mustard\/ketchup?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588046726.010200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we be trying to influence other's opinion re mustard\/ketchup?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f9761d7-1b0e-4513-b46a-38192a35701d",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> I think you need to make your own response, like you prefer ketchup, so maybe I could share my honest opinion that it's best with both.",
+        "user": "U012MTPDH98",
+        "ts": "1588046737.010500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Goo\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think you need to make your own response, like you prefer ketchup, so maybe I could share my honest opinion that it's best with both."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "981e0386-5e6c-4a8a-8c80-6e2965b33625",
+        "type": "message",
+        "text": "Influence all you like. Only a thumbs up is required when you're happy. No thumbs down",
+        "user": "U0126U931AB",
+        "ts": "1588046761.011400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Influence all you like. Only a thumbs up is required when you're happy. No thumbs down"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e01f0765-29ed-4118-9dba-39015ec853da",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> yes I think to reach consensus we need to influence",
+        "user": "U012MTPDH98",
+        "ts": "1588046768.011700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KsME5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " yes I think to reach consensus we need to influence"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca9182b3-314e-4407-9480-5cb6510a5246",
+        "type": "message",
+        "text": "Ooooh, I hadn't considered that option Nationaluity.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588046801.013200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kHPLt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ooooh, I hadn't considered that option Nationaluity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f4c1ad1-1ab7-494a-bdd5-4496643085c3",
+        "type": "message",
+        "text": "You like <@U012U3HJ0FN>?  If so you should click agree.",
+        "user": "U012MTPDH98",
+        "ts": "1588046842.015200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ik=F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You like "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?  If so you should click agree."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72e5bc6b-568e-4708-b22a-47408604737f",
+        "type": "message",
+        "text": "I agree that it is best with both but if I could only choose one I would choose mustard.",
+        "user": "U013BNX11CG",
+        "ts": "1588046856.015700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E0q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree that it is best with both but if I could only choose one I would choose mustard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ccdac73-2df9-44ef-95fa-704aff059771",
+        "type": "message",
+        "text": "<@U013BNX11CG> I'm with you on that.",
+        "user": "U012MTPDH98",
+        "ts": "1588046874.016300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sZsz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013BNX11CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I'm with you on that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f0cd928-e54e-46de-8648-a097263645cb",
+        "type": "message",
+        "text": "But to agree or disagree with the statement, I guess we can't take this third option (or the fourth option of neither)?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588046874.016400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lij\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But to agree or disagree with the statement, I guess we can't take this third option (or the fourth option of neither)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BCC69D6D-3688-4F08-8FA3-7B4403872BF8",
+        "type": "message",
+        "text": "Why on earth would you choose mustard if you could only choose one?! :stuck_out_tongue_winking_eye:",
+        "user": "U0130GKUGCR",
+        "ts": "1588046894.017100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6Y5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why on earth would you choose mustard if you could only choose one?! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95dbe1f7-17b5-4a7c-8fd5-01e569ad0d33",
+        "type": "message",
+        "text": "I prefer tomato sauce to mustard.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588046911.017900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBAM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I prefer tomato sauce to mustard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d48268d8-ffd0-4324-a7e8-7bd16b27aa5a",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> You just have to agree with the last statement, not one side of the argument.",
+        "user": "U012MTPDH98",
+        "ts": "1588046923.018400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tUTG=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You just have to agree with the last statement, not one side of the argument."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45da8a84-3956-4f8f-8eef-eca61f179b0e",
+        "type": "message",
+        "text": "Tomato sauce on a sausage and bun is not a hot dog. Mustard is more specific to hot dogs.",
+        "user": "U013BNX11CG",
+        "ts": "1588046946.019100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kCCs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tomato sauce on a sausage and bun is not a hot dog. Mustard is more specific to hot dogs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27bb7587-d62c-48f0-9df1-9235b288acb2",
+        "type": "message",
+        "text": "Mustard may be more specific to hotdogs, but I prefer tomato sauce to mustard.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047004.021100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RlVM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard may be more specific to hotdogs, but I prefer tomato sauce to mustard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b5d785f-26df-4d6c-9e83-9c9b633ecb48",
+        "type": "message",
+        "text": "<@U0130GKUGCR> mustard is more versatile - it comes as American, dijon, wholegrain, whereas tomato sauce is only one flavour, so not so adaptable.  Also, mustard is basically the seed of a plant, healthy, you can just mix the powder with water.  Ketchup is always sweet.",
+        "user": "U012MTPDH98",
+        "ts": "1588047013.021500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WeX1A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mustard is more versatile - it comes as American, dijon, wholegrain, whereas tomato sauce is only one flavour, so not so adaptable.  Also, mustard is basically the seed of a plant, healthy, you can just mix the powder with water.  Ketchup is always sweet."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e0c3a36-cd6c-4516-9c3f-260a02ed41fc",
+        "type": "message",
+        "text": "But why still have this debate?  Why not just go with both, plus onions?  And in Brazil, with potato sticks?",
+        "user": "U012MTPDH98",
+        "ts": "1588047057.022600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3T9+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But why still have this debate?  Why not just go with both, plus onions?  And in Brazil, with potato sticks?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "230f0a4e-6ead-4ff4-8379-802ebbd4e269",
+        "type": "message",
+        "text": "Potato sticks! Wow.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047081.023300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/G1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Potato sticks! Wow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2130aec-b16e-41ad-8aa9-d2bdfbc0ac76",
+        "type": "message",
+        "text": "Mustard has a more complex flavour, tomato sauce is more boring on its own.",
+        "user": "U013BNX11CG",
+        "ts": "1588047090.023600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jwVXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard has a more complex flavour, tomato sauce is more boring on its own."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37a01d65-e6be-404e-b4de-0f5d2d81ac25",
+        "type": "message",
+        "text": "Is there anyone who disagrees they are both good.  'Cause if everyone likes both, job done, just give it a thumbs up",
+        "user": "U012MTPDH98",
+        "ts": "1588047140.025700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BqC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there anyone who disagrees they are both good.  'Cause if everyone likes both, job done, just give it a thumbs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8361ef4c-a4da-4fd2-b184-5d6ba59a6a3b",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> <@U013BNX11CG> you are being polarising.  Have you learnt nothing from American politics?  But we have three thumbs up - who's holding out?",
+        "user": "U012MTPDH98",
+        "ts": "1588047229.028400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cifs9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013BNX11CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you are being polarising.  Have you learnt nothing from American politics?  But we have three thumbs up - who's holding out?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6343b791-a33b-4ae9-8b7a-d9c7a11836b8",
+        "type": "message",
+        "text": "However, if you are considering the NZ \"hotdog\" you get at the chip-shop as opposed to the American \"hotdog\" - I cannot understand why anyone would put mustard on a deep-fried, battered savaloy, but applying tomato sauce would be entirely appropriate.  So for cross-cultural hotdog cuisine, you could say that tomato sauce is more versatile than mustard.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047253.028700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However, if you are considering the NZ \"hotdog\" you get at the chip-shop as opposed to the American \"hotdog\" - I cannot understand why anyone would put mustard on a deep-fried, battered savaloy, but applying tomato sauce would be entirely appropriate.  So for cross-cultural hotdog cuisine, you could say that tomato sauce is more versatile than mustard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2e893ac-fd1f-4ad5-b3b8-996cc53a657f",
+        "type": "message",
+        "text": "Well, I still agree with that statement, so at least I don't have to undo my thumbs up",
+        "user": "U012MTPDH98",
+        "ts": "1588047294.029900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0zS2a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, I still agree with that statement, so at least I don't have to undo my thumbs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab886372-70f7-409b-9da7-2976067e8135",
+        "type": "message",
+        "text": "Very True <@U012U3HJ0FN>",
+        "user": "U013BNX11CG",
+        "ts": "1588047296.030000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ASfw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very True "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91499cce-359b-45f1-b13b-5697e1a96787",
+        "type": "message",
+        "text": "*I can't find the thumbs up or down*:thinking_face:",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047300.030300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xVmS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't find the thumbs up or down",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5308aedb-b716-41f3-ab14-e5a71a749899",
+        "type": "message",
+        "text": "Float over the heading of the first message, reactions pop up on the right",
+        "user": "U012MTPDH98",
+        "ts": "1588047329.031000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Float over the heading of the first message, reactions pop up on the right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f26df75a-1e0e-4cd1-a342-84c718d29d21",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047375.032600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0FZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1527c2e5-94e5-4b1f-9b7a-6115c1ca009c",
+        "type": "message",
+        "text": "Here's another non-controversial statement.  Hot dogs are best made from conventional meats such as pork rather than dog.",
+        "user": "U012MTPDH98",
+        "ts": "1588047404.033900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w5ti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here's another non-controversial statement.  Hot dogs are best made from conventional meats such as pork rather than dog."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a80572a-ca93-4997-bf37-407888426492",
+        "type": "message",
+        "text": "Ok I think we is done, right <@U0126U931AB>?",
+        "user": "U012MTPDH98",
+        "ts": "1588047427.034900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJ6mx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok I think we is done, right "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0126U931AB"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23347557-cba4-4ce2-8286-878132bb37f5",
+        "type": "message",
+        "text": "Ok seems to be done. If everyone could use the <#C013099LJPK|general> channel to comment that'd be great",
+        "user": "U0126U931AB",
+        "ts": "1588047469.036600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok seems to be done. If everyone could use the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C013099LJPK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel to comment that'd be great"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c102cccb-f905-49f2-9025-8170b881b7c4",
+        "type": "message",
+        "text": "I'll create the next discussion",
+        "user": "U0126U931AB",
+        "ts": "1588047477.036800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll create the next discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

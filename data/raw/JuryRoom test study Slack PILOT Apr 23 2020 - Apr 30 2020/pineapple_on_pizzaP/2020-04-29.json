@@ -1,0 +1,2519 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588219649.000200",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1588219650.000300",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> set the channel purpose: Is this a good combination or not?",
+        "purpose": "Is this a good combination or not?"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588219671.000500",
+        "user": "U013BNX11CG",
+        "text": "<@U013BNX11CG> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588219672.000700",
+        "user": "U012MTPDH98",
+        "text": "<@U012MTPDH98> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588219672.000900",
+        "user": "U0130GKUGCR",
+        "text": "<@U0130GKUGCR> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588219672.001100",
+        "user": "U012U3HJ0FN",
+        "text": "<@U012U3HJ0FN> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "client_msg_id": "1db81cad-d01e-422b-8de4-5d45ac6330fd",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U0126U931AB",
+        "ts": "1588219679.001300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+fmn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013BNX11CG",
+                    "U012MTPDH98",
+                    "U012U3HJ0FN",
+                    "U0130GKUGCR"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51f53b36-e2db-4620-8031-bae58a5a4350",
+        "type": "message",
+        "text": "Not for me, thanks",
+        "user": "U012MTPDH98",
+        "ts": "1588219725.001600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9t4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not for me, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b64d2a4c-5600-4bff-8123-6e4fcf842741",
+        "type": "message",
+        "text": "I do not mind it.",
+        "user": "U013BNX11CG",
+        "ts": "1588219746.001900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "teTC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do not mind it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a311eb5-2238-4ea4-9307-d7aa53b68902",
+        "type": "message",
+        "text": "But I do not specifically request it.",
+        "user": "U013BNX11CG",
+        "ts": "1588219766.002400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JeeMZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I do not specifically request it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "879e5346-bf07-4a47-aa4c-fc67f1bd1084",
+        "type": "message",
+        "text": "I agree it is edible but not desirable",
+        "user": "U012MTPDH98",
+        "ts": "1588219788.002700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6w5Im",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree it is edible but not desirable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BC6418CB-079F-40A8-97E1-532B0A55897F",
+        "type": "message",
+        "text": "I love pineapple in pizza, Hawaiian is my go to!",
+        "user": "U0130GKUGCR",
+        "ts": "1588219815.003600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wgvw7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love pineapple in pizza, Hawaiian is my go to!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3A9C47C4-1E10-4929-B62C-AFF78BA862DE",
+        "type": "message",
+        "text": "Pineapple is nice on majority of things, sweet or savory",
+        "user": "U0130GKUGCR",
+        "ts": "1588219850.005200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BAGYU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pineapple is nice on majority of things, sweet or savory"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0caaa99b-60e5-46ef-9bbb-a57d0c7a377c",
+        "type": "message",
+        "text": "I like hawaiian pizza, but prefer others.",
+        "user": "U013BNX11CG",
+        "ts": "1588219863.005600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Is=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like hawaiian pizza, but prefer others."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ab4fa0e-b012-42d9-844f-52bb32596936",
+        "type": "message",
+        "text": "Pineapple is nice, as a general observation, and it is also a bromeliad, which makes it that much better.",
+        "user": "U012MTPDH98",
+        "ts": "1588219907.006300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pineapple is nice, as a general observation, and it is also a bromeliad, which makes it that much better."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2035b2f1-8589-44bd-b433-6aa99e076a90",
+        "type": "message",
+        "text": "You should never argue about taste.  Agreed?",
+        "user": "U012MTPDH98",
+        "ts": "1588219946.006800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVAFT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should never argue about taste.  Agreed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e9e3e08-bc9d-484b-aa42-ef1770acb679",
+        "type": "message",
+        "text": "Bromeliad?",
+        "user": "U013BNX11CG",
+        "ts": "1588219956.007100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Gm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bromeliad?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfea76fd-ba05-4d16-9c30-b06d2cb725aa",
+        "type": "message",
+        "text": "What is bromeliad?",
+        "user": "U013BNX11CG",
+        "ts": "1588219972.007900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sga5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is bromeliad?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7e0bbf5-d9ed-41f9-a31f-46c329aea93a",
+        "type": "message",
+        "text": "Arguably the best plant in the world",
+        "user": "U012MTPDH98",
+        "ts": "1588219976.008100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ElNe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Arguably the best plant in the world"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b127865f-f744-410c-b307-276baa111ee3",
+        "type": "message",
+        "text": "Oh",
+        "user": "U013BNX11CG",
+        "ts": "1588219981.008300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aN4M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e98ce83-738f-4e3d-9aea-09f924c7feee",
+        "type": "message",
+        "text": "epiphytic, so any kind of soil will do, dramatic tropical look, and as long as you keep the frost off, very easy care.  Many have dramatic flowers.",
+        "user": "U012MTPDH98",
+        "ts": "1588220026.009900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dD\/6p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "epiphytic, so any kind of soil will do, dramatic tropical look, and as long as you keep the frost off, very easy care.  Many have dramatic flowers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ab73c49-caf7-45de-af8c-6b4533fce2c2",
+        "type": "message",
+        "text": "I would agree that it is pointless to argue about taste. However, some people are really fussy and make things difficult.",
+        "user": "U013BNX11CG",
+        "ts": "1588220067.011600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XIbk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would agree that it is pointless to argue about taste. However, some people are really fussy and make things difficult."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0196cd5-2d8a-422f-a174-d696efda5614",
+        "type": "message",
+        "text": "you can grow a pineapple easily from the tuft and it makes an interesting pot plant, but sadly you can",
+        "user": "U012MTPDH98",
+        "ts": "1588220073.011800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RgBeR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can grow a pineapple easily from the tuft and it makes an interesting pot plant, but sadly you can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c4a5fa1-0051-4ba7-80e1-e639e8c562af",
+        "type": "message",
+        "text": "'t geet the tufts any more",
+        "user": "U012MTPDH98",
+        "ts": "1588220086.012400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nxfsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "'t geet the tufts any more"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61b1dc9e-24f0-4687-82ad-06fa4abb31bd",
+        "type": "message",
+        "text": "Agreed <@U013BNX11CG>",
+        "user": "U012MTPDH98",
+        "ts": "1588220108.013300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YT7r6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013BNX11CG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AA792029-2573-4D18-AA49-792657ADEC11",
+        "type": "message",
+        "text": "Agreed <@U013BNX11CG> ",
+        "user": "U0130GKUGCR",
+        "ts": "1588220161.014400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ovmp1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agreed "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013BNX11CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2679021-4dff-4100-af9b-5cbbf4990b90",
+        "type": "message",
+        "text": "I think <@U012U3HJ0FN> must be itching for a fight... haven't heard from them",
+        "user": "U012MTPDH98",
+        "ts": "1588220194.015500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tYI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " must be itching for a fight... haven't heard from them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b69f66a-c235-423f-bcac-04a910f5e9f4",
+        "type": "message",
+        "text": "Or are they not here?",
+        "user": "U012MTPDH98",
+        "ts": "1588220212.016100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LvZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or are they not here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93ac6299-0c25-491e-a917-84c5520dd2d4",
+        "type": "message",
+        "text": "They just arrived.",
+        "user": "U013BNX11CG",
+        "ts": "1588220220.016700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XGG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They just arrived."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a31d5564-5d27-4311-a2a3-c5998d2930ac",
+        "type": "message",
+        "text": "Sorry Late back from an appointment!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220224.017000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry Late back from an appointment!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9e4de56-d0bd-4887-a62f-870eadc1422b",
+        "type": "message",
+        "text": "Do you agreed pinapples are a bromeliad?",
+        "user": "U012MTPDH98",
+        "ts": "1588220240.017800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rcp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you agreed pinapples are a bromeliad?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A97467A3-D2C1-46D0-A313-690D8683B409",
+        "type": "message",
+        "text": "Can we agree that it is better to get a pizza with pineapple on it so that those who like it can enjoy it and those who don’t can pick it off??",
+        "user": "U0130GKUGCR",
+        "ts": "1588220249.018100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we agree that it is better to get a pizza with pineapple on it so that those who like it can enjoy it and those who don’t can pick it off??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "209ecd97-b2e0-4c39-b60b-67ea48e64bb1",
+        "type": "message",
+        "text": "How about dessicated pinapple so it doesn't leak juice",
+        "user": "U012MTPDH98",
+        "ts": "1588220281.019400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wmvuh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about dessicated pinapple so it doesn't leak juice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d71a0cd0-280c-4d49-ad83-fd9d96392cb1",
+        "type": "message",
+        "text": "No I do not like pineapple on pizza.  Makes it soggy.  Just reading through comments to see if this is the consensus.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220287.019600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No I do not like pineapple on pizza.  Makes it soggy.  Just reading through comments to see if this is the consensus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "070cf28d-617b-4f4b-be9b-d9a9c2816ee4",
+        "type": "message",
+        "text": "<@U0130GKUGCR> is an outlier",
+        "user": "U012MTPDH98",
+        "ts": "1588220313.020700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gV1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is an outlier"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f25d9eb4-1ae0-4c09-80b7-3ddce94d720e",
+        "type": "message",
+        "text": "But nice try with the picking stuff off",
+        "user": "U012MTPDH98",
+        "ts": "1588220328.021400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j79",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But nice try with the picking stuff off"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "257b1ed7-8856-4cd8-851f-c041c2d576b7",
+        "type": "message",
+        "text": "If you are making some pizzas, it is not hard to make one without pineapple on it.",
+        "user": "U013BNX11CG",
+        "ts": "1588220335.021800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hSOC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you are making some pizzas, it is not hard to make one without pineapple on it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1993d7e-cf94-4225-a684-21c3bacd298a",
+        "type": "message",
+        "text": "or two",
+        "user": "U013BNX11CG",
+        "ts": "1588220346.022600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y00rK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or two"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f012883d-b10e-4741-b6fc-4717be5829de",
+        "type": "message",
+        "text": "How about grilling some pinapple alongside the pizza so those that like it can sprinkle it on?",
+        "user": "U012MTPDH98",
+        "ts": "1588220362.023800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E95",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about grilling some pinapple alongside the pizza so those that like it can sprinkle it on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "348e8759-cd92-430c-82d9-4aadaaabb529",
+        "type": "message",
+        "text": "Also like the idea of two pizzas",
+        "user": "U012MTPDH98",
+        "ts": "1588220371.024300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aDUod",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also like the idea of two pizzas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eaf9b2f3-23ee-4ca7-9c92-31006ae69a0f",
+        "type": "message",
+        "text": "SO who doesn't like pineapple on pizza?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220372.024400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ydy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SO who doesn't like pineapple on pizza?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58bf0eb8-a019-4d57-8524-3d82e58a8281",
+        "type": "message",
+        "text": "They wont stick on though and will just fall off.",
+        "user": "U013BNX11CG",
+        "ts": "1588220390.024900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JbxVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They wont stick on though and will just fall off."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8108dcfb-8600-456e-af01-25525eb3a911",
+        "type": "message",
+        "text": "Not super much",
+        "user": "U012MTPDH98",
+        "ts": "1588220404.025600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+LF2u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not super much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E499E80C-C8B4-4066-B59E-A114275B00B8",
+        "type": "message",
+        "text": "They’ll stick if your cheese is melted, I like that idea",
+        "user": "U0130GKUGCR",
+        "ts": "1588220410.026100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Bk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They’ll stick if your cheese is melted, I like that idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41fabdc1-c353-445e-8777-684bbf3978b7",
+        "type": "message",
+        "text": "If you are quick.",
+        "user": "U013BNX11CG",
+        "ts": "1588220422.026900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PSw5i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you are quick."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe07a294-fc21-45e9-b5f3-3adffb969cb8",
+        "type": "message",
+        "text": "Is Copperbrilly (and Bill English) the only one who thinks pineapple on pizza is an ok thing?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220425.027100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9Cr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is Copperbrilly (and Bill English) the only one who thinks pineapple on pizza is an ok thing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0BBD6A98-4B6E-4F1D-A695-7D5E7FFF1E57",
+        "type": "message",
+        "text": "Not such an outlier after all huh :wink:",
+        "user": "U0130GKUGCR",
+        "ts": "1588220432.027300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not such an outlier after all huh "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "236fe127-0047-434e-97d6-d3f2abe8ce96",
+        "type": "message",
+        "text": "If you put pineapple under the cheese, the juice sogs into the pizza base.  Not optimal",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220458.028000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g9yA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you put pineapple under the cheese, the juice sogs into the pizza base.  Not optimal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bac091c-ea58-4568-8cc4-2659f422663f",
+        "type": "message",
+        "text": "No, not optimal.",
+        "user": "U013BNX11CG",
+        "ts": "1588220478.028700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6eda",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, not optimal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36033a94-cb23-4621-8cf0-835ae32ad29a",
+        "type": "message",
+        "text": "Well, <@U0130GKUGCR> likes grilled then sprinkled, the rest are happy without, so how about it?",
+        "user": "U012MTPDH98",
+        "ts": "1588220508.029700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g0j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " likes grilled then sprinkled, the rest are happy without, so how about it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ACA86AA-524C-4335-B317-1CC1D6CA9F7F",
+        "type": "message",
+        "text": "Doesn’t even have to be grilled...",
+        "user": "U0130GKUGCR",
+        "ts": "1588220530.030700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0+OIZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Doesn’t even have to be grilled..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60e822d0-0898-4c59-8a49-a2cc36474e93",
+        "type": "message",
+        "text": "I am happy without pineapple.",
+        "user": "U013BNX11CG",
+        "ts": "1588220541.031100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ITmv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am happy without pineapple."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cabc6819-5a01-42ef-9475-61d16d4f1ab8",
+        "type": "message",
+        "text": "I mean, the consensus position is prepare the pinapple for later addition and then cook sans said bromeliad",
+        "user": "U012MTPDH98",
+        "ts": "1588220574.032200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ThtFc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean, the consensus position is prepare the pinapple for later addition and then cook sans said bromeliad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edfd5e8b-c6d3-44a7-82bb-38a990e3b170",
+        "type": "message",
+        "text": "Correct?",
+        "user": "U012MTPDH98",
+        "ts": "1588220592.032800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Correct?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7956b36a-0960-4bcd-a5a6-1c37976e52bb",
+        "type": "message",
+        "text": "I do not like pineapple on pizza, but as there are other pizza toppings around, I just don't buy Hawaiian pizzas. Can we say that we may not like pineapple on pizza but recognize the individual right to put it on a pizza?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220593.032900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ffBu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do not like pineapple on pizza, but as there are other pizza toppings around, I just don't buy Hawaiian pizzas. Can we say that we may not like pineapple on pizza but recognize the individual right to put it on a pizza?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01603e9b-5f40-4ab0-96ca-73a4d9d3c191",
+        "type": "message",
+        "text": "I am also happy with that",
+        "user": "U012MTPDH98",
+        "ts": "1588220613.033300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76\/P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am also happy with that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9ae5dd9-de9a-4819-8f9d-c91bd4b140b7",
+        "type": "message",
+        "text": "I agree with that.",
+        "user": "U013BNX11CG",
+        "ts": "1588220617.033500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NZ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7d6c917-528e-4282-9e76-e9211418414d",
+        "type": "message",
+        "text": "So do I",
+        "user": "U012MTPDH98",
+        "ts": "1588220627.033700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NBadM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So do I"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24bd85f4-d03f-47f2-8e60-26c859f7ee9c",
+        "type": "message",
+        "text": "Me too",
+        "user": "U012MTPDH98",
+        "ts": "1588220636.034000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a1b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9af0d5b-cfd1-4d88-bba0-a4ad16161cc0",
+        "type": "message",
+        "text": "Count me in",
+        "user": "U012MTPDH98",
+        "ts": "1588220643.034300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lgq+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Count me in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5369b7f-04b8-4951-ab03-35e189087795",
+        "type": "message",
+        "text": "Copperbrilly?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220644.034400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ls1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Copperbrilly?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af571ef2-c168-4bc8-9cd6-134a785d59da",
+        "type": "message",
+        "text": "Copperbrilly?",
+        "user": "U013BNX11CG",
+        "ts": "1588220664.034900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Copperbrilly?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95423D2A-C460-48C9-9B16-B7121718CC65",
+        "type": "message",
+        "text": "Haha I guess so",
+        "user": "U0130GKUGCR",
+        "ts": "1588220684.035100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3sy+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha I guess so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U012MTPDH98"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U012U3HJ0FN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8aac764d-3147-4759-9718-26fd38232658",
+        "type": "message",
+        "text": "Huzzah!",
+        "user": "U012U3HJ0FN",
+        "ts": "1588220698.035500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ZdUS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Huzzah!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8aea5335-ff75-43f1-8725-6219f9a081fb",
+        "type": "message",
+        "text": "(push the little button <@U0130GKUGCR>)",
+        "user": "U012MTPDH98",
+        "ts": "1588220710.036100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCzl1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(push the little button "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "939bc550-7304-4b2f-8253-a078b1154f11",
+        "type": "message",
+        "text": "Oh, there you go",
+        "user": "U012MTPDH98",
+        "ts": "1588220716.036400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=4LI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, there you go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a86f9ae4-e498-4473-b687-15b89f26e7e4",
+        "type": "message",
+        "text": "Well this has reached a consensus",
+        "user": "U0126U931AB",
+        "ts": "1588220755.037300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well this has reached a consensus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ba825cb-add0-4eb1-99b9-231c90ba883c",
+        "type": "message",
+        "text": "Yay!",
+        "user": "U013BNX11CG",
+        "ts": "1588220766.037800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HRaUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yay!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9eb560d-5070-470e-b59c-e42458086bc7",
+        "type": "message",
+        "text": "Come with me to <#C013099LJPK|general>",
+        "user": "U0126U931AB",
+        "ts": "1588220769.037900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQFX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Come with me to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C013099LJPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

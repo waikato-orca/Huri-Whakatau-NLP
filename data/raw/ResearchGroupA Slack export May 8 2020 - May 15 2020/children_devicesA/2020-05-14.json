@@ -1,0 +1,144 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589508452.000300",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> set the channel purpose: Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?",
+        "purpose": "Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589508472.001500",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> set the channel topic: Should children have mobile devices like smartphones?",
+        "topic": "Should children have mobile devices like smartphones?"
+    },
+    {
+        "client_msg_id": "59b8cf6a-45c3-425a-b224-c8bf74ffe78b",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U013HQRJLRJ",
+        "ts": "1589508478.001700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kqxk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013TT5TDR7",
+                    "U0130GFAT8X",
+                    "U013F8V6ZH8",
+                    "U013ME40S6Q"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1930dca3-4a9a-4ecf-8224-1e11a27d7567",
+        "type": "message",
+        "text": "What age do you think it is OK to get a smartphone",
+        "user": "U013ME40S6Q",
+        "ts": "1589508527.003300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3yb2+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What age do you think it is OK to get a smartphone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07d818bd-172b-402f-a22e-2077705ba053",
+        "type": "message",
+        "text": "It's hard to say cause I don't have children.\nMy young cousins, the older one has one and they're about 13, the younger plays games on their parent's one",
+        "user": "U013TT5TDR7",
+        "ts": "1589508560.003800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pkWEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's hard to say cause I don't have children.\nMy young cousins, the older one has one and they're about 13, the younger plays games on their parent's one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "C0138FM2EF8",
+    "name": "pc_help_deskB",
+    "created": 1589234452,
+    "creator": "U013HQYVAF6",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U013HQYVAF6"],
+    "topic": {
+      "value": "Screenshots show how to do things on a regular computer",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589416130
+    },
+    "purpose": {
+      "value": "Screenshots show how to do things on a regular computer",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589235575
+    }
+  },
+  {
+    "id": "C0138FNTK7Y",
+    "name": "mobile_help_deskB",
+    "created": 1589234508,
+    "creator": "U013HQYVAF6",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U013HQYVAF6"],
+    "topic": {
+      "value": "Screenshots show how to do things on a mobile device",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589416111
+    },
+    "purpose": {
+      "value": "Screenshots show how to do things on a mobile device",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589235588
+    }
+  },
+  {
+    "id": "C013BRVAMGB",
+    "name": "generalB",
+    "created": 1588984111,
+    "creator": "U013HQYVAF6",
+    "is_archived": false,
+    "is_general": true,
+    "members": ["U013HQYVAF6"],
+    "pins": [
+      {
+        "id": "1589154925.000200",
+        "type": "C",
+        "created": 1589154932,
+        "user": "U013HQYVAF6",
+        "owner": "U013HQYVAF6"
+      }
+    ],
+    "topic": {
+      "value": "Questions about the study can be asked here",
+      "creator": "U013HQYVAF6",
+      "last_set": 1588984314
+    },
+    "purpose": {
+      "value": "Questions can be asked here",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589162102
+    }
+  },
+  {
+    "id": "C013DGM2XQT",
+    "name": "aiB",
+    "created": 1589182669,
+    "creator": "U013HQYVAF6",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U013HQYVAF6"],
+    "topic": {
+      "value": "What should we worry about with the emergence of intelligent machines?",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589182694
+    },
+    "purpose": {
+      "value": "With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589182758
+    }
+  },
+  {
+    "id": "C013EGL5SGN",
+    "name": "children_devicesB",
+    "created": 1589440850,
+    "creator": "U013HQYVAF6",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U013HQYVAF6"],
+    "topic": {
+      "value": "Should children have mobile devices like smartphones?",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589440888
+    },
+    "purpose": {
+      "value": "Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589440903
+    }
+  },
+  {
+    "id": "C0143446S1W",
+    "name": "ketchup_vs_mustardB",
+    "created": 1589180688,
+    "creator": "U013HQYVAF6",
+    "is_archived": false,
+    "is_general": false,
+    "members": ["U013HQYVAF6"],
+    "pins": [
+      {
+        "id": "1589180709.001400",
+        "type": "C",
+        "created": 1589180715,
+        "user": "U013HQYVAF6",
+        "owner": "U013HQYVAF6"
+      }
+    ],
+    "topic": {
+      "value": "Ketchup vs Mustard: Which is the better condiment?",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589180812
+    },
+    "purpose": {
+      "value": "Ketchup vs Mustard: Which is the better condiment?",
+      "creator": "U013HQYVAF6",
+      "last_set": 1589180689
+    }
+  }
+]

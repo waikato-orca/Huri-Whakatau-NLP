@@ -1,0 +1,598 @@
+[
+    {
+        "client_msg_id": "8557efaf-9991-4a7c-88d4-b101f7e312cd",
+        "type": "message",
+        "text": "This discussion has concluded with a consensus",
+        "user": "U013A8TCPDK",
+        "ts": "1589439604.063900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UQ3gy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This discussion has concluded with a consensus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "grinning",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c7ff5f8-bafa-4324-a179-07ff62579d5d",
+        "type": "message",
+        "text": "Thank you guys heaps for participating!",
+        "user": "U013A8TCPDK",
+        "ts": "1589439619.064400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DylK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you guys heaps for participating!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "911c0f16-37d6-4811-b8a5-f8076bfb5c81",
+        "type": "message",
+        "text": "<@U013A8TCPDK> No worries - it was fun actually!",
+        "user": "U014AL8CUSU",
+        "ts": "1589439638.065100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ub1Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013A8TCPDK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No worries - it was fun actually!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26010886-87f0-4d98-bb81-8078adde8908",
+        "type": "message",
+        "text": "I feel like I need a massage and some chocolate.",
+        "user": "U014AL8B2TA",
+        "ts": "1589439666.065500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1uL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel like I need a massage and some chocolate."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a063872c-1fbb-4a3b-87ac-11cb33c13f1f",
+        "type": "message",
+        "text": "<@U014AL8B2TA> No mustard??",
+        "user": "U014AL8CUSU",
+        "ts": "1589439688.066300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ERr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014AL8B2TA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No mustard??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U013M1S8U67",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            },
+            {
+                "name": "stuck_out_tongue_winking_eye",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef7b55e9-ad46-4b3e-b75b-294819c4f3d5",
+        "type": "message",
+        "text": "So tomorrow night at 7pm all good for everyone to come back and discuss the last 2 topics?",
+        "user": "U013A8TCPDK",
+        "ts": "1589439696.066600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFWY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So tomorrow night at 7pm all good for everyone to come back and discuss the last 2 topics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67",
+                    "U013KDVS71B",
+                    "U014AL8CUSU"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ok_hand::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dcad0ca-8b5b-4d29-9f82-8cd84d20350a",
+        "type": "message",
+        "text": "Yep - good for me - have it scheduled in my calendar - which will beep at me to remind me!!!:blush:",
+        "user": "U014AL8CUSU",
+        "ts": "1589439732.067800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XS9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep - good for me - have it scheduled in my calendar - which will beep at me to remind me!!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e1ad4d5-d0c9-449e-9783-1bf5ef72b53d",
+        "type": "message",
+        "text": "Cool. Thanks heaps",
+        "user": "U013A8TCPDK",
+        "ts": "1589439759.068200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NRnT8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. Thanks heaps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21e0b529-f846-43ad-98cd-5777dff493bb",
+        "type": "message",
+        "text": "Good chat guys!:facepunch::skin-tone-5:",
+        "user": "U014AL8B2TA",
+        "ts": "1589439769.068500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good chat guys!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "facepunch",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "nerd_face",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36d8b5c4-d3fb-4d92-baab-c3dc6e3c41bb",
+        "type": "message",
+        "text": ":sunglasses::sunglasses:",
+        "user": "U013KDVS71B",
+        "ts": "1589439787.068700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15262472-a583-4a2c-9e12-cca473d02b25",
+        "type": "message",
+        "text": "See you all tomorrow",
+        "user": "U013KDVS71B",
+        "ts": "1589439796.069200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JvLzy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See you all tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9E623C6C-BB69-474D-980A-89A852861463",
+        "type": "message",
+        "text": "See ya tomorrow :blush:",
+        "user": "U013M1S8U67",
+        "ts": "1589439799.069400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99CGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See ya tomorrow "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8a4156d-1b65-4920-b5b5-0809533fe47d",
+        "type": "message",
+        "text": "Night all!",
+        "user": "U014AL8CUSU",
+        "ts": "1589439814.069700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQxhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Night all!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

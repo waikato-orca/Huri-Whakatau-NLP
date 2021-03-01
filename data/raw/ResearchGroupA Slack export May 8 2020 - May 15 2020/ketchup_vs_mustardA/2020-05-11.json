@@ -1,0 +1,2529 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589238657.000200",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589238658.000300",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> set the channel purpose: Ketchup vs Mustard: Which is the better condiment?",
+        "purpose": "Ketchup vs Mustard: Which is the better condiment?"
+    },
+    {
+        "client_msg_id": "38a6ec71-3cfb-41f4-a58d-76b8a073e55b",
+        "type": "message",
+        "text": "I agree",
+        "user": "U013HQRJLRJ",
+        "ts": "1589238669.001600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0130GFAT8X",
+                    "U013F8V6ZH8",
+                    "U013TT5TDR7",
+                    "U013ME40S6Q"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6cadb29-5113-4f13-89da-aba17c09c44f",
+        "type": "message",
+        "text": "Do we like that message too?",
+        "user": "U013ME40S6Q",
+        "ts": "1589238686.002100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4B\/43",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we like that message too?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3577c64-1071-4912-80ba-63efb07cbd88",
+        "type": "message",
+        "text": "Yep so everyone can start discussing now to try to reach a consensus",
+        "user": "U013HQRJLRJ",
+        "ts": "1589238730.003100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AZFe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep so everyone can start discussing now to try to reach a consensus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f33e2d43-ec24-4097-9787-c7d2e74dc6f5",
+        "type": "message",
+        "text": "Mustard",
+        "user": "U013ME40S6Q",
+        "ts": "1589238731.003200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GBQf9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04cbb4b3-7329-4e00-9394-ba52081ad50a",
+        "type": "message",
+        "text": "Only when we finish I think, when we've all come to an agreement",
+        "user": "U013TT5TDR7",
+        "ts": "1589238735.003400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wUC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Only when we finish I think, when we've all come to an agreement"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff8d2bbf-67b2-47bf-875f-5ddb86999cc5",
+        "type": "message",
+        "text": "Got it",
+        "user": "U013ME40S6Q",
+        "ts": "1589238746.003600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V2Oxb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd626322-a8d7-46f5-b670-25bf30475476",
+        "type": "message",
+        "text": "Mustard is more of an acquired taste.",
+        "user": "U0130GFAT8X",
+        "ts": "1589238768.004500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0IC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard is more of an acquired taste."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1152ccf8-1bc9-4ba7-a6c8-9226fb8d881f",
+        "type": "message",
+        "text": "So I think 'ketchup' tomato sauce is more versatile though I do like mustard a lot",
+        "user": "U013TT5TDR7",
+        "ts": "1589238772.004800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLzS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I think 'ketchup' tomato sauce is more versatile though I do like mustard a lot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da48da99-ea0f-4100-af8c-51a6d4a6a56b",
+        "type": "message",
+        "text": "How about lots of both on a hot dog?",
+        "user": "U013ME40S6Q",
+        "ts": "1589238784.005400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WbkVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about lots of both on a hot dog?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a2170be-99e5-4c3c-a7f6-d9a489f33708",
+        "type": "message",
+        "text": "Yes, versatility is good",
+        "user": "U0130GFAT8X",
+        "ts": "1589238785.005500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, versatility is good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "893064d6-277f-4e41-b235-fe196dfe7b45",
+        "type": "message",
+        "text": "If 'ketchup AND mustard' was an option I'd say that's the best",
+        "user": "U0130GFAT8X",
+        "ts": "1589238813.007000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Goa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If 'ketchup AND mustard' was an option I'd say that's the best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9afe05b4-26b9-472e-85ae-7cf6d25cf0aa",
+        "type": "message",
+        "text": "Yeah, both is often nice on sausages I think, but I think there are probably more uses for tomato sauce than mustard",
+        "user": "U013TT5TDR7",
+        "ts": "1589238821.007600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3a2+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, both is often nice on sausages I think, but I think there are probably more uses for tomato sauce than mustard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34bfd981-138a-4b94-bfde-8682100cf64a",
+        "type": "message",
+        "text": "But considering the separately...",
+        "user": "U0130GFAT8X",
+        "ts": "1589238824.007800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MLgs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But considering the separately..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3eb929ba-43a5-4d0c-946b-2b4d72957f2d",
+        "type": "message",
+        "text": "I think mustard is better. Because it's healthier than ketchup with low carbohydrate and fat. And mustard has a stronger taste",
+        "user": "U013F8V6ZH8",
+        "ts": "1589238827.008000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gRuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think mustard is better. Because it's healthier than ketchup with low carbohydrate and fat. And mustard has a stronger taste"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f04d54c-9113-4525-ac4c-ca9b50f43278",
+        "type": "message",
+        "text": "I have mustard less often, so it feels like more of a treat than ketchup",
+        "user": "U0130GFAT8X",
+        "ts": "1589238864.008500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yFu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have mustard less often, so it feels like more of a treat than ketchup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f854aeba-0fff-46f3-9f16-ae21f2e14c32",
+        "type": "message",
+        "text": "Maybe that's just because Mum buys it less often. Which do you guys have more often?",
+        "user": "U0130GFAT8X",
+        "ts": "1589238889.009300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe that's just because Mum buys it less often. Which do you guys have more often?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f067d7ae-bdb9-4c02-b23a-1c6b6185686c",
+        "type": "message",
+        "text": "Mustard seems to be in shorter supply and disappear faster",
+        "user": "U013ME40S6Q",
+        "ts": "1589238912.010500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U013ME40S6Q",
+            "ts": "1589238929.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard seems to be in shorter supply and disappear faster"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "caf9afb4-b34b-4252-9122-23b62d46c946",
+        "type": "message",
+        "text": "Mustard has more of a variety in quality and kinds I think.\nDijon is quite different to American",
+        "user": "U013TT5TDR7",
+        "ts": "1589238930.011200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M\/fm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard has more of a variety in quality and kinds I think.\nDijon is quite different to American"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ab605d6-59ae-4392-b43c-ea57dd713fb0",
+        "type": "message",
+        "text": "Ketchup can be chunky, smooth...",
+        "user": "U0130GFAT8X",
+        "ts": "1589238944.011900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v=5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ketchup can be chunky, smooth..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1c60139-289f-488f-ac1c-1d8d3eff0786",
+        "type": "message",
+        "text": "Mustard my in fact prevent COVID 19",
+        "user": "U013ME40S6Q",
+        "ts": "1589238948.012000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m19VW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard my in fact prevent COVID 19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24a4c87e-cc00-493c-8e41-f71b0644fbaa",
+        "type": "message",
+        "text": "There was a weapon named after mustard. Mustard gas.",
+        "user": "U0130GFAT8X",
+        "ts": "1589238981.012600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ITa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There was a weapon named after mustard. Mustard gas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8713958b-b5c4-4ed5-9dc7-d7137f9c36ac",
+        "type": "message",
+        "text": "Sorry, not really relevant",
+        "user": "U0130GFAT8X",
+        "ts": "1589238995.013100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "55xL3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry, not really relevant"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4341922e-0483-4a1c-a748-742ee0f6bbf5",
+        "type": "message",
+        "text": "Mustard is German",
+        "user": "U013ME40S6Q",
+        "ts": "1589239027.014400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard is German"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f927444-8a6d-44c2-b91a-c52e458979da",
+        "type": "message",
+        "text": "I think as a sauce tomato sauce is better but no one would use it in actual cooking, you'd use tomato paste or actual tomatoes instead, mustard you can cook with however, given the right type.",
+        "user": "U013TT5TDR7",
+        "ts": "1589239031.014800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ZXRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think as a sauce tomato sauce is better but no one would use it in actual cooking, you'd use tomato paste or actual tomatoes instead, mustard you can cook with however, given the right type."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c78e2c7-c340-4d70-ab60-d4017ca3a598",
+        "type": "message",
+        "text": "Everything germans make is good",
+        "user": "U013ME40S6Q",
+        "ts": "1589239037.015200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Everything germans make is good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc7a757a-1e3e-4b44-9561-7e389cc5ee2a",
+        "type": "message",
+        "text": "Yeah, let's go with that german = good, therefore mustard",
+        "user": "U013TT5TDR7",
+        "ts": "1589239058.015900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "36CLU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, let's go with that german = good, therefore mustard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b001f758-231b-46a6-8807-7eb561f49f40",
+        "type": "message",
+        "text": "Ketchup can actually be added in different cuisine to add some extra flavour, e.g., curry",
+        "user": "U013F8V6ZH8",
+        "ts": "1589239068.016000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rn6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ketchup can actually be added in different cuisine to add some extra flavour, e.g., curry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7853b82e-62e0-42bd-bef9-10f7cec4f96d",
+        "type": "message",
+        "text": "But why not paste instead though? I've never heard of using the sauce",
+        "user": "U013TT5TDR7",
+        "ts": "1589239090.017100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But why not paste instead though? I've never heard of using the sauce"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4556259f-ddba-45bf-86d4-02439132810d",
+        "type": "message",
+        "text": "Right, so everyone who thinks mustard likes the pinned message...?",
+        "user": "U013ME40S6Q",
+        "ts": "1589239099.017300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQe0V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right, so everyone who thinks mustard likes the pinned message...?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d906b1e3-945d-4722-96c9-2b16a3028dc4",
+        "type": "message",
+        "text": "Mustard can too",
+        "user": "U013ME40S6Q",
+        "ts": "1589239114.017600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i1qc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mustard can too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c189971-8803-40b0-932d-dadf08b48d2e",
+        "type": "message",
+        "text": "Right. Ummm good to know that",
+        "user": "U013F8V6ZH8",
+        "ts": "1589239124.018000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z=E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right. Ummm good to know that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08e1cc24-4532-4f15-93c4-0e689737c0b5",
+        "type": "message",
+        "text": "Okay, I will click for mustard...",
+        "user": "U013TT5TDR7",
+        "ts": "1589239151.018700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iq=Ya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, I will click for mustard..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67014837-5bce-4864-9ef6-3de75ea46510",
+        "type": "message",
+        "text": "Try it in salad dressings",
+        "user": "U013ME40S6Q",
+        "ts": "1589239153.018800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IJT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Try it in salad dressings"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b1ae874-a4b0-45f5-bee9-5eacc45d7e31",
+        "type": "message",
+        "text": "Let me just get it clear. We have considered versatility, flavour, and scarcity.",
+        "user": "U0130GFAT8X",
+        "ts": "1589239175.019600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ck5xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let me just get it clear. We have considered versatility, flavour, and scarcity."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c47d1a6-ea56-4168-8d41-fbf90e836f39",
+        "type": "message",
+        "text": "Did we conclude which one is more versatile?",
+        "user": "U0130GFAT8X",
+        "ts": "1589239195.020100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did we conclude which one is more versatile?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92fa48e6-8bd2-4416-936e-d00137722060",
+        "type": "message",
+        "text": "Well, I think, as a sauce, tomato sauce is more versatile, but overrall, mustard is more versatile.\nSince we're talking about the better _condiment_, I'd give tomato sauce the point for that.",
+        "user": "U013TT5TDR7",
+        "ts": "1589239249.021500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nMjL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, I think, as a sauce, tomato sauce is more versatile, but overrall, mustard is more versatile.\nSince we're talking about the better "
+                            },
+                            {
+                                "type": "text",
+                                "text": "condiment",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I'd give tomato sauce the point for that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e29694d-59db-431b-951a-dd519149efbd",
+        "type": "message",
+        "text": "I think so, too.",
+        "user": "U0130GFAT8X",
+        "ts": "1589239278.021800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqP\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think so, too."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68e82f28-d56a-4c01-aa2e-49b5e42b5be3",
+        "type": "message",
+        "text": "And I don",
+        "user": "U013TT5TDR7",
+        "ts": "1589239296.022300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "StBhR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I don"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "234b3c0b-68a0-4857-9aa1-2282a4c4dc9c",
+        "type": "message",
+        "text": "As for flavour, mustard is stronger.",
+        "user": "U0130GFAT8X",
+        "ts": "1589239298.022700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T2P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As for flavour, mustard is stronger."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a450255-84de-408c-b5d4-b8ee3198151a",
+        "type": "message",
+        "text": "And I don",
+        "user": "U013TT5TDR7",
+        "ts": "1589239300.023000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xOQ=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I don"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a31b5dcb-e59c-4a7f-8ab0-4d411c6c4d84",
+        "type": "message",
+        "text": "Wow, fail on pressing the apostrophe for me...",
+        "user": "U013TT5TDR7",
+        "ts": "1589239313.023500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tZ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, fail on pressing the apostrophe for me..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bedbf2fe-ac84-4a80-9d38-fd5131ea2adf",
+        "type": "message",
+        "text": "And I don't think I would ever have mustard on its own, I would always have it with sauce, because on its own it's too strong",
+        "user": "U013TT5TDR7",
+        "ts": "1589239346.024800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orJO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I don't think I would ever have mustard on its own, I would always have it with sauce, because on its own it's too strong"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07d90a1c-6b00-4014-96cc-56025041aea1",
+        "type": "message",
+        "text": "Right. I agree.",
+        "user": "U013F8V6ZH8",
+        "ts": "1589239391.025900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eMTW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right. I agree."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb73d2e9-a0f5-4e6a-b705-884e17ef9ec0",
+        "type": "message",
+        "text": "Who else has tried a tablespoon of straight tomato sauce?",
+        "user": "U013ME40S6Q",
+        "ts": "1589239394.026100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YMo7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who else has tried a tablespoon of straight tomato sauce?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b26c1a6-8491-4010-8753-744a3d60c7a6",
+        "type": "message",
+        "text": "Can't you just put less on, and then it won't be so strong?",
+        "user": "U0130GFAT8X",
+        "ts": "1589239397.026200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7tQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can't you just put less on, and then it won't be so strong?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0540de0-9589-454d-96fd-0e16676b99a3",
+        "type": "message",
+        "text": "And if you want a stronger ketchup flavour, you can put _more_ on. But then you have more carbs or whatever.",
+        "user": "U0130GFAT8X",
+        "ts": "1589239430.027000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NQej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And if you want a stronger ketchup flavour, you can put "
+                            },
+                            {
+                                "type": "text",
+                                "text": "more ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "on. But then you have more carbs or whatever."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2741c1f1-7200-4878-bbd6-1c406478d025",
+        "type": "message",
+        "text": "I think gram for gram you get more effect for mustard",
+        "user": "U013ME40S6Q",
+        "ts": "1589239455.027900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IIx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think gram for gram you get more effect for mustard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ac508e9-6f66-4f05-91e6-11316f3dc3a0",
+        "type": "message",
+        "text": "I.e mustard is more potent so you need less of it",
+        "user": "U013ME40S6Q",
+        "ts": "1589239477.028800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6VGL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I.e mustard is more potent so you need less of it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5584b870-0dad-4805-87f3-11f93225e11b",
+        "type": "message",
+        "text": "No, I haven't tried a tablespoon on its own.\nNo I don't think you can just do more or less, because you may not want so much sauce on your chip for example. It's about the flavour per millilitre I guess",
+        "user": "U013TT5TDR7",
+        "ts": "1589239499.029800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gm4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, I haven't tried a tablespoon on its own.\nNo I don't think you can just do more or less, because you may not want so much sauce on your chip for example. It's about the flavour per millilitre I guess"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cff4f603-3d34-4edc-a18d-30b73b648fac",
+        "type": "message",
+        "text": "unless its American mustard, and then you want lots on top of your sausage",
+        "user": "U013ME40S6Q",
+        "ts": "1589239501.029900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KR3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "unless its American mustard, and then you want lots on top of your sausage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "200b030d-2c3a-4656-b3ab-8c0a21b6099f",
+        "type": "message",
+        "text": "And as Moonmoth said, it is healthier.",
+        "user": "U0130GFAT8X",
+        "ts": "1589239502.030100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c\/Yn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And as Moonmoth said, it is healthier."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9101bcf8-f5d7-4ef8-a8f7-569bf35061c5",
+        "type": "message",
+        "text": "All who think mustard is better, say aye",
+        "user": "U013ME40S6Q",
+        "ts": "1589239529.030600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HbBG=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All who think mustard is better, say aye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fb34769-1599-44d6-a594-801713b8e9b7",
+        "type": "message",
+        "text": "Aye",
+        "user": "U013TT5TDR7",
+        "ts": "1589239543.030800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y4Iim",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "565cbfce-9db6-4bd1-8f9a-6402b41c7147",
+        "type": "message",
+        "text": "aye",
+        "user": "U013F8V6ZH8",
+        "ts": "1589239545.031000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VNT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d81d5051-9de5-4ab3-a55c-ac424867ba6a",
+        "type": "message",
+        "text": "aye",
+        "user": "U013ME40S6Q",
+        "ts": "1589239551.031200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I3RO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bf0b6c2-0e4b-4f4d-95d0-45dec2c56de8",
+        "type": "message",
+        "text": "manymagpie?",
+        "user": "U013TT5TDR7",
+        "ts": "1589239560.031500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "elu5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "manymagpie?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39b4d37c-ff43-4c72-bd38-a92c27e7f341",
+        "type": "message",
+        "text": "aye",
+        "user": "U0130GFAT8X",
+        "ts": "1589239569.031800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bdeca5f-d867-4f58-a14e-d23deda55c87",
+        "type": "message",
+        "text": "And I just liked the agree message",
+        "user": "U0130GFAT8X",
+        "ts": "1589239580.032400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N2px\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I just liked the agree message"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "714cdeac-d6f0-43a8-9716-d164123c5b42",
+        "type": "message",
+        "text": "Alright, lets give it the thumbs up",
+        "user": "U013ME40S6Q",
+        "ts": "1589239584.032700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X=Si",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alright, lets give it the thumbs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c4e59ae-1559-4ba1-929f-ea98af498a28",
+        "type": "message",
+        "text": "Horay",
+        "user": "U013ME40S6Q",
+        "ts": "1589239593.033100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WUT=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Horay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd82f466-8523-461c-8d16-4ce2e4b5b351",
+        "type": "message",
+        "text": "That's 4",
+        "user": "U013TT5TDR7",
+        "ts": "1589239594.033200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cvdL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's 4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a639577-8635-476c-98df-6cd1dbf1c85f",
+        "type": "message",
+        "text": "where is Arg20",
+        "user": "U013ME40S6Q",
+        "ts": "1589239610.033700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5FZp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where is Arg20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9a2257d-f391-4df6-8800-e9171f8bbfc4",
+        "type": "message",
+        "text": "This discussion has concluded with a consensus.",
+        "user": "U013HQRJLRJ",
+        "ts": "1589239617.033900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gzs+h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This discussion has concluded with a consensus."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffac420c-71a7-44fe-be42-bcb2cc97125b",
+        "type": "message",
+        "text": "Do we get a lollipop?",
+        "user": "U013ME40S6Q",
+        "ts": "1589239632.034600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJ9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we get a lollipop?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e6878de-0c0b-4e6d-90d0-83176c4e9ae8",
+        "type": "message",
+        "text": "Meet me back in <#C013BKGS6TU|general>",
+        "user": "U013HQRJLRJ",
+        "ts": "1589239640.034900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MQM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meet me back in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C013BKGS6TU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

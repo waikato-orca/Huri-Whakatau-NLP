@@ -1,0 +1,2891 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589239825.000600",
+        "user": "U0130GFAT8X",
+        "text": "<@U0130GFAT8X> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589239825.000800",
+        "user": "U013F8V6ZH8",
+        "text": "<@U013F8V6ZH8> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589239826.001000",
+        "user": "U013MCC7XJ8",
+        "text": "<@U013MCC7XJ8> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589239826.001200",
+        "user": "U013ME40S6Q",
+        "text": "<@U013ME40S6Q> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589239827.001400",
+        "user": "U013TT5TDR7",
+        "text": "<@U013TT5TDR7> has joined the channel",
+        "inviter": "U013HQRJLRJ"
+    },
+    {
+        "client_msg_id": "a5ebbc61-b706-4075-9e62-95a937ea666a",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U013HQRJLRJ",
+        "ts": "1589239831.001600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "07bv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013TT5TDR7",
+                    "U0130GFAT8X",
+                    "U013ME40S6Q",
+                    "U013F8V6ZH8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c7cd000-6e7e-4df5-b959-d7df9a54a7b2",
+        "type": "message",
+        "text": "Nothing to worry about, who cares",
+        "user": "U013TT5TDR7",
+        "ts": "1589239848.002000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/4Wf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nothing to worry about, who cares"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589239850.002100",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> set the channel topic: What should we worry about with the emergence of intelligent machines?",
+        "topic": "What should we worry about with the emergence of intelligent machines?"
+    },
+    {
+        "client_msg_id": "f95253df-bcdf-4031-b982-6eed60d93eed",
+        "type": "message",
+        "text": "Not much to worry about",
+        "user": "U013ME40S6Q",
+        "ts": "1589239866.002400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1q9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not much to worry about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589239880.002800",
+        "user": "U013HQRJLRJ",
+        "text": "<@U013HQRJLRJ> set the channel purpose: With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?",
+        "purpose": "With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?"
+    },
+    {
+        "client_msg_id": "633a04f9-a70d-4993-a01a-a587b326ecd1",
+        "type": "message",
+        "text": "Yeah, that's 2\/4 on this point",
+        "user": "U013TT5TDR7",
+        "ts": "1589239887.003100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fw3Ed",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, that's 2\/4 on this point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0a1854c-de9d-4204-b6f4-418c594bde43",
+        "type": "message",
+        "text": "The only thing to worry about is Siri going to war with alexa",
+        "user": "U013ME40S6Q",
+        "ts": "1589239912.003900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SK\/IN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The only thing to worry about is Siri going to war with alexa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be81cba2-5d54-43d4-812f-826fd3ba4db2",
+        "type": "message",
+        "text": "Yeah but that's just like, a trade war, so that's all goods",
+        "user": "U013TT5TDR7",
+        "ts": "1589239958.004800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah but that's just like, a trade war, so that's all goods"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "911bd10d-e210-4ced-880d-581581444dc6",
+        "type": "message",
+        "text": "I don't think that's likely. Siri's too polite. But that might not be the only concern.",
+        "user": "U0130GFAT8X",
+        "ts": "1589239960.005000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCTh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think that's likely. Siri's too polite. But that might not be the only concern."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fbdf589-a5f9-438e-943a-937e51a0d480",
+        "type": "message",
+        "text": "Ask Siri to lend you money",
+        "user": "U013ME40S6Q",
+        "ts": "1589239977.005600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x+Lch",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask Siri to lend you money"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0981c51e-62d7-491d-8253-4bc5df55f226",
+        "type": "message",
+        "text": "Do you dare raise more concerns about AI?",
+        "user": "U013TT5TDR7",
+        "ts": "1589239982.005800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you dare raise more concerns about AI?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de9f9d72-8d10-4614-ba80-47a3c158930a",
+        "type": "message",
+        "text": "Do it a couple of times and see all the excuses she has",
+        "user": "U013ME40S6Q",
+        "ts": "1589240003.006600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ol",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do it a couple of times and see all the excuses she has"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ab8ee97-3ed9-4ff4-8d29-2ef3c86ada63",
+        "type": "message",
+        "text": "I for one, welcome our new AI overlords",
+        "user": "U013TT5TDR7",
+        "ts": "1589240004.006700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/WG6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I for one, welcome our new AI overlords"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19d7f079-888f-4c91-b901-7232141b7d7a",
+        "type": "message",
+        "text": "Are you a uni student?",
+        "user": "U013ME40S6Q",
+        "ts": "1589240018.007100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are you a uni student?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea82dba9-58a2-45bb-a80b-ab29b1bc0314",
+        "type": "message",
+        "text": "Trying to think of some,",
+        "user": "U0130GFAT8X",
+        "ts": "1589240038.007600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trying to think of some,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6468cec-9d29-4d0b-b654-02cac536e7d9",
+        "type": "message",
+        "text": "but I mean outside of cartoony outcomes like AI wars",
+        "user": "U0130GFAT8X",
+        "ts": "1589240048.007900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+=d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but I mean outside of cartoony outcomes like AI wars"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c58abc4e-daeb-4f75-bd7a-41836cf6c792",
+        "type": "message",
+        "text": "Okay...",
+        "user": "U013TT5TDR7",
+        "ts": "1589240056.008500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dmye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ec61089-e632-415b-9cf9-be20287334bd",
+        "type": "message",
+        "text": "more mundane things like economic or cultural impacts.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240062.008900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aTqJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "more mundane things like economic or cultural impacts."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a615e6dd-866e-4b2b-8370-49e92d22693d",
+        "type": "message",
+        "text": "Such as?",
+        "user": "U013TT5TDR7",
+        "ts": "1589240070.009400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h6G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Such as?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6dfff5b5-aa1a-4171-acba-e267685880c0",
+        "type": "message",
+        "text": "Who makes the AI and what are their working conditions?",
+        "user": "U0130GFAT8X",
+        "ts": "1589240078.009800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gFl9N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who makes the AI and what are their working conditions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8db46f1-5a5e-4841-9715-46e5bd344ede",
+        "type": "message",
+        "text": "Wait what, are you arguing for droid rights?",
+        "user": "U013TT5TDR7",
+        "ts": "1589240093.010500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6F1P6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait what, are you arguing for droid rights?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0be0e12-eac6-4d53-b7d4-cb825e01507d",
+        "type": "message",
+        "text": "When anything funky starts happening, I will just pack my guitars and guns and go live on the back of my ranch",
+        "user": "U013ME40S6Q",
+        "ts": "1589240108.011100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When anything funky starts happening, I will just pack my guitars and guns and go live on the back of my ranch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b1bc7c8-7ffc-4176-89fc-86d1858b43c2",
+        "type": "message",
+        "text": "What does the AI mean to people? What is it a symbol of?",
+        "user": "U0130GFAT8X",
+        "ts": "1589240147.011900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What does the AI mean to people? What is it a symbol of?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "549149cc-2ef6-4a2d-a9e5-5246bd2c2834",
+        "type": "message",
+        "text": "So nothing for me to worry about",
+        "user": "U013ME40S6Q",
+        "ts": "1589240149.012200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UrM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So nothing for me to worry about"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d90d264-2434-4ccc-95d7-a53131eb2952",
+        "type": "message",
+        "text": "But you're an Attack Helicopter. What do you have to be afraid of?",
+        "user": "U013TT5TDR7",
+        "ts": "1589240160.012700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=7n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But you're an Attack Helicopter. What do you have to be afraid of?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85ec6f2a-c916-46b2-9f18-25521536b48b",
+        "type": "message",
+        "text": "Well I guess some concerns may be that AI can replace human beings on some occupations and then people will lose their jobs",
+        "user": "U013F8V6ZH8",
+        "ts": "1589240171.012900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+mXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well I guess some concerns may be that AI can replace human beings on some occupations and then people will lose their jobs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67ee2de0-a0eb-4c87-a8e1-de486f331c28",
+        "type": "message",
+        "text": "Then again AI will need servicing",
+        "user": "U013ME40S6Q",
+        "ts": "1589240192.013900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uubk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then again AI will need servicing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edd0bd37-b3d2-44e7-bcae-1e4acbd52ddb",
+        "type": "message",
+        "text": "Personally I'm not worried about that.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240193.014100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hb7Rk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personally I'm not worried about that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9104b233-3c48-4a0d-aeb6-1fa036bf3166",
+        "type": "message",
+        "text": "Exactly. People will have to make\/fix\/organize the AI.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240218.016000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XRjhJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactly. People will have to make\/fix\/organize the AI."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3b60c62-9162-4852-9e5f-5cfaf8a3b6e9",
+        "type": "message",
+        "text": "Therefore the workforce would need to change tack and shift the skill base",
+        "user": "U013ME40S6Q",
+        "ts": "1589240222.016200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OB+q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Therefore the workforce would need to change tack and shift the skill base"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29d69621-eae5-4d73-a029-794566e2a930",
+        "type": "message",
+        "text": "But the AI can work for you too, and jobs have been being 'lost' since forever.",
+        "user": "U013TT5TDR7",
+        "ts": "1589240227.016400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uloG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But the AI can work for you too, and jobs have been being 'lost' since forever."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c89ad83c-09cd-40e6-99dc-b7124eb998d6",
+        "type": "message",
+        "text": "Why are you not worried about people losing their jobs?",
+        "user": "U013ME40S6Q",
+        "ts": "1589240248.017500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gUfc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why are you not worried about people losing their jobs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "714bbd79-29f9-48c3-b97a-819870a39002",
+        "type": "message",
+        "text": "The process of shifting skill base is not exactly painless.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240252.017800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The process of shifting skill base is not exactly painless."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3fd6137-3c13-48ff-b1f8-638a4572defb",
+        "type": "message",
+        "text": "No",
+        "user": "U013ME40S6Q",
+        "ts": "1589240257.018000",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ba1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9f3b5c9-2557-4b62-86d1-2a1269451591",
+        "type": "message",
+        "text": "True",
+        "user": "U013ME40S6Q",
+        "ts": "1589240263.018500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hj1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c5d28c8-c5ad-46d2-b1bb-2b66913bc845",
+        "type": "message",
+        "text": "What was the question? Was it 'should we ban AI' or just 'are there concerns'?",
+        "user": "U0130GFAT8X",
+        "ts": "1589240286.019700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ef1Av",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What was the question? Was it 'should we ban AI' or just 'are there concerns'?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "117878ea-7a2a-421a-acf8-02f674856d38",
+        "type": "message",
+        "text": "The latter one",
+        "user": "U013F8V6ZH8",
+        "ts": "1589240326.021300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VrW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The latter one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50c671e5-ff58-450c-b73a-d7dcfb777cfc",
+        "type": "message",
+        "text": "But if major AI workforces were introduced, people would lose their jobs and spending potential",
+        "user": "U013ME40S6Q",
+        "ts": "1589240328.021400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iLP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But if major AI workforces were introduced, people would lose their jobs and spending potential"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f5d2829-3039-4a5c-8c97-39efd1958d14",
+        "type": "message",
+        "text": "therfore,",
+        "user": "U013ME40S6Q",
+        "ts": "1589240336.021800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yUb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "therfore,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7c66db2-317c-4f69-ab47-6e5a2f21f335",
+        "type": "message",
+        "text": "if this happened in a large scale in the market",
+        "user": "U013ME40S6Q",
+        "ts": "1589240347.022100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usw7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if this happened in a large scale in the market"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa8ead11-688c-4bdf-a2f5-740deddde0d4",
+        "type": "message",
+        "text": "There would be less demand on the products the Ais make",
+        "user": "U013ME40S6Q",
+        "ts": "1589240379.023400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RawiW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There would be less demand on the products the Ais make"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ceba6ca1-c9dd-42f1-ab14-16dc3d4723c0",
+        "type": "message",
+        "text": "Decreasing their value",
+        "user": "U013ME40S6Q",
+        "ts": "1589240390.023800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OshKq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Decreasing their value"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1d5e54c-3fcd-4f81-a4f8-f568034e0310",
+        "type": "message",
+        "text": "Make any sense?",
+        "user": "U013ME40S6Q",
+        "ts": "1589240401.024400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dkUl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Make any sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73882939-a5a8-4de8-a9cf-d9645f2f10aa",
+        "type": "message",
+        "text": "Yes that's a good point",
+        "user": "U013F8V6ZH8",
+        "ts": "1589240410.024900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes that's a good point"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b08db776-7246-4abf-b9b4-233ae782763e",
+        "type": "message",
+        "text": "Well, the reason AI are replacing humans would be because they are more cost effective at the job, which could be because we overpay the human workers or that the AI are actually better.\nThe thing is, you can always find a new productive thing to do, and when the AI does your previous task better and you find a new task, overrall productivity is greater.\n\nIt's really just our economic system that is the concern here, it's got no more to do with AI than it does with hammers",
+        "user": "U013TT5TDR7",
+        "ts": "1589240412.025200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, the reason AI are replacing humans would be because they are more cost effective at the job, which could be because we overpay the human workers or that the AI are actually better.\nThe thing is, you can always find a new productive thing to do, and when the AI does your previous task better and you find a new task, overrall productivity is greater.\n\nIt's really just our economic system that is the concern here, it's got no more to do with AI than it does with hammers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed77740a-e8e7-4702-90b0-4b2c1749801f",
+        "type": "message",
+        "text": "It seems to me we haven't been able to think of concerns that are particular to AI",
+        "user": "U0130GFAT8X",
+        "ts": "1589240451.025700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wzps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It seems to me we haven't been able to think of concerns that are particular to AI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44895a26-8605-457a-b109-f58c90661e8e",
+        "type": "message",
+        "text": "Yes",
+        "user": "U013TT5TDR7",
+        "ts": "1589240460.026100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=WN7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6757c8d-403e-46c3-897d-85e4f74555b5",
+        "type": "message",
+        "text": "Like the lack of facial expressions",
+        "user": "U013ME40S6Q",
+        "ts": "1589240471.026600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like the lack of facial expressions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2dc518d5-aa93-4a28-a043-e8e48dfa0b24",
+        "type": "message",
+        "text": "In time those may be modelled. I don't see that as a real concern anyway though",
+        "user": "U013TT5TDR7",
+        "ts": "1589240503.027500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q0z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In time those may be modelled. I don't see that as a real concern anyway though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff2e7d96-6391-4ba8-b83b-1a26e9e61ef3",
+        "type": "message",
+        "text": "I still think there might be some cultural concerns, but that's more about how people interpret it than the AI itself.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240503.027600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92n9l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still think there might be some cultural concerns, but that's more about how people interpret it than the AI itself."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2b66c91-dd2d-448d-9b04-819967cd9adf",
+        "type": "message",
+        "text": "What cultural concerns?",
+        "user": "U013ME40S6Q",
+        "ts": "1589240520.028100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What cultural concerns?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd069727-7048-406d-9f40-91cf0b9de7da",
+        "type": "message",
+        "text": "What cultural concerns do you have with wheelbarrows any more than an AI?",
+        "user": "U013TT5TDR7",
+        "ts": "1589240525.028300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7hmgG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What cultural concerns do you have with wheelbarrows any more than an AI?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2730a698-ff1b-4b66-8601-a1bd32cc829c",
+        "type": "message",
+        "text": "I'd double down on that and say wheelbarrows can be powerful symbols.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240560.029200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd double down on that and say wheelbarrows can be powerful symbols."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57cd439f-b3d0-4462-a222-2f024bdf4cb5",
+        "type": "message",
+        "text": "Consuming CNN",
+        "user": "U013ME40S6Q",
+        "ts": "1589240562.029300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Consuming CNN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22b251e5-665a-4c68-b8af-681ae47c31a7",
+        "type": "message",
+        "text": "Then AI too could be powerful symbols, no?",
+        "user": "U013TT5TDR7",
+        "ts": "1589240578.029800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DFX+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then AI too could be powerful symbols, no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25148b04-002a-45c4-85e4-6bc86371c49e",
+        "type": "message",
+        "text": "So much depends on a wheelbarrow, as the poet William Carlos Williams said",
+        "user": "U0130GFAT8X",
+        "ts": "1589240590.030300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfhwH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So much depends on a wheelbarrow, as the poet William Carlos Williams said"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "757a38e4-4013-438f-87a0-1c9136528568",
+        "type": "message",
+        "text": "There would need to be a monopoly token that looked like an AI",
+        "user": "U013ME40S6Q",
+        "ts": "1589240604.030800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xt4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There would need to be a monopoly token that looked like an AI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eaa7bfca-1c81-4ffe-b597-c3dabe18485e",
+        "type": "message",
+        "text": "Yes. But again, that's not the fault of the AI itself.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240611.031200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. But again, that's not the fault of the AI itself."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a4477a3-435a-4930-9677-84e59c6283ba",
+        "type": "message",
+        "text": "Great, wheelbarrows are useful and so are AI",
+        "user": "U013TT5TDR7",
+        "ts": "1589240615.031600",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O+2U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great, wheelbarrows are useful and so are AI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3bdccb4-ccb9-495c-9d88-b7db652041dd",
+        "type": "message",
+        "text": "And if it is a problem, I think it would not be solved by saying, 'Let's not make  AI'",
+        "user": "U0130GFAT8X",
+        "ts": "1589240638.032800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "47RF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And if it is a problem, I think it would not be solved by saying, 'Let's not make  AI'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6888340-1740-449e-b8d8-931884b527d6",
+        "type": "message",
+        "text": "But there is no 'look' of an AI. They come in many forms",
+        "user": "U013TT5TDR7",
+        "ts": "1589240644.033100",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MK6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But there is no 'look' of an AI. They come in many forms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f87f1262-048d-466a-adaa-5d706d43b5a6",
+        "type": "message",
+        "text": "Okay, moonmoth, you haven't said much?",
+        "user": "U013TT5TDR7",
+        "ts": "1589240667.033800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WG9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, moonmoth, you haven't said much?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7097aae-f3ba-4e43-b4df-89bc4a3a8ec9",
+        "type": "message",
+        "text": "Are we all agreed that there's no real concerns?",
+        "user": "U013TT5TDR7",
+        "ts": "1589240677.034300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XpW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we all agreed that there's no real concerns?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65b1557e-9209-4557-8b39-d01ecbe4bc96",
+        "type": "message",
+        "text": "OK, so AI (and wheelbarrows) are useful tools, so long as we use them in a way that is honoring to God and respects man, there should be no probolem",
+        "user": "U013ME40S6Q",
+        "ts": "1589240698.035400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1qw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OK, so AI (and wheelbarrows) are useful tools, so long as we use them in a way that is honoring to God and respects man, there should be no probolem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c253d821-d1ed-4a60-ac94-6b02c556b6a8",
+        "type": "message",
+        "text": "Yeah, that's where I'm at. I'm ready to agree.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240706.035700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, that's where I'm at. I'm ready to agree."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db7ffd83-3e58-4d15-a40d-4de0f1a94525",
+        "type": "message",
+        "text": "Furthermore",
+        "user": "U013ME40S6Q",
+        "ts": "1589240725.036400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Furthermore"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2700bc89-ac53-4420-aee1-97957297bbf9",
+        "type": "message",
+        "text": "Yep, I'm gonna thumbs up",
+        "user": "U013TT5TDR7",
+        "ts": "1589240728.036700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=KAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep, I'm gonna thumbs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4872ffe9-78a6-4d83-8ff8-5fa14f9ceddd",
+        "type": "message",
+        "text": "If concern is actually worry...",
+        "user": "U013ME40S6Q",
+        "ts": "1589240743.037300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F8X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If concern is actually worry..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81138cf7-755e-4e9c-bfe5-8bd485c48e51",
+        "type": "message",
+        "text": "It's unessesary",
+        "user": "U013ME40S6Q",
+        "ts": "1589240752.037800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7oip",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's unessesary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17bd7383-464c-406b-b31c-5cef2ed5291c",
+        "type": "message",
+        "text": "Right. Well I guess I would agree on this point.",
+        "user": "U013F8V6ZH8",
+        "ts": "1589240784.038500",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g7f50a19ce1d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f50a19ce1d7c8897038836ae915b682.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "moonmoth",
+            "display_name": "moonmoth",
+            "team": "T0134TC8N94",
+            "name": "luyj0812",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mBLFu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right. Well I guess I would agree on this point."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7130d604-dfb6-4405-9d06-e60b7aed4244",
+        "type": "message",
+        "text": "Also, I think the concerns would need to be more articulate and more AI-specific to justify a group conclusion that there are concerns.",
+        "user": "U0130GFAT8X",
+        "ts": "1589240815.039400",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "25ee90840bfd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117543494675_25ee90840bfd7ae73ded_72.jpg",
+            "first_name": "",
+            "real_name": "manymagpie",
+            "display_name": "manymagpie",
+            "team": "T0134TC8N94",
+            "name": "luke.1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, I think the concerns would need to be more articulate and more AI-specific to justify a group conclusion that there are concerns."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27eeb9ad-5e9e-454e-b904-d3784184a2a0",
+        "type": "message",
+        "text": "What",
+        "user": "U013ME40S6Q",
+        "ts": "1589240838.039700",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GULev",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6eebf471-4f33-4ea5-9497-a13f7fbe4eb0",
+        "type": "message",
+        "text": "Yes, I agree",
+        "user": "U013TT5TDR7",
+        "ts": "1589240840.039800",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TxnZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b1d568e-d91d-4436-96f9-55377a310ac8",
+        "type": "message",
+        "text": "moonmoth has yet to thumbs up",
+        "user": "U013TT5TDR7",
+        "ts": "1589240863.040200",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "ge73eb39280c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e73eb39280c924ac466fa6da407eed69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "",
+            "real_name": "Borys Lang",
+            "display_name": "Borys Lang",
+            "team": "T0134TC8N94",
+            "name": "samuelvink",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFhWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "moonmoth has yet to thumbs up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d47b2fb-f40c-422e-8dc4-d1f6b5299756",
+        "type": "message",
+        "text": "Can you in good conscience thump it up moonmoth",
+        "user": "U013ME40S6Q",
+        "ts": "1589240884.040900",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "e78bc6f7458b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-12\/1117304964178_e78bc6f7458be2e4cad3_72.jpg",
+            "first_name": "",
+            "real_name": "Attack Helicopter",
+            "display_name": "Attack Helicopter",
+            "team": "T0134TC8N94",
+            "name": "challengerdeep02",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JH\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you in good conscience thump it up moonmoth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013TT5TDR7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a881a0f-49bc-4948-b370-72b269014365",
+        "type": "message",
+        "text": "This discussion has concluded with a consensus",
+        "user": "U013HQRJLRJ",
+        "ts": "1589240894.041300",
+        "team": "T0134TC8N94",
+        "user_team": "T0134TC8N94",
+        "source_team": "T0134TC8N94",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "alexgeary37",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TC8N94",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CSTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This discussion has concluded with a consensus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

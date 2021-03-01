@@ -1,0 +1,3619 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589527431.000200",
+        "user": "U013A8TCPDK",
+        "text": "<@U013A8TCPDK> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589527431.000300",
+        "user": "U013A8TCPDK",
+        "text": "<@U013A8TCPDK> set the channel purpose: Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?",
+        "purpose": "Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?"
+    },
+    {
+        "client_msg_id": "827470c0-c4c4-47b8-8457-7903bc64fdbc",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U013A8TCPDK",
+        "ts": "1589527446.001400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kett",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013M1S8U67",
+                    "U013KDVS71B"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589527466.001600",
+        "user": "U013A8TCPDK",
+        "text": "<@U013A8TCPDK> set the channel topic: Should children have mobile devices like smartphones?",
+        "topic": "Should children have mobile devices like smartphones?"
+    },
+    {
+        "client_msg_id": "74bde724-ad6a-4239-b8af-b7d57eb1145f",
+        "type": "message",
+        "text": "So, let's get our definitions; child=",
+        "user": "U014AL8B2TA",
+        "ts": "1589527506.002200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, let's get our definitions; child="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d1d4f8c-28cf-4f55-86b4-62e3f832ab0b",
+        "type": "message",
+        "text": "Neccessary=",
+        "user": "U014AL8B2TA",
+        "ts": "1589527513.002400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2je+f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neccessary="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50103f17-899d-43df-b403-5c1e9e01c998",
+        "type": "message",
+        "text": "age 12 and under?",
+        "user": "U013KDVS71B",
+        "ts": "1589527523.002700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TLMl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "age 12 and under?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4b1792e7-18dc-4b59-998a-4b3aa2bc95f0",
+        "type": "message",
+        "text": "ok",
+        "user": "U014AL8B2TA",
+        "ts": "1589527565.003700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9545c55-1448-4014-b7b5-261a5e6e4c9d",
+        "type": "message",
+        "text": "Child - I would use school age - i.e. 5-16. 17+ young adults maybe?",
+        "user": "U014AL8CUSU",
+        "ts": "1589527570.003900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HqXf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Child - I would use school age - i.e. 5-16. 17+ young adults maybe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac279fcf-4b67-4cb5-9e81-c208242fc794",
+        "type": "message",
+        "text": "I don't believe in people being born after the year 2000.",
+        "user": "U014AL8B2TA",
+        "ts": "1589527627.005900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=s3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't believe in people being born after the year 2000."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59D5A7DD-806F-46C7-AC11-0DA3F5C69827",
+        "type": "message",
+        "text": "I normally call 13-17 teenager ",
+        "user": "U013M1S8U67",
+        "ts": "1589527633.006300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LzoF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I normally call 13-17 teenager "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be388124-561f-4f00-994d-6fcc57b726b4",
+        "type": "message",
+        "text": "I guess it kind of falls under the discussion question of \"... if so, from what age?\"",
+        "user": "U013KDVS71B",
+        "ts": "1589527657.007000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ryz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess it kind of falls under the discussion question of \"... if so, from what age?\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d87ce5ce-94db-490d-ba4d-666d586ebe5b",
+        "type": "message",
+        "text": "My reasoning for 16 - is that at that age, children can start making some fairly important life decisions on their own (legally) without the need for parental consent, so maybe upper limit is 15 by my own reasoning!",
+        "user": "U014AL8CUSU",
+        "ts": "1589527661.007200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qY7uZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My reasoning for 16 - is that at that age, children can start making some fairly important life decisions on their own (legally) without the need for parental consent, so maybe upper limit is 15 by my own reasoning!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8aaa959-f078-43ae-a0e6-63ba5c76f566",
+        "type": "message",
+        "text": "What is our definition of \"necessary'",
+        "user": "U014AL8B2TA",
+        "ts": "1589527725.008400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PbCo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What is our definition of \"necessary'"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0823f7a-d744-4468-a68a-3a6aa543e1c2",
+        "type": "message",
+        "text": "?",
+        "user": "U014AL8B2TA",
+        "ts": "1589527728.008800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JZYho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fefbfe1-f8a7-42a7-a9d8-5bfe04b9402c",
+        "type": "message",
+        "text": "I would be happy to agree to 16+ being considered young adult based on how that fits into NZ legality",
+        "user": "U013KDVS71B",
+        "ts": "1589527732.008900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would be happy to agree to 16+ being considered young adult based on how that fits into NZ legality"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dc8faf1-f006-402e-beb1-f5e13abf1332",
+        "type": "message",
+        "text": "Therefore 15 and under being considered children",
+        "user": "U013KDVS71B",
+        "ts": "1589527760.009700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aHZw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Therefore 15 and under being considered children"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0723d3f0-23a8-4489-986f-2d043e3950e8",
+        "type": "message",
+        "text": "Even if we agree on what a child is, can we really reach a consensus that the term \"necessary\" is even relevant here?",
+        "user": "U014AL8B2TA",
+        "ts": "1589527803.011400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WH2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Even if we agree on what a child is, can we really reach a consensus that the term \"necessary\" is even relevant here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C4CB5A9C-0A14-4070-A53A-A75E3327F119",
+        "type": "message",
+        "text": "I’m fine with that for the purpose of this discussion:) ",
+        "user": "U013M1S8U67",
+        "ts": "1589527804.011500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zfQQp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m fine with that for the purpose of this discussion:) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57010062-8f7b-4627-8ecd-15b917732df1",
+        "type": "message",
+        "text": "Definition of necessary - hmm, that is a BIG question. Necessary implies essential, as if one could not survive without something, i.e. a cell phone. Actually - the question is very broad. Is a tablet \/ ipad considered a mobile device?",
+        "user": "U014AL8CUSU",
+        "ts": "1589527870.013200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3BKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definition of necessary - hmm, that is a BIG question. Necessary implies essential, as if one could not survive without something, i.e. a cell phone. Actually - the question is very broad. Is a tablet \/ ipad considered a mobile device?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b29ccda8-1def-44f6-8167-baadcb6eb263",
+        "type": "message",
+        "text": "Necessary for whose survival\/wellbeing?",
+        "user": "U014AL8B2TA",
+        "ts": "1589527875.013400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vbcd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Necessary for whose survival\/wellbeing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61bdfb6e-3bd4-4faa-a496-08cae9e90900",
+        "type": "message",
+        "text": "Necessary can only be determined upon personal circumstances",
+        "user": "U013KDVS71B",
+        "ts": "1589527910.014300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9HzYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Necessary can only be determined upon personal circumstances"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7951e20-12d6-466f-a0c0-f2a47f6e8e5d",
+        "type": "message",
+        "text": "I feel it's going to be difficult to answer the question \"Should children have mobile devices ....\" as the description then broadens the question into almost another direction by adding  \"Are they necessary ...\"",
+        "user": "U014AL8CUSU",
+        "ts": "1589528010.017100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n9nrm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel it's going to be difficult to answer the question \"Should children have mobile devices ....\" as the description then broadens the question into almost another direction by adding  \"Are they necessary ...\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da09497e-caee-4ed8-bb3e-cc835c05755e",
+        "type": "message",
+        "text": "This seems to be a question about the sovereignty of a family unit\/parent\/caregiver under lawful circumstances, over decisions pertaining to the particular lifestyle of their child. The parent\/caregiver only, has the authority to decide issues of this sort.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528081.019000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kz1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This seems to be a question about the sovereignty of a family unit\/parent\/caregiver under lawful circumstances, over decisions pertaining to the particular lifestyle of their child. The parent\/caregiver only, has the authority to decide issues of this sort."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfe50b33-1a75-4e55-995d-837aa7568c7a",
+        "type": "message",
+        "text": "I personally don't think there is anything particularly wrong with children having smartphones \/ devices - very handy for them to contact parents etc., but just not sure about the descriptor \"necessary\".",
+        "user": "U014AL8CUSU",
+        "ts": "1589528099.019800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/0LGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I personally don't think there is anything particularly wrong with children having smartphones \/ devices - very handy for them to contact parents etc., but just not sure about the descriptor \"necessary\"."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c408a384-5398-454a-8524-51eb52999ad1",
+        "type": "message",
+        "text": "<@U014AL8B2TA> Yes, I would agree with that.",
+        "user": "U014AL8CUSU",
+        "ts": "1589528146.021400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014AL8B2TA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, I would agree with that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f147c18-5b0d-486f-bce1-c3947eb9ce8a",
+        "type": "message",
+        "text": "There may be a time when in order to attend a particular school you are required to allow your child to use a device, but even then, the State should protect the family unit's sovereignty to choose how they bring up their child.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528163.021900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MsCDm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There may be a time when in order to attend a particular school you are required to allow your child to use a device, but even then, the State should protect the family unit's sovereignty to choose how they bring up their child."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75a72dd2-23ca-4a3f-83ca-1242436f5c74",
+        "type": "message",
+        "text": "I think it is ok for children to have a phone from a certain age (as determined by parent\/caregiver) but I also think they should first have a 'dumb' phone before having a smartphone",
+        "user": "U013KDVS71B",
+        "ts": "1589528196.023400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZL5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it is ok for children to have a phone from a certain age (as determined by parent\/caregiver) but I also think they should first have a 'dumb' phone before having a smartphone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9521142a-b92b-4cf4-afe8-9cd885fb8175",
+        "type": "message",
+        "text": "The last few weeks are a case in point - 1,000s of tablets sent to students of all ages who otherwise would have had no access to online learning, so in this instance - it was necessary for them to access education. But somewhat exceptional circumstances.",
+        "user": "U014AL8CUSU",
+        "ts": "1589528237.024800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4LiZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The last few weeks are a case in point - 1,000s of tablets sent to students of all ages who otherwise would have had no access to online learning, so in this instance - it was necessary for them to access education. But somewhat exceptional circumstances."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0c8b390-585a-43cf-9377-7475c3abe66f",
+        "type": "message",
+        "text": "A parent may have to work with a school to find a solution, but parents should never be forced by the state or any other institution to give up their freedoms.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528239.024900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "byo0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A parent may have to work with a school to find a solution, but parents should never be forced by the state or any other institution to give up their freedoms."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b68d153-bb4d-4825-b56c-eb62b0e23b73",
+        "type": "message",
+        "text": "I would argue no, it wasn't necessary, it was just idea.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528289.025800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qmr83",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would argue no, it wasn't necessary, it was just idea."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e07d1920-83e9-4833-9acb-159fa604f05e",
+        "type": "message",
+        "text": "ideal.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528292.026000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "99h3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ideal."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0EEBF4EB-56B5-40E6-A4D9-BA474E3EB39F",
+        "type": "message",
+        "text": "I agree magnetmussel. Not necessary but ideal ",
+        "user": "U013M1S8U67",
+        "ts": "1589528320.027400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xlM3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree magnetmussel. Not necessary but ideal "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6447b2ce-c3ac-457c-8f04-5ff2c9fa399f",
+        "type": "message",
+        "text": "Hmmm - how would they than access online teaching (i.e if no other devices in the home?)",
+        "user": "U014AL8CUSU",
+        "ts": "1589528328.028100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmmm - how would they than access online teaching (i.e if no other devices in the home?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5C46F465-656A-463C-A0E6-7592B3480037",
+        "type": "message",
+        "text": "Becoming increasingly more important ",
+        "user": "U013M1S8U67",
+        "ts": "1589528329.028200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qn4bs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Becoming increasingly more important "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "962621e0-d664-4003-878f-ebe330bdc3c4",
+        "type": "message",
+        "text": "Otherwise we would be making the assumption that the only kind of learning that can happen under lockdown was online.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528337.028400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/\/S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Otherwise we would be making the assumption that the only kind of learning that can happen under lockdown was online."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8955928-caa0-4cdb-aeeb-58336d8d7cae",
+        "type": "message",
+        "text": "The school is working for the family unit, under the parent's jurisdiction, not the other way around.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528365.029300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JI+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The school is working for the family unit, under the parent's jurisdiction, not the other way around."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afa17a59-0779-47ef-8b98-555670d39f7d",
+        "type": "message",
+        "text": "For example, those who home school have decided that they won't hire an institution to teach their kids. That is their prerogative. Those who decide that the institution is ideal for their kids send their kids to school, and during lockdown, onto their devices. It is their prerogative.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528504.033900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qY1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For example, those who home school have decided that they won't hire an institution to teach their kids. That is their prerogative. Those who decide that the institution is ideal for their kids send their kids to school, and during lockdown, onto their devices. It is their prerogative."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f4f064b-99e5-4549-ab2a-74dc8358790c",
+        "type": "message",
+        "text": "Yes, that's true - plenty of other life-skills to learn. Don't know if I am giving too much away about me personally, but I am a violin teacher - without my students having access to some means of being online, I would have had no way to teach my students for the past 8 weeks (I manage to cnnect with all but 3)",
+        "user": "U014AL8CUSU",
+        "ts": "1589528520.034900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8n2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, that's true - plenty of other life-skills to learn. Don't know if I am giving too much away about me personally, but I am a violin teacher - without my students having access to some means of being online, I would have had no way to teach my students for the past 8 weeks (I manage to cnnect with all but 3)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0E208BF9-0A8B-4807-9968-223734BE83EB",
+        "type": "message",
+        "text": "I think other mobile devices like a family laptop or computer are necessary for a child’s learning purposes. But smartphones tend to be used for entertainment and social media primarily. So I wouldn’t say they were necessary for kids. Probably the most necessary element of a smartphone for a young person would be fitting in with their peers. And that kind of behaviour doesn’t start til around puberty age, like 12-13. ",
+        "user": "U013M1S8U67",
+        "ts": "1589528602.039100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNrVt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think other mobile devices like a family laptop or computer are necessary for a child’s learning purposes. But smartphones tend to be used for entertainment and social media primarily. So I wouldn’t say they were necessary for kids. Probably the most necessary element of a smartphone for a young person would be fitting in with their peers. And that kind of behaviour doesn’t start til around puberty age, like 12-13. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fcd58143-a5c0-4714-b941-c26a7527f8cb",
+        "type": "message",
+        "text": "And some parents and students are opting to still learn from home from next week, so I will continue with their online lessons until such time as they decide to return to school.",
+        "user": "U014AL8CUSU",
+        "ts": "1589528614.039500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C5FAx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And some parents and students are opting to still learn from home from next week, so I will continue with their online lessons until such time as they decide to return to school."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81966687-E791-4DF2-8B80-A8F47B881562",
+        "type": "message",
+        "text": "I think the earlier kids get into smartphones the less time they spend running around, using their imagination, and all that good old fashioned entertainment ",
+        "user": "U013M1S8U67",
+        "ts": "1589528672.043100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think the earlier kids get into smartphones the less time they spend running around, using their imagination, and all that good old fashioned entertainment "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b0fc90e-63be-4e72-8410-e787762ff507",
+        "type": "message",
+        "text": "Over the last couple of months virtual teaching has become necessary for universities etc. but generally speaking, this has been primarily done over laptops\/tablets\/desktops rather than smartphones",
+        "user": "U013KDVS71B",
+        "ts": "1589528691.043600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z9jCE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Over the last couple of months virtual teaching has become necessary for universities etc. but generally speaking, this has been primarily done over laptops\/tablets\/desktops rather than smartphones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e10e0fb1-2038-4f6a-93ba-6fca7fb75e13",
+        "type": "message",
+        "text": "<@U013M1S8U67> - yup - some of students used their parents mobile devices - especially the younger ones.",
+        "user": "U014AL8CUSU",
+        "ts": "1589528692.043700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ULO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013M1S8U67"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - yup - some of students used their parents mobile devices - especially the younger ones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d8c4a98-7540-43d3-b01b-408289313f4b",
+        "type": "message",
+        "text": "perhaps we are slipping slightly off the topic?",
+        "user": "U013KDVS71B",
+        "ts": "1589528705.044600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5oD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "perhaps we are slipping slightly off the topic?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6f58af8-35fd-4a77-804e-20a2ddbc9050",
+        "type": "message",
+        "text": "My point is that we cannot, as a group decide that this is a necessity. No other technology is considered a necessity by the state. As long as you're not breaking the law, outside the family unit, there is no such thing as \"necessary\". The family unit decides how their family will live and what will be considered \"necessary.' No group can make those decisions.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528707.044700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1QeTt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My point is that we cannot, as a group decide that this is a necessity. No other technology is considered a necessity by the state. As long as you're not breaking the law, outside the family unit, there is no such thing as \"necessary\". The family unit decides how their family will live and what will be considered \"necessary.' No group can make those decisions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D492399-F837-462E-B420-FFE9BA62F32C",
+        "type": "message",
+        "text": "Yeah I guess we could isolate the discussion to smartphones in particular ",
+        "user": "U013M1S8U67",
+        "ts": "1589528869.049500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S5vnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I guess we could isolate the discussion to smartphones in particular "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf45450c-de95-4d9f-8d4a-89fa000f940f",
+        "type": "message",
+        "text": "On that basis, the right of parental sovereignty, I would argue that we cannot reach a consensus that any technology is a necessity, regardless of how ideal we think it is in our own lives. I would argue that, no, there is no \"should\" in this area.",
+        "user": "U014AL8B2TA",
+        "ts": "1589528873.049700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On that basis, the right of parental sovereignty, I would argue that we cannot reach a consensus that any technology is a necessity, regardless of how ideal we think it is in our own lives. I would argue that, no, there is no \"should\" in this area."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "198ba3bb-740a-4aad-8af4-cdfc55fe6b6a",
+        "type": "message",
+        "text": "So, do we answer the question - or the broader description? My best answer to the actual question is \"maybe\" depending on the family and circumstances.",
+        "user": "U014AL8CUSU",
+        "ts": "1589528883.050000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, do we answer the question - or the broader description? My best answer to the actual question is \"maybe\" depending on the family and circumstances."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cde538b-56ae-4740-acd1-8c5eefdc7577",
+        "type": "message",
+        "text": "I agree with <@U014AL8B2TA> that we cannot decide this as 'one size fits all.' each family unit must decide how it works within their personal circumstances",
+        "user": "U013KDVS71B",
+        "ts": "1589528898.050500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aIpf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014AL8B2TA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that we cannot decide this as 'one size fits all.' each family unit must decide how it works within their personal circumstances"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68626037-6271-4e34-af89-874f76a4a611",
+        "type": "message",
+        "text": "Haha my libertarian side is coming out! :stuck_out_tongue_winking_eye:",
+        "user": "U014AL8B2TA",
+        "ts": "1589528922.051100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PDtzg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha my libertarian side is coming out! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab27fa4f-4a30-4fe2-8428-f4bb80763458",
+        "type": "message",
+        "text": "I also agree with <@U014AL8B2TA>",
+        "user": "U014AL8CUSU",
+        "ts": "1589528931.051400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tq=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also agree with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U014AL8B2TA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2ed6b00-817f-4729-9ff0-7f507aa9d479",
+        "type": "message",
+        "text": "haha this is NZ, doesn't Cindy tell us everyday at 1pm what is now necessary and unnecessary? :sweat_smile:",
+        "user": "U014AL8B2TA",
+        "ts": "1589528992.054500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VIUGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "haha this is NZ, doesn't Cindy tell us everyday at 1pm what is now necessary and unnecessary? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4db9a8af-f228-4bed-b0ba-4b14a4094007",
+        "type": "message",
+        "text": "So - maybe we agree that we, as a group, can't or shouldn't make this decision on someone else's behalf, therefore we have reached a consensus? Does that make sense?",
+        "user": "U014AL8CUSU",
+        "ts": "1589529014.055000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So - maybe we agree that we, as a group, can't or shouldn't make this decision on someone else's behalf, therefore we have reached a consensus? Does that make sense?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0235f30-d99c-4627-8e83-803392840ec1",
+        "type": "message",
+        "text": "<@U014AL8B2TA>!! Global pandemic anyone? Shall we stay on topic?",
+        "user": "U014AL8CUSU",
+        "ts": "1589529047.055700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Do6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014AL8B2TA"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! Global pandemic anyone? Shall we stay on topic?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e93a168-3ecb-4f01-86e2-7e643fd94694",
+        "type": "message",
+        "text": "There are 10 minutes remaining in this discussion",
+        "user": "U013A8TCPDK",
+        "ts": "1589529058.056000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VAJBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are 10 minutes remaining in this discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1537bf46-c519-4be9-834f-7944d584dd36",
+        "type": "message",
+        "text": "You still there mirrormoth?",
+        "user": "U014AL8CUSU",
+        "ts": "1589529099.056700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3+IS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You still there mirrormoth?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28B3483E-56F0-4145-BC7A-43513CE7C3A7",
+        "type": "message",
+        "text": "Yes :) ",
+        "user": "U013M1S8U67",
+        "ts": "1589529111.056900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4e47ae9-9104-424e-a8b2-c394c24162dd",
+        "type": "message",
+        "text": "Jolly good!",
+        "user": "U014AL8CUSU",
+        "ts": "1589529118.057500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3MNM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jolly good!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57146C63-F22C-454F-A3EA-8C2F6009A32C",
+        "type": "message",
+        "text": "I agree with what you suggested as a consensus ",
+        "user": "U013M1S8U67",
+        "ts": "1589529123.057800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with what you suggested as a consensus "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1b5f5f6-3e43-4f5f-96f6-fdbdc4157fe9",
+        "type": "message",
+        "text": "How about this: we, as a group, can't or shouldn't make this decision on someone else's behalf because each family unit's personal circumstances necessitate different approaches",
+        "user": "U013KDVS71B",
+        "ts": "1589529125.057900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SD6ep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How about this: we, as a group, can't or shouldn't make this decision on someone else's behalf because each family unit's personal circumstances necessitate different approaches"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013M1S8U67"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9B16037E-0351-44E2-91A9-04B773B31C7F",
+        "type": "message",
+        "text": "Yeah that sums it up nicely",
+        "user": "U013M1S8U67",
+        "ts": "1589529214.058600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kuQ1a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that sums it up nicely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab0f73a2-80ed-471a-b3a1-99d5e4059cac",
+        "type": "message",
+        "text": "8 mins to spare!!",
+        "user": "U014AL8CUSU",
+        "ts": "1589529247.059100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NE3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8 mins to spare!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clinking_glasses",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "panda_face",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "elephant",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zebra_face",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "unicorn_face",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rabbit",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42797864-ecfe-408a-9ee7-c96a447fb625",
+        "type": "message",
+        "text": "This discussion has concluded with a consensus",
+        "user": "U013A8TCPDK",
+        "ts": "1589529331.060100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BumJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This discussion has concluded with a consensus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11a326b1-fe0f-45fb-b5f4-32cf35c518cc",
+        "type": "message",
+        "text": "Time for dessert pizza!!!!",
+        "user": "U014AL8CUSU",
+        "ts": "1589529336.060500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TUSh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Time for dessert pizza!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pizza",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b23429be-3bab-490c-8111-edb75224b46e",
+        "type": "message",
+        "text": "Thank you so much people!",
+        "user": "U013A8TCPDK",
+        "ts": "1589529350.061000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzBA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much people!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C0626471-F951-4013-AC32-98C3B51E8EB3",
+        "type": "message",
+        "text": "Thanks team!! ",
+        "user": "U013M1S8U67",
+        "ts": "1589529362.061500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Kw+y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks team!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "i_love_you_hand_sign::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "529e3685-9565-4b3e-b00f-ee09c063f822",
+        "type": "message",
+        "text": "Fun discussions - thanks everyone!",
+        "user": "U014AL8CUSU",
+        "ts": "1589529382.062600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e9m\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fun discussions - thanks everyone!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58682c46-15dd-4b84-b1e2-b5f9445decf5",
+        "type": "message",
+        "text": "Will the boss shout us to a dessert pizza?",
+        "user": "U013KDVS71B",
+        "ts": "1589529383.062700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will the boss shout us to a dessert pizza?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA",
+                    "U013M1S8U67"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8409fe9-4a8c-42d5-aab4-d0bfc7fd2d12",
+        "type": "message",
+        "text": "That was great fun!!",
+        "user": "U014AL8B2TA",
+        "ts": "1589529399.063400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OpD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That was great fun!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1cde3b2-8b48-498b-9371-1fd5ae8c842a",
+        "type": "message",
+        "text": "but now my dinner is cold!",
+        "user": "U014AL8B2TA",
+        "ts": "1589529407.064100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/f2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but now my dinner is cold!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "disappointed_relieved",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21a063f3-7771-4380-bf08-4e4129f8d99d",
+        "type": "message",
+        "text": "I DEFINITELY agree with that suggestion!!!!",
+        "user": "U014AL8CUSU",
+        "ts": "1589529409.064300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qLb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I DEFINITELY agree with that suggestion!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfbdf656-e01a-4761-a3e8-d29a0b8c81a3",
+        "type": "message",
+        "text": "You might receive an email from me in future with a couple of questions",
+        "user": "U013A8TCPDK",
+        "ts": "1589529425.064800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCdz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might receive an email from me in future with a couple of questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "486fe495-f201-4fc0-bd47-971670cbb74f",
+        "type": "message",
+        "text": "Hmm. To shout all you guys at the same time might be difficult logistically...",
+        "user": "U013A8TCPDK",
+        "ts": "1589529474.065800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vhJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hmm. To shout all you guys at the same time might be difficult logistically..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ba38506-fa92-4ae1-b52b-6d89c3bce29d",
+        "type": "message",
+        "text": "Vouchers???",
+        "user": "U014AL8CUSU",
+        "ts": "1589529484.066000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vouchers???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U014AL8B2TA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "480c14a8-386a-4ddb-92ca-ba1ad52e5d1f",
+        "type": "message",
+        "text": "HAHAH",
+        "user": "U013KDVS71B",
+        "ts": "1589529491.066300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/0kZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HAHAH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f47cf8a-7da3-41e3-8782-c8b99cc38906",
+        "type": "message",
+        "text": "Joking!!!!!",
+        "user": "U014AL8CUSU",
+        "ts": "1589529493.066500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MjF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Joking!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b6d49d3-b440-40ea-8bd9-f2363d59b548",
+        "type": "message",
+        "text": "Night all - going to reheat my coffee.",
+        "user": "U014AL8CUSU",
+        "ts": "1589529525.067700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ifkvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Night all - going to reheat my coffee."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f2ad832-2bcc-4b59-aabe-238e1602fc43",
+        "type": "message",
+        "text": "An honourable mention in my dissertation???",
+        "user": "U013A8TCPDK",
+        "ts": "1589529526.068000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "An honourable mention in my dissertation???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pineapple",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sunglasses",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ad07ed0-1acf-4b28-b29e-1c29cf89016f",
+        "type": "message",
+        "text": "It has to remain anonymous though",
+        "user": "U013A8TCPDK",
+        "ts": "1589529538.068600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Obh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It has to remain anonymous though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6784631c-6b6a-447a-a170-6dd88fb5a049",
+        "type": "message",
+        "text": "Our highly authoritative opinions don't come cheap Mr Alex.",
+        "user": "U014AL8B2TA",
+        "ts": "1589529541.068900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JH+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our highly authoritative opinions don't come cheap Mr Alex."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8aa872b5-bbaa-425a-b1f2-d71a744e6ada",
+        "type": "message",
+        "text": "You'll just have to eventually give us all a post-lockdown catchup in person sometime in the not too distant future :grin:",
+        "user": "U013KDVS71B",
+        "ts": "1589529566.069500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCTpC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You'll just have to eventually give us all a post-lockdown catchup in person sometime in the not too distant future "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f36c665e-2c43-4a07-a889-db13ce9c9a62",
+        "type": "message",
+        "text": "Well anyway thank you heaps",
+        "user": "U013A8TCPDK",
+        "ts": "1589529620.070600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well anyway thank you heaps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013KDVS71B",
+                    "U014AL8CUSU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4BC32AEA-82D0-44D8-9B5B-6B903D27A794",
+        "type": "message",
+        "text": "You’re welcome! ",
+        "user": "U013M1S8U67",
+        "ts": "1589529639.071300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AtDo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You’re welcome! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3de8ace-06ef-411d-beed-764e6160d7c1",
+        "type": "message",
+        "text": "The boss dismisses you",
+        "user": "U013A8TCPDK",
+        "ts": "1589529647.071500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NP+n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The boss dismisses you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cdd19b1a-11b1-405d-9fe8-333ce20ee43c",
+        "type": "message",
+        "text": "Thanks guys! fun chat. Enjoy your night!:wave::skin-tone-5:",
+        "user": "U014AL8B2TA",
+        "ts": "1589529653.071700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qHl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks guys! fun chat. Enjoy your night!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "skin_tone": 5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4659ddb-1dca-40b3-a8e3-18f8625dcebe",
+        "type": "message",
+        "text": "Thanks for the chats everyone and all the best Alex :slightly_smiling_face:",
+        "user": "U013KDVS71B",
+        "ts": "1589529670.072100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ftc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the chats everyone and all the best Alex "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "906dd7ae-bfdc-43c9-9c08-436cfe613748",
+        "type": "message",
+        "text": "Thank y'all, now I am REALLY going!!",
+        "user": "U014AL8CUSU",
+        "ts": "1589529701.072800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVt1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank y'all, now I am REALLY going!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

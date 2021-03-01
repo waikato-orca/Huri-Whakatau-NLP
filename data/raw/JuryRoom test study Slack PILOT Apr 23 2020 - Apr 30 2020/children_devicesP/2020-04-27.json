@@ -1,0 +1,2879 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588047584.000200",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1588047585.000300",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> set the channel purpose: Should children have mobile devices like smartphones?",
+        "purpose": "Should children have mobile devices like smartphones?"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588047605.000500",
+        "user": "U012MTPDH98",
+        "text": "<@U012MTPDH98> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588047606.000700",
+        "user": "U012U3HJ0FN",
+        "text": "<@U012U3HJ0FN> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588047606.000900",
+        "user": "U013BNX11CG",
+        "text": "<@U013BNX11CG> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1588047607.001100",
+        "user": "U0130GKUGCR",
+        "text": "<@U0130GKUGCR> has joined the channel",
+        "inviter": "U0126U931AB"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1588047640.001400",
+        "user": "U0126U931AB",
+        "text": "<@U0126U931AB> set the channel topic: Should children have mobile devices like smartphones?",
+        "topic": "Should children have mobile devices like smartphones?"
+    },
+    {
+        "client_msg_id": "a07b598c-3549-4dcb-8050-1e1c4bfecd8e",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U0126U931AB",
+        "ts": "1588047660.002300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w37Xg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013BNX11CG",
+                    "U0130GKUGCR",
+                    "U012MTPDH98",
+                    "U012U3HJ0FN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2130fa5c-8313-49bb-9e00-bbb7c4cfe17b",
+        "type": "message",
+        "text": "I disagree.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047704.004100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kn=1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I disagree."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd13d344-206e-4c96-87f7-79c84e859e7c",
+        "type": "message",
+        "text": "Now we are moving to a more substantive debate, where the answers are dictated more by conviction without so much freedom to choose.  Agreed?",
+        "user": "U012MTPDH98",
+        "ts": "1588047709.004200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jGuHB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now we are moving to a more substantive debate, where the answers are dictated more by conviction without so much freedom to choose.  Agreed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62a604ec-b012-45ea-ae37-04bb4de9c77b",
+        "type": "message",
+        "text": "Oh, ok, let's have a real discussion...",
+        "user": "U012MTPDH98",
+        "ts": "1588047765.005300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JgcX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, ok, let's have a real discussion..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "451edaac-7667-415f-b2a4-13c6f8f8c233",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U013BNX11CG",
+        "ts": "1588047782.006200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ar0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39242438-556c-4e4e-8f4f-78308760c1a2",
+        "type": "message",
+        "text": "I also agree that children ought not to have smart phones.",
+        "user": "U012MTPDH98",
+        "ts": "1588047796.007000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also agree that children ought not to have smart phones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2bdd1e3-b23f-4dfe-b515-3d807e6f4783",
+        "type": "message",
+        "text": "I have two myself.",
+        "user": "U012MTPDH98",
+        "ts": "1588047808.007700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agWmD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have two myself."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9740cc59-d88a-4c46-8bf4-a0a6c6a77ba0",
+        "type": "message",
+        "text": "What age are we calling \"children\"? Are senior high school students \"children\" for the sake of this discussion?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047837.009600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BxD2A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What age are we calling \"children\"? Are senior high school students \"children\" for the sake of this discussion?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B82422FB-D785-4AF7-B1C2-64BABB0EAA46",
+        "type": "message",
+        "text": "I believe it is acceptable for children to have mobile devices for the purpose of safety, in which case I don’t think a smartphone is necessary, or regardless of the type of phone, I don’t think they should have access to phones when around well trusted adults :sweat_smile:",
+        "user": "U0130GKUGCR",
+        "ts": "1588047859.010500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1FCcj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I believe it is acceptable for children to have mobile devices for the purpose of safety, in which case I don’t think a smartphone is necessary, or regardless of the type of phone, I don’t think they should have access to phones when around well trusted adults "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63743d9a-d4a5-4254-8173-576a4247ad6e",
+        "type": "message",
+        "text": "I suspect a lot of parents just give their kids devices to keep them quite and occupied. Which is one reason I disagree.",
+        "user": "U013BNX11CG",
+        "ts": "1588047871.011300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+fLo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I suspect a lot of parents just give their kids devices to keep them quite and occupied. Which is one reason I disagree."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fbbb780-dc9e-470c-96c3-df1cb443fa89",
+        "type": "message",
+        "text": "I'm influenced in this direction not just by the monomania induced by screens, but by the range of research seeming to indicate social media exposure is an important factor in causing mental illness in young people, particularly depression.",
+        "user": "U012MTPDH98",
+        "ts": "1588047897.012200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "akS1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm influenced in this direction not just by the monomania induced by screens, but by the range of research seeming to indicate social media exposure is an important factor in causing mental illness in young people, particularly depression."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66F4164F-3616-493A-948D-22147F000DA7",
+        "type": "message",
+        "text": "I would class a child as someone that is not yet in high school ",
+        "user": "U0130GKUGCR",
+        "ts": "1588047905.012500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7BKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would class a child as someone that is not yet in high school "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "261d4436-63dc-44e2-92da-5f5afe0e8e1b",
+        "type": "message",
+        "text": "I think even at University age this is probably a factor, so I'm not too bothered what you call a child - the negative impact vs age is a matter of degree",
+        "user": "U012MTPDH98",
+        "ts": "1588047952.014100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZ01k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think even at University age this is probably a factor, so I'm not too bothered what you call a child - the negative impact vs age is a matter of degree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f778ba3-393c-462a-8c36-d88fae16b495",
+        "type": "message",
+        "text": "Sounds like we are i agreement that pre-high school children should not have smartphones?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588047978.014900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMIX\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sounds like we are i agreement that pre-high school children should not have smartphones?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b476087a-6292-4e9a-9705-6b49285309e0",
+        "type": "message",
+        "text": "I see no practical reasons for a child to have a smartphone. If anything they do more harm than good.",
+        "user": "U013BNX11CG",
+        "ts": "1588048018.015800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u0rw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see no practical reasons for a child to have a smartphone. If anything they do more harm than good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c934a85f-961d-4306-9d8d-63d26d3c67c1",
+        "type": "message",
+        "text": "Looks like it.",
+        "user": "U013BNX11CG",
+        "ts": "1588048052.016700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJY2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks like it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "622617a7-24fb-4641-8825-f8215429c7ed",
+        "type": "message",
+        "text": "Done.  But pre-high children are not really a point of contention, right?  The most vulnerable age is probably high-school due to bullying, fomo, and pressure to present in the best way, such as touching up images.",
+        "user": "U012MTPDH98",
+        "ts": "1588048130.018100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTzT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Done.  But pre-high children are not really a point of contention, right?  The most vulnerable age is probably high-school due to bullying, fomo, and pressure to present in the best way, such as touching up images."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0834df6-2445-459e-8cf0-62b8fa3ef149",
+        "type": "message",
+        "text": "So it seems everyone is happy then?",
+        "user": "U0126U931AB",
+        "ts": "1588048136.018300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So it seems everyone is happy then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013BNX11CG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c77a1835-d862-4989-b5c6-4b3c40483a65",
+        "type": "message",
+        "text": "Kind of.  But I think we have only tackled a relatively trivial aspect of the question.",
+        "user": "U012MTPDH98",
+        "ts": "1588048165.019400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VonD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kind of.  But I think we have only tackled a relatively trivial aspect of the question."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9de1f38e-3044-4eaf-86dd-f661e2618500",
+        "type": "message",
+        "text": "So only kind of.",
+        "user": "U012MTPDH98",
+        "ts": "1588048171.019700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Uo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So only kind of."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9abc26b3-da4f-4217-bb0e-eedc0ba46bd4",
+        "type": "message",
+        "text": "Ecstatic .... easier to agree on the danger of smartphones than the benefits of mustard or tomato sauce.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588048182.020200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xA7v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ecstatic .... easier to agree on the danger of smartphones than the benefits of mustard or tomato sauce."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7099f1db-65ac-4c05-baa5-7362f213de8a",
+        "type": "message",
+        "text": "But would anyone else keep smartphones off a highschooler?  My children won't be getting one.",
+        "user": "U012MTPDH98",
+        "ts": "1588048219.021300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ypj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But would anyone else keep smartphones off a highschooler?  My children won't be getting one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f06a5f6-0d0b-4fdc-b3ae-3782596ca618",
+        "type": "message",
+        "text": "If your child is a senior at highschool and has a part time job that gives them the funds to buy a smartphone and the need to finish shifts late at night, do you still refuse to let them buy themselves a smartphone?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588048296.023700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z7uk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If your child is a senior at highschool and has a part time job that gives them the funds to buy a smartphone and the need to finish shifts late at night, do you still refuse to let them buy themselves a smartphone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a7751da-91ae-438a-aaef-deabb4a0ad91",
+        "type": "message",
+        "text": "Yep.",
+        "user": "U012MTPDH98",
+        "ts": "1588048316.024100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "511401ce-6a2a-4b26-88b0-94ad9dd68094",
+        "type": "message",
+        "text": "Although by that age 'refuse' is a squashy term",
+        "user": "U012MTPDH98",
+        "ts": "1588048332.025200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MPLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Although by that age 'refuse' is a squashy term"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef1f74fb-3e54-4359-96d0-51c47d0a84f7",
+        "type": "message",
+        "text": "I wouldn't support it.",
+        "user": "U012MTPDH98",
+        "ts": "1588048351.026200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7dm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wouldn't support it."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04e3f825-9ad6-4bdd-b3b2-b24c1a3ad62d",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> at what age would you give a child a phone?",
+        "user": "U012MTPDH98",
+        "ts": "1588048398.028300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mRC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " at what age would you give a child a phone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "398ed9fa-cdc4-4555-a4c6-6f6022153dbf",
+        "type": "message",
+        "text": "If they are like 13\/14 you could say no.  However, at like 16\/17 ish you need to let make their own decisions.",
+        "user": "U013BNX11CG",
+        "ts": "1588048405.028700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YLB9E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If they are like 13\/14 you could say no.  However, at like 16\/17 ish you need to let make their own decisions."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69C1FB05-313A-4FED-8DE9-6AC18884F776",
+        "type": "message",
+        "text": "I don’t think a high schooler is a child, if you try to keep a high schooler from having a smart phone they will probably get one behind your back...",
+        "user": "U0130GKUGCR",
+        "ts": "1588048425.029700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94pl7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t think a high schooler is a child, if you try to keep a high schooler from having a smart phone they will probably get one behind your back..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U012MTPDH98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a8c57ca-9d57-4461-8ade-b9aec89e734a",
+        "type": "message",
+        "text": "yes I agree with that - in fact, you're in trouble if you have to give commands to 13\/14 yr old also.",
+        "user": "U012MTPDH98",
+        "ts": "1588048448.030700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yH+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes I agree with that - in fact, you're in trouble if you have to give commands to 13\/14 yr old also."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12b3c5b6-3fc1-454e-8aca-49966b6a5173",
+        "type": "message",
+        "text": "<@U0130GKUGCR> what sort of a sick two-faced scheeming high schooler were you? (are you?)",
+        "user": "U012MTPDH98",
+        "ts": "1588048506.033700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Po",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what sort of a sick two-faced scheeming high schooler were you? (are you?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e30ca26f-1cc3-47a8-b5cf-e74a23f9f267",
+        "type": "message",
+        "text": "This comes down to parenting, right?  That's what we're debating now.",
+        "user": "U012MTPDH98",
+        "ts": "1588048528.034900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2gC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This comes down to parenting, right?  That's what we're debating now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "211b6bee-7976-45bc-870b-a22185c54bff",
+        "type": "message",
+        "text": "It depends on how they have been raised. If they did something behind my back, I would feel like I had failed them. However I admit there are exceptions to the rule.",
+        "user": "U013BNX11CG",
+        "ts": "1588048556.037200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPfl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It depends on how they have been raised. If they did something behind my back, I would feel like I had failed them. However I admit there are exceptions to the rule."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9faae358-51e9-4dc9-849c-f5501c742680",
+        "type": "message",
+        "text": "<@U012MTPDH98> please be polite to copperbrilly",
+        "user": "U0126U931AB",
+        "ts": "1588048598.040200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012MTPDH98"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please be polite to copperbrilly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6d4a686-1d0a-4944-95c6-77e47cc43604",
+        "type": "message",
+        "text": "Sage advice I once heard is that you need to be friends with your children by the time they are teenagers, otherwise your influence is gone.  From that point on its a matter of persuasion.",
+        "user": "U012MTPDH98",
+        "ts": "1588048599.040300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sage advice I once heard is that you need to be friends with your children by the time they are teenagers, otherwise your influence is gone.  From that point on its a matter of persuasion."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdfa5639-03e8-4236-a0ee-80abcd15edfe",
+        "type": "message",
+        "text": "<@U0130GKUGCR> sorry",
+        "user": "U012MTPDH98",
+        "ts": "1588048617.041300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GJb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25FEF6EF-F536-4953-8765-3FEF8EB33BA9",
+        "type": "message",
+        "text": "I’m not speaking for myself, I had a smart phone that I bought with my own money :joy: I’m just assuming that’s what teenagers would do",
+        "user": "U0130GKUGCR",
+        "ts": "1588048653.042800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bq6Ik",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not speaking for myself, I had a smart phone that I bought with my own money "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’m just assuming that’s what teenagers would do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ff052b7-35b5-486b-a222-9cd87f6ccc9d",
+        "type": "message",
+        "text": "<@U0130GKUGCR> I expect you are a nice person or Alex wouldn't know you.",
+        "user": "U012MTPDH98",
+        "ts": "1588048654.042900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A=F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I expect you are a nice person or Alex wouldn't know you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1db62097-6a49-4875-bbe2-5aafc3c933c3",
+        "type": "message",
+        "text": "Is it as black and white as the question suggests?  I am not a fan of smartphones for anyone of any age, but they can be useful tools.  Would it be better to allow young ones to own a smartphone, but lay down groundrules? My youngest child bought a smartphone when aged 18.  My middle child bought one when aged 21 and my eldest child has never owned one and does not want one.  At 18 they can marry, vote and serve in a war ... but we can't trust them with a smartphone?  I do not like smartphones; I think they are more trouble than they are worth unless we use them carefully.  But to stop a late teenager buying their own phone once they have their own funds and the apparent maturity to manage one is counterproductive.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588048667.043100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NAA\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it as black and white as the question suggests?  I am not a fan of smartphones for anyone of any age, but they can be useful tools.  Would it be better to allow young ones to own a smartphone, but lay down groundrules? My youngest child bought a smartphone when aged 18.  My middle child bought one when aged 21 and my eldest child has never owned one and does not want one.  At 18 they can marry, vote and serve in a war ... but we can't trust them with a smartphone?  I do not like smartphones; I think they are more trouble than they are worth unless we use them carefully.  But to stop a late teenager buying their own phone once they have their own funds and the apparent maturity to manage one is counterproductive."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73dc46fd-1fa7-481b-b02d-dbb77911c70d",
+        "type": "message",
+        "text": "I did not mean to attack anyone.",
+        "user": "U013BNX11CG",
+        "ts": "1588048687.043400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did not mean to attack anyone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76fe2bf6-c9fa-4882-80b5-8b911e0cf65e",
+        "type": "message",
+        "text": "At 18 they can have a smartphone, agreed",
+        "user": "U012MTPDH98",
+        "ts": "1588048695.043600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fvz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "At 18 they can have a smartphone, agreed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1417b2f2-a7d2-4d24-a80e-4bf76d24ab72",
+        "type": "message",
+        "text": "Attack, <@U013BNX11CG>, attack!",
+        "user": "U012MTPDH98",
+        "ts": "1588048746.044700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OqK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Attack, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013BNX11CG"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", attack!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d5e517f-ea35-45f2-ae2f-7c816898f618",
+        "type": "message",
+        "text": "No, not really.  So... pre-highschool no, 18 yes.",
+        "user": "U012MTPDH98",
+        "ts": "1588048772.045400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, not really.  So... pre-highschool no, 18 yes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51cf3446-f613-41a5-bb70-2de2864987cf",
+        "type": "message",
+        "text": "You've got 10 minutes to finish this one",
+        "user": "U0126U931AB",
+        "ts": "1588048810.047100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7xtIr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You've got 10 minutes to finish this one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4aab44f4-64cb-4515-96ff-b58bdb17052c",
+        "type": "message",
+        "text": "In a perfect world, as a confirmed Luddite, I would prefer that smartphones had never been invented.  I would not give one willingly to anyone aged under 18. I think children (0-17 years?) would be better of without any mobile devices ... except books and perhaps skateboards.",
+        "user": "U012U3HJ0FN",
+        "ts": "1588048817.047400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aj5WT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In a perfect world, as a confirmed Luddite, I would prefer that smartphones had never been invented.  I would not give one willingly to anyone aged under 18. I think children (0-17 years?) would be better of without any mobile devices ... except books and perhaps skateboards."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92fc3114-5664-4e60-8af6-d6d4ecd897b8",
+        "type": "message",
+        "text": "If they are 18 they can definitely choose to have one, but I would suggest that a teenager should be in the position to start making reasonably wise decisions at 16.",
+        "user": "U013BNX11CG",
+        "ts": "1588048899.050600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hNtp2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If they are 18 they can definitely choose to have one, but I would suggest that a teenager should be in the position to start making reasonably wise decisions at 16."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5c74394-454a-43ce-ace9-33d0132ae43f",
+        "type": "message",
+        "text": "In fact, thinking about this more precisely... I am more concerned about my boy than my girl.  Practically, smartphone will be necessary for a variety of reasons at work\/Uni.  So maybe good to let them have it in last year highschool, while they are still under my watch, then we can establish good habits before potentially moving out of home.",
+        "user": "U012MTPDH98",
+        "ts": "1588048910.051200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "piGvW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In fact, thinking about this more precisely... I am more concerned about my boy than my girl.  Practically, smartphone will be necessary for a variety of reasons at work\/Uni.  So maybe good to let them have it in last year highschool, while they are still under my watch, then we can establish good habits before potentially moving out of home."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4777bb7-c87a-404b-9a2d-b04d253066f2",
+        "type": "message",
+        "text": "So if I give it to the boy at 17, I give it to the girl at the same age.",
+        "user": "U012MTPDH98",
+        "ts": "1588048946.052000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dAUPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So if I give it to the boy at 17, I give it to the girl at the same age."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cef31c6-3913-4f9b-ae8b-711c2291755d",
+        "type": "message",
+        "text": "Definitely agree with that!",
+        "user": "U013BNX11CG",
+        "ts": "1588048958.052300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PHmbd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely agree with that!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86807f3d-e781-4001-8dd6-894609e2ad0b",
+        "type": "message",
+        "text": "Would this guidance meet general acceptance...?",
+        "user": "U012MTPDH98",
+        "ts": "1588048997.053400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/jO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would this guidance meet general acceptance...?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cadd9a6e-f3e2-4401-8a3d-4f216426f0b7",
+        "type": "message",
+        "text": "0-15 not generally recommended, 16-17 parental judgement valuable, 18+ a working\/study necessity in many cases.",
+        "user": "U012MTPDH98",
+        "ts": "1588049045.055000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2YiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0-15 not generally recommended, 16-17 parental judgement valuable, 18+ a working\/study necessity in many cases."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd0b1264-9028-4661-835e-9c85c568f583",
+        "type": "message",
+        "text": "We've got four :+1: ...",
+        "user": "U012U3HJ0FN",
+        "ts": "1588049062.055300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We've got four "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U012MTPDH98"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06927b01-08c8-4b76-9997-9c1d164424d4",
+        "type": "message",
+        "text": "Thanks everyone.",
+        "user": "U012MTPDH98",
+        "ts": "1588049106.056400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MKDUH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks everyone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cc13d97-7fc4-4180-b424-f5412f5bc1ed",
+        "type": "message",
+        "text": "Cheers people.",
+        "user": "U013BNX11CG",
+        "ts": "1588049126.057100",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C8EQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cheers people."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7ab077d-20d7-4d7c-8cb6-d41a332b3c70",
+        "type": "message",
+        "text": "So that seems to be it for this discussion. Are you guys happy to come back on Thursday for the other two discussions?",
+        "user": "U0126U931AB",
+        "ts": "1588049142.057800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ad5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So that seems to be it for this discussion. Are you guys happy to come back on Thursday for the other two discussions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e57dbc57-fec3-4aa1-bc1c-e7a3be18d6ab",
+        "type": "message",
+        "text": "Yep",
+        "user": "U013BNX11CG",
+        "ts": "1588049151.058200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "gd6ce58f2073",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6ce58f2073a07f7564e4c7298a4533e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "anklefuvet",
+            "display_name": "anklefuvet",
+            "team": "T012MLD722E",
+            "name": "ajt.tattersall",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ciuL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94a4f205-c751-4172-9867-89da5769d98f",
+        "type": "message",
+        "text": "Anything for you brother.",
+        "user": "U012MTPDH98",
+        "ts": "1588049160.058600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SWJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anything for you brother."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1aa5604-c207-43d9-a216-a2127b170327",
+        "type": "message",
+        "text": "Yes :grinning:",
+        "user": "U012U3HJ0FN",
+        "ts": "1588049164.058900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M2xpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grinning"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A46D122A-15F1-41F1-9044-BFC62C4DDBBA",
+        "type": "message",
+        "text": "Yes :blush:",
+        "user": "U0130GKUGCR",
+        "ts": "1588049177.059500",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7WwV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b584590f-5dee-4407-befa-5822e0328479",
+        "type": "message",
+        "text": "<@U0130GKUGCR> sorry again for trolling",
+        "user": "U012MTPDH98",
+        "ts": "1588049182.059600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qK=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0130GKUGCR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sorry again for trolling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58233d73-2655-48d6-af26-425e14737526",
+        "type": "message",
+        "text": "WHat is trolling?",
+        "user": "U012U3HJ0FN",
+        "ts": "1588049196.060300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oy9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "WHat is trolling?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a23a9a5e-fa1e-4cc7-843a-c049ab600d4a",
+        "type": "message",
+        "text": "But it's not anything I wouldn't say to your face.",
+        "user": "U012MTPDH98",
+        "ts": "1588049198.060400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oJhFG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it's not anything I wouldn't say to your face."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ce0db5e-de3a-49ce-b62c-72516e032a4b",
+        "type": "message",
+        "text": "Cool. Thanks heaps for helping me out",
+        "user": "U0126U931AB",
+        "ts": "1588049200.060700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool. Thanks heaps for helping me out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe48d1f4-1335-413a-852c-65a5a483fc7a",
+        "type": "message",
+        "text": "Can we leave now? :sunglasses:",
+        "user": "U012U3HJ0FN",
+        "ts": "1588049278.061700",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3eA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can we leave now? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ADFF4C5-C761-46B8-B45B-AE1301BDDB43",
+        "type": "message",
+        "text": "I’m not phased :blush:",
+        "user": "U0130GKUGCR",
+        "ts": "1588049293.062200",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g2a3ca9cc383",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a3ca9cc383c474811bb69d6a2f1ea6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "",
+            "real_name": "copperbrilly",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "cloubser",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6XHQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m not phased "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0dd2935f-2a59-4d56-8f44-f2877befe079",
+        "type": "message",
+        "text": "Yep you can go. I'll send a reminder through on thursday or something",
+        "user": "U0126U931AB",
+        "ts": "1588049293.062300",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ylP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep you can go. I'll send a reminder through on thursday or something"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "083c9572-ca8b-4acf-b58f-093fb27cc50c",
+        "type": "message",
+        "text": "<@U012U3HJ0FN> are you over 16?  You can probably make your own decision.",
+        "user": "U012MTPDH98",
+        "ts": "1588049311.062800",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U012U3HJ0FN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you over 16?  You can probably make your own decision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U012U3HJ0FN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89273735-e2b3-4451-9d2c-a12c06645cac",
+        "type": "message",
+        "text": "Thanks Alex",
+        "user": "U012MTPDH98",
+        "ts": "1588049348.063900",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Akc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks Alex"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54ce6fca-283f-4b90-aaef-ef500cada33e",
+        "type": "message",
+        "text": "The minimum age for participants is 16",
+        "user": "U0126U931AB",
+        "ts": "1588049351.064000",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012MLD722E",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VRKsX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The minimum age for participants is 16"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c4ecf42-906e-4424-8aa8-df651b17f491",
+        "type": "message",
+        "text": "See you all Thursday...",
+        "user": "U012MTPDH98",
+        "ts": "1588049365.064400",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g4043cc39f68",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4043cc39f68a46673390ca3ec9d5ab90.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "nationalyuity",
+            "display_name": "nationalyuity",
+            "team": "T012MLD722E",
+            "name": "nick",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aBavA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "See you all Thursday..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "740f1146-b33a-471f-9ee5-fc8a952580f0",
+        "type": "message",
+        "text": "Thanks!:slightly_smiling_face:",
+        "user": "U012U3HJ0FN",
+        "ts": "1588049375.064600",
+        "team": "T012MLD722E",
+        "user_team": "T012MLD722E",
+        "source_team": "T012MLD722E",
+        "user_profile": {
+            "avatar_hash": "g48573dbf686",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/48573dbf686d7ff2bb4909d30e2fa6ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "koolkapel",
+            "display_name": "koolkapel",
+            "team": "T012MLD722E",
+            "name": "k1rsty",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5IAV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

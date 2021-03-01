@@ -1,0 +1,1687 @@
+[
+    {
+        "client_msg_id": "9df94cf2-9d22-4f17-86e1-1621c2ab8b97",
+        "type": "message",
+        "text": "I agree!",
+        "user": "U013A8TCPDK",
+        "ts": "1589437784.001400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U014AL8B2TA",
+                    "U013M1S8U67"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589437825.002000",
+        "user": "U013A8TCPDK",
+        "text": "<@U013A8TCPDK> set the channel topic: What should we worry about with the emergence of intelligent machines?",
+        "topic": "What should we worry about with the emergence of intelligent machines?"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589437849.002800",
+        "user": "U013A8TCPDK",
+        "text": "<@U013A8TCPDK> set the channel purpose: With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?",
+        "purpose": "With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?"
+    },
+    {
+        "client_msg_id": "13B56A33-D1D0-465D-A413-0369EEBB0B2D",
+        "type": "message",
+        "text": "I think it’s a little bit concerning how advanced technology can get when it begins to take away jobs that used to be done by people, as in unemployment rises  ",
+        "user": "U013M1S8U67",
+        "ts": "1589438054.006500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LKmo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it’s a little bit concerning how advanced technology can get when it begins to take away jobs that used to be done by people, as in unemployment rises  "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D393DCE-BAD6-42A1-94B2-EBF8EF6F2F90",
+        "type": "message",
+        "text": "What I mean is it’s concerning when artificial intelligence attempts to replace normal human functions and interactions ",
+        "user": "U013M1S8U67",
+        "ts": "1589438116.008300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGPu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What I mean is it’s concerning when artificial intelligence attempts to replace normal human functions and interactions "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dff8107f-f163-472c-89a9-1ffde053c6c5",
+        "type": "message",
+        "text": "There is a case to be made for the precision of technology in some areas of production - you often see docos about car manufacturing plants that use robots to a large degree; there are still people employed, but definitely fewer than when everything was operated by people. And you are correct, this can lead to a loss of jobs in industries such as this. The question about how people are able to earn money in a highly technological world is a huge one.",
+        "user": "U014AL8CUSU",
+        "ts": "1589438308.015800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4AH26",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a case to be made for the precision of technology in some areas of production - you often see docos about car manufacturing plants that use robots to a large degree; there are still people employed, but definitely fewer than when everything was operated by people. And you are correct, this can lead to a loss of jobs in industries such as this. The question about how people are able to earn money in a highly technological world is a huge one."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D4D7655-185F-4735-AA3C-1DDA62B46EC8",
+        "type": "message",
+        "text": "AI development is fascinating but there has to be some ethical boundaries",
+        "user": "U013M1S8U67",
+        "ts": "1589438311.016100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fSOg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI development is fascinating but there has to be some ethical boundaries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4eb09f77-88c4-4135-a47b-184f009153e8",
+        "type": "message",
+        "text": "Something that concerns me is the reliance many people have developed on technology",
+        "user": "U013KDVS71B",
+        "ts": "1589438335.017000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Xh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something that concerns me is the reliance many people have developed on technology"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "969e79cc-48b4-4980-ad65-29036bb02cdb",
+        "type": "message",
+        "text": "I agree <@U013M1S8U67>.",
+        "user": "U014AL8CUSU",
+        "ts": "1589438363.017700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ISD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013M1S8U67"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcb217d3-22c6-4417-ad9d-4a400451721c",
+        "type": "message",
+        "text": "I think everyone should be \"concerned with\" understanding how artificial intelligence might influence our future as humans, however I don't think that it makes sense to be worried about artificial intelligence, because the term represents a complex and ever-developing multiplicity of technologies with widely different applications, time-frames and possible consequences. This is a overwhelming amount of information, which the average person cannot make reasonable predictions about without understanding of a range of subjects including computing, human psychology, and economics.",
+        "user": "U014AL8B2TA",
+        "ts": "1589438421.019800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HJLTB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think everyone should be \"concerned with\" understanding how artificial intelligence might influence our future as humans, however I don't think that it makes sense to be worried about artificial intelligence, because the term represents a complex and ever-developing multiplicity of technologies with widely different applications, time-frames and possible consequences. This is a overwhelming amount of information, which the average person cannot make reasonable predictions about without understanding of a range of subjects including computing, human psychology, and economics."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6430f3ba-7cda-4e01-b32d-d3e20eb7e0ae",
+        "type": "message",
+        "text": "Have you seen those apps that control windows, blinds, coffee makers etc. etc.? I always wonder what happens when the power goes off?",
+        "user": "U014AL8CUSU",
+        "ts": "1589438429.019900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Have you seen those apps that control windows, blinds, coffee makers etc. etc.? I always wonder what happens when the power goes off?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013KDVS71B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bfb724e-8256-4704-b5df-9ec0b8cfaf8b",
+        "type": "message",
+        "text": "AI goes beyond just advanced technology doesn't it? I use my smart phone for nearly every area of my daily life, and even then, am sure I don't use it to its full potential. I think the big question \/ \"worry\" with AI is its potential to think FOR humankind, rather than a tool to be used BY mankind.",
+        "user": "U014AL8CUSU",
+        "ts": "1589438583.025300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7rU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AI goes beyond just advanced technology doesn't it? I use my smart phone for nearly every area of my daily life, and even then, am sure I don't use it to its full potential. I think the big question \/ \"worry\" with AI is its potential to think FOR humankind, rather than a tool to be used BY mankind."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0462674-6294-45f3-9bd9-aa7e9ae7b8eb",
+        "type": "message",
+        "text": "<@U014AL8CUSU> well put",
+        "user": "U013KDVS71B",
+        "ts": "1589438646.027100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3c+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U014AL8CUSU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " well put"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc6dc648-36b1-4fda-b08e-4d73ccc6f7c8",
+        "type": "message",
+        "text": "I am \"concerned with\" trying to learn as much as I can about how artificial intelligence may shape our human future, but worrying about it as a nebulous monster I don't understand, doesn't make sense to me. I think doing my best to pay attention to what developments are being made is important. However, attempting to be at peace with the the unpredictability of the future and what I cannot control, and doing my best to take responsibility for my own choices in how I live and use technology is more important a concern to me.",
+        "user": "U014AL8B2TA",
+        "ts": "1589438733.030400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am \"concerned with\" trying to learn as much as I can about how artificial intelligence may shape our human future, but worrying about it as a nebulous monster I don't understand, doesn't make sense to me. I think doing my best to pay attention to what developments are being made is important. However, attempting to be at peace with the the unpredictability of the future and what I cannot control, and doing my best to take responsibility for my own choices in how I live and use technology is more important a concern to me."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "348c37d5-5a0f-4bcd-bb65-dd3d2a0e02cc",
+        "type": "message",
+        "text": "Which comes back to mirrormoth's comment about ethics. Who decides what is ethical? Where is the line drawn? Is there a line? The discussion description uses the word \"concerned\"As we are discussing this, and reading the excellent comments, I am leaning towards, yes, we should be concerned about developments in AI (as in interested, informed)",
+        "user": "U014AL8CUSU",
+        "ts": "1589438826.033400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Which comes back to mirrormoth's comment about ethics. Who decides what is ethical? Where is the line drawn? Is there a line? The discussion description uses the word \"concerned\"As we are discussing this, and reading the excellent comments, I am leaning towards, yes, we should be concerned about developments in AI (as in interested, informed)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9acb185b-3b65-4f5d-8876-04f04fde9a96",
+        "type": "message",
+        "text": "as a tool used BY mankind, AI has great potential, but will we be able to tell when we stop using it and it starts using us",
+        "user": "U013KDVS71B",
+        "ts": "1589438845.034300",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=3nw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as a tool used BY mankind, AI has great potential, but will we be able to tell when we stop using it and it starts using us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bc8847f-5ce3-4a79-a353-cd605fa17afc",
+        "type": "message",
+        "text": "Whoops pushed enter too soon! I am leaning towards, yes, we should be concerned about developments in AI (as in interested, informed) but also be sure that AI remains a tool for, not a control of, mankind.",
+        "user": "U014AL8CUSU",
+        "ts": "1589438912.037400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCUPG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Whoops pushed enter too soon! I am leaning towards, yes, we should be concerned about developments in AI (as in interested, informed) but also be sure that AI remains a tool for, not a control of, mankind."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9766B076-F448-4A2D-94ED-28235CEF82F3",
+        "type": "message",
+        "text": "Yeah.. another issue is as with many things in our society it is hard to talk “ethics” when probably the major drive for the advancement of AI would be the money it makes ",
+        "user": "U013M1S8U67",
+        "ts": "1589438964.039600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDRpX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah.. another issue is as with many things in our society it is hard to talk “ethics” when probably the major drive for the advancement of AI would be the money it makes "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa4a75ff-993e-4e68-87ca-c776bcc4c588",
+        "type": "message",
+        "text": "I think if we're using the word concerned as to mean paying serious attention to, thoughtfully analysing, then yes, I think every human should be concerned about AI. But worrying is a fruitless exercise, especially when dealing with a huge genre of technologies the average person has no power over.",
+        "user": "U014AL8B2TA",
+        "ts": "1589438995.040800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5w5d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think if we're using the word concerned as to mean paying serious attention to, thoughtfully analysing, then yes, I think every human should be concerned about AI. But worrying is a fruitless exercise, especially when dealing with a huge genre of technologies the average person has no power over."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c6c9abe-7b82-4f04-98a8-dab9fb585a18",
+        "type": "message",
+        "text": "There is 10 minutes remaining in this discussion",
+        "user": "U013A8TCPDK",
+        "ts": "1589439017.041500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is 10 minutes remaining in this discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d32071b-9318-424d-affd-017c237fed07",
+        "type": "message",
+        "text": "I also agree that we should be concerned, so coming back to the discussion description: why should we be concerned about this?",
+        "user": "U013KDVS71B",
+        "ts": "1589439028.042200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "StBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I also agree that we should be concerned, so coming back to the discussion description: why should we be concerned about this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94a39967-7147-427f-958b-2e584344f2d5",
+        "type": "message",
+        "text": "I am definitely concerning myself with trying to understand the developments and influences of AI on our lives, but I acknowledge that the decisions I make every day as an individual in whatever kind of society I live, is my biggest concern.",
+        "user": "U014AL8B2TA",
+        "ts": "1589439103.046200",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VejLa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am definitely concerning myself with trying to understand the developments and influences of AI on our lives, but I acknowledge that the decisions I make every day as an individual in whatever kind of society I live, is my biggest concern."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "738F9AC3-2295-4034-8F3D-1A67E6D572C5",
+        "type": "message",
+        "text": "We should be concerned because the advancement of AI has the potential to have immense effects, good and bad, on our human interactions and humanity in general ",
+        "user": "U013M1S8U67",
+        "ts": "1589439110.046600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ssK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should be concerned because the advancement of AI has the potential to have immense effects, good and bad, on our human interactions and humanity in general "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be14747f-0686-4028-bd46-a907144c1cd4",
+        "type": "message",
+        "text": "Why: In short - ethics, questions who\/what has the ultimate control and motivation for that control. (OK maybe not so short!)",
+        "user": "U014AL8CUSU",
+        "ts": "1589439131.047100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Phxm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why: In short - ethics, questions who\/what has the ultimate control and motivation for that control. (OK maybe not so short!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6a82a86-1a89-40be-8d60-13dde04a7ab7",
+        "type": "message",
+        "text": "Mirrormoth - I think you have summed up the discussion well - have we perhaps, reached consensus?",
+        "user": "U014AL8CUSU",
+        "ts": "1589439207.049700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksQZQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mirrormoth - I think you have summed up the discussion well - have we perhaps, reached consensus?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9287cd3-ee14-4594-9eaa-c940a1b9a2f0",
+        "type": "message",
+        "text": "We must see that history shows that our civilisation is no absolute insurance against hardship as a result of corruption. Corruption and wonky ethics in AI development may change our societies and the kind of lives we live, but this does not change the power I have over my own choices. I am concerned with AI as an exciting and bewildering development of our time, but I am not worried. I am at peace about the future. Every civilisation, every time has it's unique challenges. The human spirit continues.",
+        "user": "U014AL8B2TA",
+        "ts": "1589439314.052800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9L6mh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We must see that history shows that our civilisation is no absolute insurance against hardship as a result of corruption. Corruption and wonky ethics in AI development may change our societies and the kind of lives we live, but this does not change the power I have over my own choices. I am concerned with AI as an exciting and bewildering development of our time, but I am not worried. I am at peace about the future. Every civilisation, every time has it's unique challenges. The human spirit continues."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U014AL8CUSU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43dd2520-fa5b-4f4a-bbc5-ee28c191cf9b",
+        "type": "message",
+        "text": "Totally agree, the potential effects of advancing AI development could be catastrophic or the saving grace of humanity. In this day and age, it could have global implications",
+        "user": "U013KDVS71B",
+        "ts": "1589439357.053500",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72XhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totally agree, the potential effects of advancing AI development could be catastrophic or the saving grace of humanity. In this day and age, it could have global implications"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "436f01a2-a8a2-4f5c-bdde-725360f64ec0",
+        "type": "message",
+        "text": "There is 4 minutes remaining in this discussion",
+        "user": "U013A8TCPDK",
+        "ts": "1589439379.053900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmUM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is 4 minutes remaining in this discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed999b8c-9362-4633-b905-2e8a2de01b87",
+        "type": "message",
+        "text": "I think we're all concerned (paying attention and eager to learn)",
+        "user": "U014AL8B2TA",
+        "ts": "1589439408.054900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rcg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we're all concerned (paying attention and eager to learn)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02a4abc6-7fae-4a2d-818c-05bf5af1bdfd",
+        "type": "message",
+        "text": "Anyone seen the movie Ex Machina?",
+        "user": "U014AL8B2TA",
+        "ts": "1589439429.055900",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XkRYc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyone seen the movie Ex Machina?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B54D28FB-C036-40A3-954B-4E7685A9E8B8",
+        "type": "message",
+        "text": "No but I remember reading something interesting about it :) ",
+        "user": "U013M1S8U67",
+        "ts": "1589439464.057800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No but I remember reading something interesting about it :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e151b0a-6b5b-429d-8347-b7a810bb7d2e",
+        "type": "message",
+        "text": "If you weren't creeped out about AI, after watching that you definitely will be. What a thrill!! :stuck_out_tongue:",
+        "user": "U014AL8B2TA",
+        "ts": "1589439489.058600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EDtp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you weren't creeped out about AI, after watching that you definitely will be. What a thrill!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3da3f2f-aef6-4afa-b3b2-c87ba1db9e07",
+        "type": "message",
+        "text": "would be agree on mirrormoth's statement: We should be concerned because the advancement of AI has the potential to have immense effects, good and bad, on our human interactions and humanity in general.",
+        "user": "U013KDVS71B",
+        "ts": "1589439513.059800",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lY4r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "would be agree on mirrormoth's statement: We should be concerned because the advancement of AI has the potential to have immense effects, good and bad, on our human interactions and humanity in general."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59d7a240-b277-4bfd-a49a-54fd17df19b9",
+        "type": "message",
+        "text": "Dad's giving us the hurry up! I agree Magnet mussel - you're basically saying that we should think globally and act locally. I think we have all expressed the fact that yes, we should be \"concerned\" and have given various, but similar answers as to why. Our individual response to AI or any other development is always going to be our own responsibility.",
+        "user": "U014AL8CUSU",
+        "ts": "1589439524.060400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "15f5add62f70",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1111222305143_15f5add62f7062393a44_72.jpg",
+            "first_name": "",
+            "real_name": "tentativetortoise",
+            "display_name": "tentativetortoise",
+            "team": "T012WTK8Y4X",
+            "name": "susancase1983",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0lu7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dad's giving us the hurry up! I agree Magnet mussel - you're basically saying that we should think globally and act locally. I think we have all expressed the fact that yes, we should be \"concerned\" and have given various, but similar answers as to why. Our individual response to AI or any other development is always going to be our own responsibility."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U013M1S8U67",
+                    "U013KDVS71B"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36598d5e-45cf-4a57-8ae6-019d7aa287f8",
+        "type": "message",
+        "text": "*would we agree",
+        "user": "U013KDVS71B",
+        "ts": "1589439528.060600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kOOOE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*would we agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2610e97f-45bf-4dd0-9c77-9c8049b0c7e8",
+        "type": "message",
+        "text": "There is 1 minute remaining in this discussion",
+        "user": "U013A8TCPDK",
+        "ts": "1589439565.061700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is 1 minute remaining in this discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9F6F1115-A3CD-491F-8CAF-6D2117E5DAD0",
+        "type": "message",
+        "text": "I agree with that tentativetoitoise",
+        "user": "U013M1S8U67",
+        "ts": "1589439568.062000",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EabF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree with that tentativetoitoise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd7d920d-c239-4c8f-8a08-c13024d4a552",
+        "type": "message",
+        "text": "I agree.",
+        "user": "U014AL8B2TA",
+        "ts": "1589439568.062100",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "g08780964904",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/087809649044c266b0c3f796304dbfb5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "magnetmussel",
+            "display_name": "magnetmussel",
+            "team": "T012WTK8Y4X",
+            "name": "lizzie.r.stevenson",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vhVqv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50b877cf-be72-4b15-916d-c6e43b4a8d84",
+        "type": "message",
+        "text": "i agree",
+        "user": "U013KDVS71B",
+        "ts": "1589439572.062400",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KLkX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77D06DAB-F1E8-449E-90EC-DFD8960E609B",
+        "type": "message",
+        "text": "Ok let’s press thumbs up hahaha",
+        "user": "U013M1S8U67",
+        "ts": "1589439579.062700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iqk4P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok let’s press thumbs up hahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2E8F5A58-BAAF-4D7C-B2B0-26AED45CD43E",
+        "type": "message",
+        "text": "Did we make it Alex :smile:",
+        "user": "U013M1S8U67",
+        "ts": "1589439598.063600",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "ga47f1e0d76a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a47f1e0d76a2efa9c7feae2221cf1183.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "mirrormoth",
+            "display_name": "",
+            "team": "T012WTK8Y4X",
+            "name": "lleupolu",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "79IG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Did we make it Alex "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e693c23f-97af-4f9a-a348-065757110bb3",
+        "type": "message",
+        "text": "cutting it close on this one hahaha",
+        "user": "U013KDVS71B",
+        "ts": "1589439599.063700",
+        "team": "T012WTK8Y4X",
+        "user_team": "T012WTK8Y4X",
+        "source_team": "T012WTK8Y4X",
+        "user_profile": {
+            "avatar_hash": "062e3ed4ccaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1149799206928_062e3ed4ccaa3fb0b010_72.jpg",
+            "first_name": "",
+            "real_name": "honkyhornet",
+            "display_name": "honkyhornet",
+            "team": "T012WTK8Y4X",
+            "name": "grant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QaSCH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cutting it close on this one hahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

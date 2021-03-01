@@ -1,0 +1,222 @@
+[
+  {
+    "id": "C013977BMUP",
+    "name": "children_devicesC",
+    "created": 1589527430,
+    "creator": "U013A8TCPDK",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U013A8TCPDK",
+      "U013KDVS71B",
+      "U013M1S8U67",
+      "U014AL8B2TA",
+      "U014AL8CUSU"
+    ],
+    "pins": [
+      {
+        "id": "1589527446.001400",
+        "type": "C",
+        "created": 1589527449,
+        "user": "U013A8TCPDK",
+        "owner": "U013A8TCPDK"
+      }
+    ],
+    "topic": {
+      "value": "Should children have mobile devices like smartphones?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589527466
+    },
+    "purpose": {
+      "value": "Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589527431
+    }
+  },
+  {
+    "id": "C013BS42NCB",
+    "name": "generalC",
+    "created": 1588984877,
+    "creator": "U013A8TCPDK",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+      "U013A8TCPDK",
+      "U013KDVS71B",
+      "U013M1S8U67",
+      "U014AL8B2TA",
+      "U014AL8CUSU"
+    ],
+    "pins": [
+      {
+        "id": "1589416786.000600",
+        "type": "C",
+        "created": 1589418218,
+        "user": "U013A8TCPDK",
+        "owner": "U013A8TCPDK"
+      }
+    ],
+    "topic": {
+      "value": "Questions about the study can be asked here.",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589416842
+    },
+    "purpose": {
+      "value": "Questions can be asked here",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589416869
+    }
+  },
+  {
+    "id": "C013E3N8SQN",
+    "name": "mobile_help_deskC",
+    "created": 1589416143,
+    "creator": "U013A8TCPDK",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U013A8TCPDK",
+      "U013KDVS71B",
+      "U013M1S8U67",
+      "U014AL8B2TA",
+      "U014AL8CUSU"
+    ],
+    "topic": {
+      "value": "Screenshots show how to do things on a mobile device",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589416178
+    },
+    "purpose": {
+      "value": "Screenshots show how to do things on a mobile device",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589416144
+    }
+  },
+  {
+    "id": "C013KE3H43X",
+    "name": "pc_help_deskC",
+    "created": 1589416231,
+    "creator": "U013A8TCPDK",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U013A8TCPDK",
+      "U013KDVS71B",
+      "U013M1S8U67",
+      "U014AL8B2TA",
+      "U014AL8CUSU"
+    ],
+    "topic": {
+      "value": "Screenshots show how to do things on a regular computer",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589416250
+    },
+    "purpose": {
+      "value": "Screenshots show how to do things on a regular computer",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589416232
+    }
+  },
+  {
+    "id": "C013ZQRND33",
+    "name": "aiC",
+    "created": 1589437771,
+    "creator": "U013A8TCPDK",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U013A8TCPDK",
+      "U013KDVS71B",
+      "U013M1S8U67",
+      "U014AL8B2TA",
+      "U014AL8CUSU"
+    ],
+    "pins": [
+      {
+        "id": "1589437784.001400",
+        "type": "C",
+        "created": 1589437787,
+        "user": "U013A8TCPDK",
+        "owner": "U013A8TCPDK"
+      }
+    ],
+    "topic": {
+      "value": "What should we worry about with the emergence of intelligent machines?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589437825
+    },
+    "purpose": {
+      "value": "With the increase in computing power in the last decade or so, artificial intelligence is being incorporated into many kinds of electronic devices. Is this something to be concerned about, and if so, why?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589437849
+    }
+  },
+  {
+    "id": "C0142H5EPT3",
+    "name": "pineapple_on_pizzaC",
+    "created": 1589526384,
+    "creator": "U013A8TCPDK",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U013A8TCPDK",
+      "U013KDVS71B",
+      "U013M1S8U67",
+      "U014AL8B2TA",
+      "U014AL8CUSU"
+    ],
+    "pins": [
+      {
+        "id": "1589526393.001400",
+        "type": "C",
+        "created": 1589526396,
+        "user": "U013A8TCPDK",
+        "owner": "U013A8TCPDK"
+      }
+    ],
+    "topic": {
+      "value": "Pineapple on Pizza: Is this a good combination?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589526418
+    },
+    "purpose": {
+      "value": "Pineapple on Pizza: Is this a good combination?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589526385
+    }
+  },
+  {
+    "id": "C014B0VG59N",
+    "name": "ketchup_vs_mustardC",
+    "created": 1589436442,
+    "creator": "U013A8TCPDK",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+      "U013A8TCPDK",
+      "U013KDVS71B",
+      "U013M1S8U67",
+      "U014AL8B2TA",
+      "U014AL8CUSU"
+    ],
+    "pins": [
+      {
+        "id": "1589436466.001400",
+        "type": "C",
+        "created": 1589436470,
+        "user": "U013A8TCPDK",
+        "owner": "U013A8TCPDK"
+      }
+    ],
+    "topic": {
+      "value": "Ketchup vs Mustard: Which is the better condiment?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589436502
+    },
+    "purpose": {
+      "value": "Ketchup vs Mustard: Which is the better condiment?",
+      "creator": "U013A8TCPDK",
+      "last_set": 1589436444
+    }
+  }
+]

@@ -1,0 +1,2579 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589440850.000200",
+        "user": "U013HQYVAF6",
+        "text": "<@U013HQYVAF6> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589440856.000600",
+        "user": "U01369TSH9C",
+        "text": "<@U01369TSH9C> has joined the channel",
+        "inviter": "U013HQYVAF6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589440856.000800",
+        "user": "U013D1YD2NN",
+        "text": "<@U013D1YD2NN> has joined the channel",
+        "inviter": "U013HQYVAF6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589440857.001000",
+        "user": "U013D1YDVGS",
+        "text": "<@U013D1YDVGS> has joined the channel",
+        "inviter": "U013HQYVAF6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589440857.001200",
+        "user": "U013RL95ZL1",
+        "text": "<@U013RL95ZL1> has joined the channel",
+        "inviter": "U013HQYVAF6"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1589440888.001300",
+        "user": "U013HQYVAF6",
+        "text": "<@U013HQYVAF6> set the channel topic: Should children have mobile devices like smartphones?",
+        "topic": "Should children have mobile devices like smartphones?"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1589440903.001400",
+        "user": "U013HQYVAF6",
+        "text": "<@U013HQYVAF6> set the channel purpose: Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?",
+        "purpose": "Given the digital age we live in, smartphones are becoming more of a necessity for everyday life. Are they necessary for children, and if so, from what age?"
+    },
+    {
+        "client_msg_id": "1aadbc80-1031-42cc-b83a-e819a812210f",
+        "type": "message",
+        "text": "many, parents seem to think that smart phones are a necessity for their children, so that the parents can keep in touch with their children.",
+        "user": "U013D1YDVGS",
+        "ts": "1589441024.002600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6St1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "many, parents seem to think that smart phones are a necessity for their children, so that the parents can keep in touch with their children."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edbf59e7-9696-4879-8044-14a795b055be",
+        "type": "message",
+        "text": "Many school age kids will have other devices they use for school and around the home, tablets and iPads and various bits and bobs.",
+        "user": "U013D1YDVGS",
+        "ts": "1589441158.004400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Goz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Many school age kids will have other devices they use for school and around the home, tablets and iPads and various bits and bobs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f233f8a8-7057-41ee-9704-bb73ce2791c7",
+        "type": "message",
+        "text": "I have known a number of young people whose phones are smarter than they are.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441197.005600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TAAD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have known a number of young people whose phones are smarter than they are."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c815ab7-0733-4b71-8b97-6744f8997025",
+        "type": "message",
+        "text": "I would say children eleven years and older need phones to successfully engage with today's society. However, those younger might not have the capacity to learn proper phone management",
+        "user": "U01369TSH9C",
+        "ts": "1589441290.009400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arhD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would say children eleven years and older need phones to successfully engage with today's society. However, those younger might not have the capacity to learn proper phone management"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d5655d3-f3bb-4c44-949d-28ecfdbe6c71",
+        "type": "message",
+        "text": "Short answer, they are not necessary. But they are endemic. As I see it it’s more of a question of what parents want for their children.",
+        "user": "U013D1YDVGS",
+        "ts": "1589441302.010000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F8lTc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Short answer, they are not necessary. But they are endemic. As I see it it’s more of a question of what parents want for their children."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e030554-670e-4a5f-b7b4-5a77894d0b77",
+        "type": "message",
+        "text": "Yes, children and older people use all kinds of technology, but they have no idea how the gadgets work.  What if all the gadgets in the world die of a technical virus, how will we communicate?",
+        "user": "U013RL95ZL1",
+        "ts": "1589441304.010100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E998",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, children and older people use all kinds of technology, but they have no idea how the gadgets work.  What if all the gadgets in the world die of a technical virus, how will we communicate?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87de2675-86b2-440e-87b3-59f688806f4a",
+        "type": "message",
+        "text": "Chiropractors have noted a big increase in neck problems because people, including young people, walk around slightly bent over their phones.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441370.011200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chiropractors have noted a big increase in neck problems because people, including young people, walk around slightly bent over their phones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f45cb5ba-5e1c-4e89-b877-40726d39968c",
+        "type": "message",
+        "text": "<@U01369TSH9C> I think that children need to be given strict guidelines by their parents about how long they can use their phones each day.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441467.013600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01369TSH9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think that children need to be given strict guidelines by their parents about how long they can use their phones each day."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4d07763-f36e-44db-9a20-16af2221af14",
+        "type": "message",
+        "text": "I guess we have to ask ourselves two things... What do smart phones add to our lives that we cannot get anywhere else and is this contribution age specific?",
+        "user": "U01369TSH9C",
+        "ts": "1589441516.015200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LcGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess we have to ask ourselves two things... What do smart phones add to our lives that we cannot get anywhere else and is this contribution age specific?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c31b1fd1-7dfc-44cb-9330-1f8ad8b801a6",
+        "type": "message",
+        "text": "<@U013RL95ZL1>  I agree with you completely... But at what age do we begin this process of guiding with the device",
+        "user": "U01369TSH9C",
+        "ts": "1589441593.018100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NsHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013RL95ZL1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I agree with you completely... But at what age do we begin this process of guiding with the device"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589441593.018100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589441674.019600",
+        "reply_users": [
+            "U013D1YDVGS"
+        ],
+        "replies": [
+            {
+                "user": "U013D1YDVGS",
+                "ts": "1589441674.019600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "20e5af87-6ccc-45a1-a3c6-d22cbee594eb",
+        "type": "message",
+        "text": "<@U01369TSH9C> Parents often use smartphones to keep in contact with their children when they go to social events or when they need to contact them urgently.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441595.018200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01369TSH9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Parents often use smartphones to keep in contact with their children when they go to social events or when they need to contact them urgently."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5774ddda-7807-4025-92eb-bff1fe343a00",
+        "type": "message",
+        "text": "One thing this COVID-19 lockdown has shown me is that kids really struggle with being able to release themselves from technology when they are given vast amounts of free time to use it as has happened while they’ve been stuck at home supposedly doing school work. But that’s a bigger issue than cell phones. It’s an issue of parental training from a young age about how to cope with things that can become addictive.",
+        "user": "U013D1YDVGS",
+        "ts": "1589441597.018300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NDUZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "One thing this COVID-19 lockdown has shown me is that kids really struggle with being able to release themselves from technology when they are given vast amounts of free time to use it as has happened while they’ve been stuck at home supposedly doing school work. But that’s a bigger issue than cell phones. It’s an issue of parental training from a young age about how to cope with things that can become addictive."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "Yes totally agree . I’m inclined to think that ad are right age of around 10 11, 12 kids shirt given opportunities to use cell phones.",
+        "user": "U013D1YDVGS",
+        "ts": "1589441674.019600",
+        "thread_ts": "1589441593.018100",
+        "root": {
+            "client_msg_id": "c31b1fd1-7dfc-44cb-9330-1f8ad8b801a6",
+            "type": "message",
+            "text": "<@U013RL95ZL1>  I agree with you completely... But at what age do we begin this process of guiding with the device",
+            "user": "U01369TSH9C",
+            "ts": "1589441593.018100",
+            "team": "T0134TKKD4N",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "NsHN",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U013RL95ZL1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  I agree with you completely... But at what age do we begin this process of guiding with the device"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1589441593.018100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1589441674.019600",
+            "reply_users": [
+                "U013D1YDVGS"
+            ],
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tb+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes totally agree . I’m inclined to think that ad are right age of around 10 11, 12 kids shirt given opportunities to use cell phones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1809acf4-7820-4354-bd15-ca4f124e1542"
+    },
+    {
+        "client_msg_id": "0ce7f182-fd0f-48ea-ad2b-a2ba10e02cac",
+        "type": "message",
+        "text": "<@U013D1YDVGS> I agree that children need training about the use of their phones.  I suggest that all kinds of other training comes first, like how to read, to study, to treat other people etc.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441684.020000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZCiy5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I agree that children need training about the use of their phones.  I suggest that all kinds of other training comes first, like how to read, to study, to treat other people etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aac17dd8-a0e0-4d7e-be97-3dcd64542e91",
+        "type": "message",
+        "text": "Yes yes, totally.",
+        "user": "U013D1YDVGS",
+        "ts": "1589441701.020300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes yes, totally."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c224fd79-0134-461d-a741-188a7679fd8c",
+        "type": "message",
+        "text": "It is a massive concern to me when I see three-year-olds in the supermarket playing on their mum or dad’s  cell phone as a way of just keeping them quiet",
+        "user": "U013D1YDVGS",
+        "ts": "1589441738.021600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zmC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is a massive concern to me when I see three-year-olds in the supermarket playing on their mum or dad’s  cell phone as a way of just keeping them quiet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27c40858-44d4-4a95-bded-0e5038971e80",
+        "type": "message",
+        "text": "<@U013D1YDVGS> Once children have mastered the basic skills of being human and organised and sympathetic, they may be ready to be trained in smartphone use.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441759.022700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OTcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Once children have mastered the basic skills of being human and organised and sympathetic, they may be ready to be trained in smartphone use."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9a1d824-28c0-401c-a804-f4af588c24f9",
+        "type": "message",
+        "text": "There is a major loss of language learning I think among young children when they are not spending time interacting with adults in face-to-face language",
+        "user": "U013D1YDVGS",
+        "ts": "1589441772.023500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I5HX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a major loss of language learning I think among young children when they are not spending time interacting with adults in face-to-face language"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7a25557-7274-4656-8e53-04fc5bd9c7fa",
+        "type": "message",
+        "text": "There is a major loss of language learning I think among young children when they are not spending time interacting with adults in face-to-face language",
+        "user": "U013D1YDVGS",
+        "ts": "1589441786.024300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qi+E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is a major loss of language learning I think among young children when they are not spending time interacting with adults in face-to-face language"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07c6a3c9-5e87-47aa-a0db-1ce041e93c09",
+        "type": "message",
+        "text": "<@U013D1YDVGS> Yes, age is an important factor with phones.  Probably 11 or twelve and not before.  Certainly not toddlers playing with phones.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441816.025800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X5TE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Yes, age is an important factor with phones.  Probably 11 or twelve and not before.  Certainly not toddlers playing with phones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99e27544-ff42-4fcd-9083-d6b2aa0751bd",
+        "type": "message",
+        "text": "I wonder if we have a generation gap where we see phones as primarily for communication while for those younger and possible in the future when these children grow up the purpose of phones would have (maybe already has) changed?",
+        "user": "U01369TSH9C",
+        "ts": "1589441823.026000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rq0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wonder if we have a generation gap where we see phones as primarily for communication while for those younger and possible in the future when these children grow up the purpose of phones would have (maybe already has) changed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fa4a782-1296-4e0c-a1db-e206f79e3bb8",
+        "type": "message",
+        "text": "To what, do you 5hink",
+        "user": "U013D1YDVGS",
+        "ts": "1589441866.027100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/kwKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "To what, do you 5hink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35d68c2c-5146-4b23-8acb-a00fafb47664",
+        "type": "message",
+        "text": "Think",
+        "user": "U013D1YDVGS",
+        "ts": "1589441875.027500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37b4c044-83ac-4d21-9f70-c3accde22474",
+        "type": "message",
+        "text": "<@U01369TSH9C> For some youngsters the main use of phones seems to be playing music, telling jokes, insulting enemies etc.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441893.028100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HGKaB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01369TSH9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " For some youngsters the main use of phones seems to be playing music, telling jokes, insulting enemies etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd9fbf5d-629d-4384-bdbc-ba286408317e",
+        "type": "message",
+        "text": "So it is a teaching instrument, an play companion, a substitute for sounds in nature?",
+        "user": "U01369TSH9C",
+        "ts": "1589441901.028500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtNI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So it is a teaching instrument, an play companion, a substitute for sounds in nature?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9ccc870-d480-408a-831c-7b2574447187",
+        "type": "message",
+        "text": "A play*",
+        "user": "U01369TSH9C",
+        "ts": "1589441914.029100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9\/s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A play*"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d234de1-36f2-4a49-9be0-157416a5088e",
+        "type": "message",
+        "text": "And if it does have all these then is it becoming increasingly necessary and should be available for people at younger and younger ages?",
+        "user": "U01369TSH9C",
+        "ts": "1589441964.031900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And if it does have all these then is it becoming increasingly necessary and should be available for people at younger and younger ages?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a5d30ca-978c-4920-897d-0bc157ca8bb0",
+        "type": "message",
+        "text": "I use my phone largely as a tool: sending and receiving messages, alarms and reminders, reading documents, news, information, education,. Whereas most of the young teenagers I know use cell phones primarily for social interaction - Chiefly Instagram",
+        "user": "U013D1YDVGS",
+        "ts": "1589441972.032200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7zm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I use my phone largely as a tool: sending and receiving messages, alarms and reminders, reading documents, news, information, education,. Whereas most of the young teenagers I know use cell phones primarily for social interaction - Chiefly Instagram"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b838b223-62a0-4fac-a3bd-69e33573db10",
+        "type": "message",
+        "text": "<@U01369TSH9C> The problem is that phones connect people with the blather on Facebook and the terrible insults on Twitter.  People seem to believe all the gossip that comes their way.",
+        "user": "U013RL95ZL1",
+        "ts": "1589441979.032500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IsO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01369TSH9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The problem is that phones connect people with the blather on Facebook and the terrible insults on Twitter.  People seem to believe all the gossip that comes their way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a719f007-45fb-4d4b-8ee5-2b283f6996e3",
+        "type": "message",
+        "text": "<@U013D1YDVGS> People who are already civilised and intelligent and well-organised will use phones for a number of useful tasks; that is why training needs to come first.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442071.034800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rld9A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " People who are already civilised and intelligent and well-organised will use phones for a number of useful tasks; that is why training needs to come first."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589442071.034800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589442114.035500",
+        "reply_users": [
+            "U013D1YDVGS"
+        ],
+        "replies": [
+            {
+                "user": "U013D1YDVGS",
+                "ts": "1589442114.035500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "012fd4ec-794f-4d56-8036-cd754b70fce6",
+        "type": "message",
+        "text": "Phones become like an emotional security blanket thing. Its addictive enough like that for myself, I’m sure it’s a lot worse for young children and teenagers",
+        "user": "U013D1YDVGS",
+        "ts": "1589442076.034900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Phones become like an emotional security blanket thing. Its addictive enough like that for myself, I’m sure it’s a lot worse for young children and teenagers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3f363d7-d390-47bc-9b6e-645a1eabefa7",
+        "type": "message",
+        "text": "Yes, you have it exactly right.",
+        "user": "U013D1YDVGS",
+        "ts": "1589442114.035500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H1J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, you have it exactly right."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589442071.034800",
+        "parent_user_id": "U013RL95ZL1"
+    },
+    {
+        "client_msg_id": "ccac8d32-6af4-45f7-b52a-19002d197e84",
+        "type": "message",
+        "text": "<@U013D1YDVGS> I agree, phones are like Linus's security blanket.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442126.036300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1eLQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I agree, phones are like Linus's security blanket."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe1a10e9-5df4-4e00-a7e4-bfac82e2472a",
+        "type": "message",
+        "text": "But despite all the possible issues... Is it necessary?",
+        "user": "U01369TSH9C",
+        "ts": "1589442130.036400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Bo7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But despite all the possible issues... Is it necessary?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5213b373-3fc6-4ced-b371-6cf3de4c7fc8",
+        "type": "message",
+        "text": "yes two words need to be defined. Necessary, and children.",
+        "user": "U013D1YDVGS",
+        "ts": "1589442174.037600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes two words need to be defined. Necessary, and children."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05c6de75-f4a6-40d1-91b4-c566715b18cd",
+        "type": "message",
+        "text": "<@U01369TSH9C> No, I know some very bright and thoughtful people who have never owned and will never own a phone.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442174.037700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "afG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01369TSH9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " No, I know some very bright and thoughtful people who have never owned and will never own a phone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecffcda5-ede6-462e-b374-9ee98e7f1c4d",
+        "type": "message",
+        "text": "Absolutely",
+        "user": "U013D1YDVGS",
+        "ts": "1589442196.038200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6V=Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4d489e7-2362-44ac-bf2b-82746e379f0b",
+        "type": "message",
+        "text": "So not necessary for this digital age?",
+        "user": "U01369TSH9C",
+        "ts": "1589442201.038500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p7Bt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So not necessary for this digital age?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff9d57f6-adc5-469f-94e5-b6d9857aa800",
+        "type": "message",
+        "text": "There is 10 minutes remaining in this discussion",
+        "user": "U013HQYVAF6",
+        "ts": "1589442219.038900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rrZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is 10 minutes remaining in this discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4242a212-5842-4b7f-b90f-827a1018c157",
+        "type": "message",
+        "text": "<@U013D1YDVGS> Necessary suggests something you can't live without.  Children are people whose brains are not yet fully developed.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442259.039900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mj5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Necessary suggests something you can't live without.  Children are people whose brains are not yet fully developed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3024429-dac4-4a75-a585-8f49cca229cf",
+        "type": "message",
+        "text": "Trying to trim this back to the question, my thought is that, no, for children (those under the age of 10) cell phones are certainly not at necessary.",
+        "user": "U013D1YDVGS",
+        "ts": "1589442349.041300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Raj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Trying to trim this back to the question, my thought is that, no, for children (those under the age of 10) cell phones are certainly not at necessary."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e29898bf-1f81-4ad1-af29-305aec405165",
+        "type": "message",
+        "text": "The many children I know who do not have a cell phone seem to get on perfectly well in fact much better in my view than those who at a preteen age already have one affixed to the hand.",
+        "user": "U013D1YDVGS",
+        "ts": "1589442417.043300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The many children I know who do not have a cell phone seem to get on perfectly well in fact much better in my view than those who at a preteen age already have one affixed to the hand."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee7b76cb-e21f-422d-a4ab-e12c613810ca",
+        "type": "message",
+        "text": "<@U01369TSH9C> One thing that occurred to me during lockdown is how grateful I was for the internet, sending emails to friends.  For many people phones probably were a great resource for staying in touch.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442431.043600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/uaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01369TSH9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " One thing that occurred to me during lockdown is how grateful I was for the internet, sending emails to friends.  For many people phones probably were a great resource for staying in touch."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba147e84-a162-4341-b4c6-4b7a5f0771b7",
+        "type": "message",
+        "text": "I totally agree, but that need not be the province of children, who can access such communication via their parents devices and guidance, true?",
+        "user": "U013D1YDVGS",
+        "ts": "1589442475.045100",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gb3Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I totally agree, but that need not be the province of children, who can access such communication via their parents devices and guidance, true?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d4a37e9-5948-442d-b16a-ce323ac0f997",
+        "type": "message",
+        "text": "I totally agree, but that need not be the province of children, who can access such communication via their parents devices and guidance, true?",
+        "user": "U013D1YDVGS",
+        "ts": "1589442481.045500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q65A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I totally agree, but that need not be the province of children, who can access such communication via their parents devices and guidance, true?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6872e0d4-4b48-4ab1-a1f3-c217e1022930",
+        "type": "message",
+        "text": "<@U013D1YDVGS> I agree; certainly not necessary for children under 10.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442492.046000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0iG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I agree; certainly not necessary for children under 10."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34ad4301-cb0d-4a7f-a738-c139397ab853",
+        "type": "message",
+        "text": "Are good to go?",
+        "user": "U013D1YDVGS",
+        "ts": "1589442509.046900",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hcqq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are good to go?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac21b85b-4037-4b73-8883-f2c835e9b5e5",
+        "type": "message",
+        "text": "But I guess as <@U013D1YDVGS> just indicated the necessity decreases with age. So children can make short calls to nan on mom's phone",
+        "user": "U01369TSH9C",
+        "ts": "1589442524.047400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rgxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But I guess as "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just indicated the necessity decreases with age. So children can make short calls to nan on mom's phone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5524eda-0fac-45c1-b845-2deea65e5051",
+        "type": "message",
+        "text": "Yup",
+        "user": "U01369TSH9C",
+        "ts": "1589442529.047600",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NoR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5d23233-8dd1-46cb-9fe4-7ae490e4eeba",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U01369TSH9C",
+        "ts": "1589442531.047700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aD4fI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f3f1454-ceb9-470e-97ad-8aa8c21690d7",
+        "type": "message",
+        "text": "Increases*",
+        "user": "U01369TSH9C",
+        "ts": "1589442550.048000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Increases*"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c920fa03-111c-4a70-b610-c3013c47e0a9",
+        "type": "message",
+        "text": ":+1::skin-tone-4:",
+        "user": "U013D1YDVGS",
+        "ts": "1589442556.048200",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U=f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "skin_tone": 4
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7a2eed0-cb83-4ff1-aba3-0d193594f4bf",
+        "type": "message",
+        "text": ":+1:",
+        "user": "U013RL95ZL1",
+        "ts": "1589442588.048400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64781104-8b5f-4058-a932-934ad9360cac",
+        "type": "message",
+        "text": "This discussion has concluded with a consensus",
+        "user": "U013HQYVAF6",
+        "ts": "1589442617.048700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xEV05",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This discussion has concluded with a consensus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "163bf3c2-f095-4990-b00e-aaa115506ee5",
+        "type": "message",
+        "text": "We are just brilliant.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442639.049300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tP8u3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are just brilliant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22757861-53a3-437d-a2b5-ff960d577fa6",
+        "type": "message",
+        "text": "Thank you so much for participating everyone",
+        "user": "U013HQYVAF6",
+        "ts": "1589442644.049400",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "huKs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much for participating everyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f505c870-59ab-4a08-bdc2-950ce803836f",
+        "type": "message",
+        "text": "You are welcome, master.",
+        "user": "U013RL95ZL1",
+        "ts": "1589442660.049700",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "5f9bb317676f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-11\/1108371242550_5f9bb317676fd6007047_72.jpg",
+            "first_name": "",
+            "real_name": "knackerkitten",
+            "display_name": "knackerkitten",
+            "team": "T0134TKKD4N",
+            "name": "johnhowes",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORE7T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are welcome, master."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1c2b4ff-39a7-4b77-bfaa-8a22fa46e196",
+        "type": "message",
+        "text": "I hope everyone enjoyed that",
+        "user": "U013HQYVAF6",
+        "ts": "1589442719.050000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O1K01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I hope everyone enjoyed that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de0844f7-3506-40d4-ad22-0c204e88aa1f",
+        "type": "message",
+        "text": "I think you owe us a virtual chocolate fish Alex. I hope this has been helpful for your ongoing research project",
+        "user": "U013D1YDVGS",
+        "ts": "1589442750.050500",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g732819e6e28",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/732819e6e285472fd53d09c6e49172af.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "drasticmum",
+            "real_name": "drasticmum",
+            "display_name": "drasticmum",
+            "team": "T0134TKKD4N",
+            "name": "dennis4rivercity",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "whW9S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you owe us a virtual chocolate fish Alex. I hope this has been helpful for your ongoing research project"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64a81c23-c5ed-447d-a4c7-e339651b0e72",
+        "type": "message",
+        "text": "All the best :slightly_smiling_face:",
+        "user": "U01369TSH9C",
+        "ts": "1589442803.050800",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "gc999429d258",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c999429d258228a750f5cd0130b19dcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Raspywoodchuck",
+            "real_name": "Raspywoodchuck",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "sharaynebennett",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S9ya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All the best "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "977caf77-7b22-4d1a-bf89-6192029040fe",
+        "type": "message",
+        "text": ":lollipop:",
+        "user": "U013HQYVAF6",
+        "ts": "1589442833.051000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gw47S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "lollipop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a9a02c9-4c6a-41e7-941e-9468712302cc",
+        "type": "message",
+        "text": "Can't see any chocolate fish",
+        "user": "U013HQYVAF6",
+        "ts": "1589442841.051300",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bdvx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can't see any chocolate fish"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77bcd711-948f-4063-9c90-aae26a9657e2",
+        "type": "message",
+        "text": "Well, I will see you soon <@U013D1YDVGS>",
+        "user": "U013HQYVAF6",
+        "ts": "1589442894.052000",
+        "team": "T0134TKKD4N",
+        "user_team": "T0134TKKD4N",
+        "source_team": "T0134TKKD4N",
+        "user_profile": {
+            "avatar_hash": "g944f36d2370",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/944f36d237034ff4ec864929e34b81dd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "alexgeary37",
+            "display_name": "",
+            "team": "T0134TKKD4N",
+            "name": "alexgeary37",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XT6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well, I will see you soon "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U013D1YDVGS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
