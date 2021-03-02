@@ -1,5 +1,5 @@
 from tkinter import Tk
-from .window import Window
+from window import Window
 
 ##Initialises the Tkinter window to a full-screen, non-resizable state
 root = Tk()

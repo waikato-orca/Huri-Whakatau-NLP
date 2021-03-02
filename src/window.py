@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import ttk
-from .utils import openFile
+from utils import openFile
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
