@@ -1,7 +1,8 @@
 from tkinter import *
 from tkinter import filedialog
-
-from matplotlib import colors
+from nltk.stem import WordNetLemmatizer
+from gensim.utils import simple_preprocess
+from gensim.parsing import preprocessing
 from sqlreader import sqlReader
 
 #List of colors to assign to the users
@@ -28,6 +29,8 @@ def openFile(window):
     populateLegend(window, window.legendFrame)
     window.discussion_listbox.delete(0, END)
     showDiscussion(window)
+    window.topicModel.train(window.sentences)
+    getTopicCollection(window)
 
 #Displays the discussion in the given format to view the raw data
 def showDiscussion(window):
@@ -54,6 +57,7 @@ def plot2D(window, user, sentence, event):
     selection = event.widget.curselection()
     index = selection[0]
     sentimentScore = window.sentimentModel.score(sentence)
+    topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
     fig = window.twoDGraph[0]
     ax = window.twoDGraph[1]
     while len(ax.collections) != 0:
@@ -68,6 +72,9 @@ def plot2D(window, user, sentence, event):
         if plotSelection == "Sentiment":
             y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
             ax.set_ylim(-2, 2)
+        elif plotSelection == "Topic":
+            y.append(topic)
+            ax.set_ylim(-1,15)
         ax.scatter(x, y, label = user, color = getColor(window.distinct_users, user))
     else:
         for duser in window.distinct_users:
@@ -82,11 +89,16 @@ def plot2D(window, user, sentence, event):
                 except:
                     plotSelection = data
                 sentimentScore = window.sentimentModel.score(sentence)
+                topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
                 if user == duser:
                     if plotSelection == "Sentiment":
                         x.append(index)
                         y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
                         ax.set_ylim(-2, 2)
+                    elif plotSelection == "Topic":
+                        x.append(index)
+                        y.append(topic)
+                        ax.set_ylim(-1, 15)
             if len(x) == 1:
                 ax.scatter(x, y, label = duser, color = getColor(window.distinct_users, duser))
             else:
@@ -102,3 +114,32 @@ def getColor(distinct_users, user):
     for a_user, color in zip(distinct_users, colors):
         if a_user == user:
             return color
+
+#Creates the topic collection for easier access for other methods
+def getTopicCollection(window):
+    index = 0
+    for topic in window.topicModel.showTopics():
+        window.topicCollection[topic] = {}
+        window.topicCollection[topic]["flag"] = True
+        window.topicCollection[topic]["terms"] = {}
+        window.topicCollection[topic]["index"] = index
+        terms = window.topicModel.showTerms(topic).split(", ")
+        for term in terms:
+            coeff = window.topicModel.getCoeff(topic, term)
+            if coeff is not None:
+                window.topicCollection[topic]["terms"][term] = {}
+                window.topicCollection[topic]["terms"][term]["flag"] = True
+                window.topicCollection[topic]["terms"][term]["coeff"] = coeff
+        index += 1
+
+#Stems and lemmatizes the sentences
+def lemmatize_stemming(text, stemmer):
+    return stemmer.stem(WordNetLemmatizer().lemmatize(text, pos='v'))
+
+#Preprocesses the sentences to feed into other models
+def preprocess(text, stemmer):
+    result = []
+    for token in simple_preprocess(text):
+        if token not in preprocessing.STOPWORDS and len(token) > 3:
+            result.append(lemmatize_stemming(token, stemmer))
+    return result

@@ -4,12 +4,15 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
 from utils import *
 from sentiment import *
+from lda import *
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
     def __init__(self, root):
+        self.topicCollection = {}
         self.root = root
         self.sentimentModel = SentimentModel()
+        self.topicModel = LDAModel(self.topicCollection)
         self.createMenu()
         self.createTabs()
         self.createFrames()
@@ -54,12 +57,14 @@ class Window:
         self.twoDGraphFrame = ttk.LabelFrame(self.sentenceTab, text = "2D Graph")
         self.legendFrame = ttk.LabelFrame(self.sentenceTab, text = "Legend")
         self.twoDGraphControlFrame = ttk.LabelFrame(self.sentenceTab, text = "2D Graph Controls")
+        self.topicFrame = ttk.LabelFrame(self.sentenceTab, text = "Topic")
 
         self.sentenceFrame.grid(row = 0, column = 0, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
         self.sentimentFrame.grid(row = 0, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
         self.twoDGraphFrame.grid(row = 0, column = 3, columnspan = 2, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
         self.legendFrame.grid(row = 3, column = 4, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
         self.twoDGraphControlFrame.grid(row = 3, column = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
+        self.topicFrame.grid(row = 0, column = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
 
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
@@ -86,14 +91,18 @@ class Window:
     def createLabels(self):
         self.polarityLabel = Label(self.sentimentFrame, text = "Polarity: ", width = 30, anchor = W, justify = LEFT)
         self.subjectivityLabel = Label(self.sentimentFrame, text = "Subjectivity: ", width = 30, anchor = W, justify = LEFT)
+        self.topicLabel = Label(self.topicFrame, text = "Topic: ", width = 30, anchor = W, justify = LEFT)
+        self.termsLabel = Label(self.topicFrame, text = "Terms: ", width = 30, anchor = W, justify = LEFT)
 
         self.polarityLabel.pack(padx = 5, pady = 5)
         self.subjectivityLabel.pack(padx = 5, pady = 5)
+        self.topicLabel.pack(padx = 5, pady = 5)
+        self.termsLabel.pack(padx = 5, pady = 5)
 
     #Creates all the graphs required for the window
     def createGraphs(self):
-        fig = plt.figure(figsize = (3.9,3.1))
-        fig.subplots_adjust(left = 0.2)
+        fig = plt.figure(figsize = (4.3,4.2))
+        fig.subplots_adjust(left = 0.2, bottom= 0.2)
         ax = fig.add_subplot(111)
         twoGraph = FigureCanvasTkAgg(fig, self.twoDGraphFrame)
         twoGraph.get_tk_widget().pack(fill = "y", side = "left")
@@ -119,7 +128,11 @@ class Window:
             user = data.split(': ')[0]
             sentence = data.split(': ')[-1]
             sentimentScore = self.sentimentModel.score(sentence)
+            topic = self.topicModel.classify(sentence)
+            terms = self.topicModel.showTerms(topic)
             self.polarityLabel.configure(text = "Polarity: " + str(sentimentScore.polarity))
             self.subjectivityLabel.configure(text = "Subjectivity: " + str(sentimentScore.subjectivity))
+            self.topicLabel.configure(text = "Topic: " + topic)
+            self.termsLabel.configure(text = "Terms: " + terms)
             # if len(selection) == 1:
             plot2D(self, user, sentence, event)
