@@ -1,15 +1,18 @@
 from tkinter import *
 from tkinter import ttk
 from utils import openFile
+from sentiment import *
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
     def __init__(self, root):
         self.root = root
+        self.sentimentModel = SentimentModel()
         self.createMenu()
         self.createTabs()
         self.createFrames()
         self.createListboxes()
+        self.createLabels()
 
     #Create the menu bar and add the required options
     def createMenu(self):
@@ -44,8 +47,10 @@ class Window:
     #Create all the label frames required for all the tabs
     def createFrames(self):
         self.sentenceFrame = ttk.LabelFrame(self.sentenceTab, text = "Sentence Data")
+        self.sentimentFrame = ttk.LabelFrame(self.sentenceTab, text = "Sentiment")
 
         self.sentenceFrame.grid(row = 0, column = 0, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.sentimentFrame.grid(row = 0, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
 
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
@@ -57,4 +62,24 @@ class Window:
         h_scrollbar.pack(fill = 'x')
         scrollbar.config(command = self.discussion_listbox.yview)
         h_scrollbar.config(command = self.discussion_listbox.xview)
-        # self.discussion_listbox.bind("<<ListboxSelect>>", callbackSentences)
+        self.discussion_listbox.bind("<<ListboxSelect>>", self.callbackSentence)
+
+    #Creates all the required labels for the window
+    def createLabels(self):
+        self.polarityLabel = Label(self.sentimentFrame, text = "Polarity: ", width = 30, anchor = W, justify = LEFT)
+        self.subjectivityLabel = Label(self.sentimentFrame, text = "Subjectivity: ", width = 30, anchor = W, justify = LEFT)
+
+        self.polarityLabel.pack(padx = 5, pady = 5)
+        self.subjectivityLabel.pack(padx = 5, pady = 5)
+
+    #Callback for the discussion listbox
+    def callbackSentence(self, event):
+        selection = event.widget.curselection()
+        if selection:
+            index = selection[0]
+            data = event.widget.get(index)
+            user = data.split(': ')[0]
+            sentence = data.split(': ')[-1]
+            sentimentScore = self.sentimentModel.score(sentence)
+            self.polarityLabel.configure(text = "Polarity: " + str(sentimentScore.polarity))
+            self.subjectivityLabel.configure(text = "Subjectivity: " + str(sentimentScore.subjectivity))
