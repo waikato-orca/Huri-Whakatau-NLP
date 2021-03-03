@@ -4,12 +4,20 @@ from sqlreader import sqlReader
 
 #Opens the file with the raw data that is to be analysed
 def openFile(window):
-    file = filedialog.askopenfilename(initialdir="/Users/Admin/Desktop/Huri-Whakatau-NLP/data/raw", title="Select Discussion", filetypes=(("json files", "*.json"),("all files", "*.*")))
-    filename = file.split('/')[-1]
-    window.dirname = file.split('/')[-2]
+    file = filedialog.askopenfilenames(initialdir="/Users/Admin/Desktop/Huri-Whakatau-NLP/data/raw", title="Select Discussion", filetypes=(("json files", "*.json"),("all files", "*.*")))
     window.reader = sqlReader("root", "123456789", "jr_slack")
-    sql = "(SELECT filename, dirname, text, user, ts FROM t_message WHERE subtype IS NULL and dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, topic, user, ts FROM t_message WHERE subtype = \"channel_topic\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, purpose, user, ts FROM t_message WHERE subtype = \"channel_purpose\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\") ORDER BY ts"
-    data = window.reader.read_data(sql)
+    if len(file) == 1:
+        filename = file[0].split('/')[-1]
+        window.dirname = file[0].split('/')[-2]
+        sql = "(SELECT filename, dirname, text, user, ts FROM t_message WHERE subtype IS NULL and dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, topic, user, ts FROM t_message WHERE subtype = \"channel_topic\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, purpose, user, ts FROM t_message WHERE subtype = \"channel_purpose\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\") ORDER BY ts"
+        data = window.reader.read_data(sql)
+    elif len(file) > 1:
+        data = []
+        for files in file:
+            filename = files.split('/')[-1]
+            window.dirname = files.split('/')[-2]
+            sql = "(SELECT filename, dirname, text, user, ts FROM t_message WHERE subtype IS NULL and dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, topic, user, ts FROM t_message WHERE subtype = \"channel_topic\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, purpose, user, ts FROM t_message WHERE subtype = \"channel_purpose\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\") ORDER BY ts"
+            data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.discussion_listbox.delete(0, END)
     showDiscussion(window)
