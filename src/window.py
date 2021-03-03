@@ -1,6 +1,8 @@
 from tkinter import *
 from tkinter import ttk
-from utils import openFile
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import matplotlib.pyplot as plt
+from utils import *
 from sentiment import *
 
 ##Window class that populates the root window and handles all the tabs and widgets
@@ -13,6 +15,7 @@ class Window:
         self.createFrames()
         self.createListboxes()
         self.createLabels()
+        self.createGraphs()
 
     #Create the menu bar and add the required options
     def createMenu(self):
@@ -48,9 +51,15 @@ class Window:
     def createFrames(self):
         self.sentenceFrame = ttk.LabelFrame(self.sentenceTab, text = "Sentence Data")
         self.sentimentFrame = ttk.LabelFrame(self.sentenceTab, text = "Sentiment")
+        self.twoDGraphFrame = ttk.LabelFrame(self.sentenceTab, text = "2D Graph")
+        self.legendFrame = ttk.LabelFrame(self.sentenceTab, text = "Legend")
+        self.twoDGraphControlFrame = ttk.LabelFrame(self.sentenceTab, text = "2D Graph Controls")
 
         self.sentenceFrame.grid(row = 0, column = 0, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
         self.sentimentFrame.grid(row = 0, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.twoDGraphFrame.grid(row = 0, column = 3, columnspan = 2, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
+        self.legendFrame.grid(row = 3, column = 4, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
+        self.twoDGraphControlFrame.grid(row = 3, column = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
 
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
@@ -64,6 +73,15 @@ class Window:
         h_scrollbar.config(command = self.discussion_listbox.xview)
         self.discussion_listbox.bind("<<ListboxSelect>>", self.callbackSentence)
 
+        scrollbar2 = Scrollbar(self.twoDGraphControlFrame)
+        self.twoDGraphControl_listbox = Listbox(self.twoDGraphControlFrame, width = 30, height = 12, yscrollcommand = scrollbar2.set, selectmode = BROWSE, exportselection=False)
+        scrollbar2.pack(side = "right", fill = 'y')
+        self.twoDGraphControl_listbox.pack()
+        scrollbar2.config(command = self.twoDGraphControl_listbox.yview)
+        # self.twoDGraphControl_listbox.bind("<<ListboxSelect>>", self.callback2D)
+        self.fillListboxes(self.twoDGraphControl_listbox)
+        self.twoDGraphControl_listbox.selection_set(first=0)
+
     #Creates all the required labels for the window
     def createLabels(self):
         self.polarityLabel = Label(self.sentimentFrame, text = "Polarity: ", width = 30, anchor = W, justify = LEFT)
@@ -71,6 +89,26 @@ class Window:
 
         self.polarityLabel.pack(padx = 5, pady = 5)
         self.subjectivityLabel.pack(padx = 5, pady = 5)
+
+    #Creates all the graphs required for the window
+    def createGraphs(self):
+        fig = plt.figure(figsize = (3.9,3.1))
+        fig.subplots_adjust(left = 0.2)
+        ax = fig.add_subplot(111)
+        twoGraph = FigureCanvasTkAgg(fig, self.twoDGraphFrame)
+        twoGraph.get_tk_widget().pack(fill = "y", side = "left")
+        self.twoDGraph = (fig, ax, twoGraph)
+
+    #Fill the listboxes for the graph controls
+    def fillListboxes(self, listbox):
+        listbox.insert(END, "Sentiment")
+        listbox.insert(END, "Topic")
+        listbox.insert(END, "Questions")
+        listbox.insert(END, "Personal")
+        listbox.insert(END, "Turns")
+        listbox.insert(END, "Words")
+        listbox.insert(END, "Orderliness")
+        listbox.insert(END, "Objectivity")
 
     #Callback for the discussion listbox
     def callbackSentence(self, event):
@@ -83,3 +121,5 @@ class Window:
             sentimentScore = self.sentimentModel.score(sentence)
             self.polarityLabel.configure(text = "Polarity: " + str(sentimentScore.polarity))
             self.subjectivityLabel.configure(text = "Subjectivity: " + str(sentimentScore.subjectivity))
+            # if len(selection) == 1:
+            plot2D(self, user, sentence, event)

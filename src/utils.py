@@ -1,6 +1,11 @@
 from tkinter import *
 from tkinter import filedialog
+
+from matplotlib import colors
 from sqlreader import sqlReader
+
+#List of colors to assign to the users
+COLORS = ["red", "blue", "green", "purple", "black", "brown", "orange", "pink"]
 
 #Opens the file with the raw data that is to be analysed
 def openFile(window):
@@ -19,6 +24,8 @@ def openFile(window):
             sql = "(SELECT filename, dirname, text, user, ts FROM t_message WHERE subtype IS NULL and dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, topic, user, ts FROM t_message WHERE subtype = \"channel_topic\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\" UNION SELECT filename, dirname, purpose, user, ts FROM t_message WHERE subtype = \"channel_purpose\" AND dirname = \"" + window.dirname + "\" and filename = \"" + filename + "\") ORDER BY ts"
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
+    window.distinct_users = getDistinctUsers(window, window.users)
+    populateLegend(window, window.legendFrame)
     window.discussion_listbox.delete(0, END)
     showDiscussion(window)
 
@@ -27,3 +34,71 @@ def showDiscussion(window):
     for sentence, user in zip(window.sentences, window.users):
             window.discussion_listbox.insert(END, user + ": " + sentence)
             # self.discussion_listbox2.insert(END, user + ": " + sentence)
+
+#Get the list of distinct users present in the discussion
+def getDistinctUsers(window, users):
+    distinct_users = []
+    for user in users:
+        if user not in distinct_users:
+            distinct_users.append(user)
+    return distinct_users
+
+#Creates the labels for the distinct users and populates the legend frames
+def populateLegend(window, widget):
+    for user in window.distinct_users:
+        label = Label(widget, text = user, foreground = getColor(window.distinct_users, user))
+        label.pack(padx = 5, pady = 5)
+
+#Plots the data on the 2-D Graph based on the metric selected
+def plot2D(window, user, sentence, event):
+    selection = event.widget.curselection()
+    index = selection[0]
+    sentimentScore = window.sentimentModel.score(sentence)
+    fig = window.twoDGraph[0]
+    ax = window.twoDGraph[1]
+    while len(ax.collections) != 0:
+        ax.collections.pop()
+    if len(ax.lines) != 0:
+        ax.lines = []
+    plotSelection = window.twoDGraphControl_listbox.get(window.twoDGraphControl_listbox.curselection()[0])
+    if len(selection) == 1:
+        x = []
+        y = []
+        x.append(index)
+        if plotSelection == "Sentiment":
+            y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+            ax.set_ylim(-2, 2)
+        ax.scatter(x, y, label = user, color = getColor(window.distinct_users, user))
+    else:
+        for duser in window.distinct_users:
+            x = []
+            y = []
+            for i in range(len(selection)):
+                index = selection[i]
+                data = event.widget.get(index)
+                try:
+                    sentence = data.split(": ")[-1]
+                    user = data.split(": ")[0]
+                except:
+                    plotSelection = data
+                sentimentScore = window.sentimentModel.score(sentence)
+                if user == duser:
+                    if plotSelection == "Sentiment":
+                        x.append(index)
+                        y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+                        ax.set_ylim(-2, 2)
+            if len(x) == 1:
+                ax.scatter(x, y, label = duser, color = getColor(window.distinct_users, duser))
+            else:
+                ax.plot(x, y, label = duser, color = getColor(window.distinct_users, duser))
+    ax.set_xlabel("Responses")
+    ax.set_xlim(0, len(window.sentences))
+    ax.set_ylabel(plotSelection)
+    fig.canvas.draw()
+
+#Get the color the user is to be represented with
+def getColor(distinct_users, user):
+    colors = COLORS[:len(distinct_users)]
+    for a_user, color in zip(distinct_users, colors):
+        if a_user == user:
+            return color
