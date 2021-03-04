@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from utils import *
 from sentiment import *
 from lda import *
+from cloud import *
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
@@ -13,6 +14,7 @@ class Window:
         self.root = root
         self.sentimentModel = SentimentModel()
         self.topicModel = LDAModel(self.topicCollection)
+        self.cloudModel = CloudModel()
         self.createMenu()
         self.createTabs()
         self.createFrames()
@@ -58,6 +60,7 @@ class Window:
         self.legendFrame = ttk.LabelFrame(self.sentenceTab, text = "Legend")
         self.twoDGraphControlFrame = ttk.LabelFrame(self.sentenceTab, text = "2D Graph Controls")
         self.topicFrame = ttk.LabelFrame(self.sentenceTab, text = "Topic")
+        self.cloudFrame = ttk.LabelFrame(self.sentenceTab, text = "Word Cloud")
 
         self.sentenceFrame.grid(row = 0, column = 0, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
         self.sentimentFrame.grid(row = 0, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
@@ -65,6 +68,7 @@ class Window:
         self.legendFrame.grid(row = 3, column = 4, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
         self.twoDGraphControlFrame.grid(row = 3, column = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
         self.topicFrame.grid(row = 0, column = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.cloudFrame.grid(row = 1, column = 1, columnspan = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
 
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
@@ -108,6 +112,13 @@ class Window:
         twoGraph.get_tk_widget().pack(fill = "y", side = "left")
         self.twoDGraph = (fig, ax, twoGraph)
 
+        fig = plt.figure(figsize = (4.8,3))
+        ax = fig.add_subplot(111)
+        ax.axis("off")
+        wordcloud = FigureCanvasTkAgg(fig, self.cloudFrame)
+        wordcloud.get_tk_widget().pack(fill = "y")
+        self.cloud = (fig, ax, wordcloud)
+
     #Fill the listboxes for the graph controls
     def fillListboxes(self, listbox):
         listbox.insert(END, "Sentiment")
@@ -134,5 +145,18 @@ class Window:
             self.subjectivityLabel.configure(text = "Subjectivity: " + str(sentimentScore.subjectivity))
             self.topicLabel.configure(text = "Topic: " + topic)
             self.termsLabel.configure(text = "Terms: " + terms)
-            # if len(selection) == 1:
+            if len(selection) == 1:
+                wordcloud = self.cloudModel.generate(sentence)
+                self.cloud[1].imshow(wordcloud, interpolation='bilinear')
+                self.cloud[0].canvas.draw()
+            else:
+                sentenceList = []
+                for i in range(len(selection)):
+                    index = selection[i]
+                    data = event.widget.get(index)
+                    sentence = data.split(": ")[-1]
+                    sentenceList.append(sentence)
+                wordcloud = self.cloudModel.batchGenerate(sentenceList)
+                self.cloud[1].imshow(wordcloud, interpolation='bilinear')
+                self.cloud[0].canvas.draw()
             plot2D(self, user, sentence, event)
