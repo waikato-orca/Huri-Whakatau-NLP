@@ -61,14 +61,20 @@ class Window:
         self.twoDGraphControlFrame = ttk.LabelFrame(self.sentenceTab, text = "2D Graph Controls")
         self.topicFrame = ttk.LabelFrame(self.sentenceTab, text = "Topic")
         self.cloudFrame = ttk.LabelFrame(self.sentenceTab, text = "Word Cloud")
+        self.threeDGraphFrame = ttk.LabelFrame(self.sentenceTab, text = "3D Graph")
+        self.threeDGraphYControlFrame = ttk.LabelFrame(self.sentenceTab, text = "Y Axis Controls")
+        self.threeDGraphZControlFrame = ttk.LabelFrame(self.sentenceTab, text = "Z Axis Controls")
 
-        self.sentenceFrame.grid(row = 0, column = 0, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.sentenceFrame.grid(row = 0, column = 0, rowspan = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
         self.sentimentFrame.grid(row = 0, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
         self.twoDGraphFrame.grid(row = 0, column = 3, columnspan = 2, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
         self.legendFrame.grid(row = 3, column = 4, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
         self.twoDGraphControlFrame.grid(row = 3, column = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "nw")
         self.topicFrame.grid(row = 0, column = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
-        self.cloudFrame.grid(row = 1, column = 1, columnspan = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.cloudFrame.grid(row = 1, column = 1, rowspan = 2, columnspan = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.threeDGraphFrame.grid(row = 2, column = 0, rowspan = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.threeDGraphYControlFrame.grid(row = 3, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
+        self.threeDGraphZControlFrame.grid(row = 3, column = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
 
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
@@ -90,6 +96,24 @@ class Window:
         # self.twoDGraphControl_listbox.bind("<<ListboxSelect>>", self.callback2D)
         self.fillListboxes(self.twoDGraphControl_listbox)
         self.twoDGraphControl_listbox.selection_set(first=0)
+
+        scrollbar3 = Scrollbar(self.threeDGraphYControlFrame)
+        self.threeDGraphYControl_listbox = Listbox(self.threeDGraphYControlFrame, width = 30, height = 12, yscrollcommand = scrollbar3.set, selectmode = BROWSE, exportselection=False)
+        scrollbar3.pack(side = "right", fill = 'y')
+        self.threeDGraphYControl_listbox.pack()
+        scrollbar3.config(command = self.threeDGraphYControl_listbox.yview)
+        # self.threeDGraphYControl_listbox.bind("<<ListboxSelect>>", self.callback3DY)
+        self.fillListboxes(self.threeDGraphYControl_listbox)
+        self.threeDGraphYControl_listbox.selection_set(first=0)
+
+        scrollbar4 = Scrollbar(self.threeDGraphZControlFrame)
+        self.threeDGraphZControl_listbox = Listbox(self.threeDGraphZControlFrame, width = 30, height = 12, yscrollcommand = scrollbar4.set, selectmode = BROWSE, exportselection=False)
+        scrollbar4.pack(side = "right", fill = 'y')
+        self.threeDGraphZControl_listbox.pack()
+        scrollbar4.config(command = self.threeDGraphZControl_listbox.yview)
+        # self.threeDGraphZControl_listbox.bind("<<ListboxSelect>>", self.callback3DZ)
+        self.fillListboxes(self.threeDGraphZControl_listbox)
+        self.threeDGraphZControl_listbox.selection_set(first=1)
 
     #Creates all the required labels for the window
     def createLabels(self):
@@ -118,6 +142,13 @@ class Window:
         wordcloud = FigureCanvasTkAgg(fig, self.cloudFrame)
         wordcloud.get_tk_widget().pack(fill = "y")
         self.cloud = (fig, ax, wordcloud)
+
+        fig = plt.figure(figsize= (3.8, 3.1))
+        ax = fig.add_subplot(111, projection = '3d')
+        threeGraph = FigureCanvasTkAgg(fig, self.threeDGraphFrame)
+        threeGraph.get_tk_widget().pack(fill = "y", side = "left")
+        ax.view_init(30, -135)
+        self.threeDGraph = (fig, ax, threeGraph)
 
     #Fill the listboxes for the graph controls
     def fillListboxes(self, listbox):
@@ -160,3 +191,4 @@ class Window:
                 self.cloud[1].imshow(wordcloud, interpolation='bilinear')
                 self.cloud[0].canvas.draw()
             plot2D(self, user, sentence, event)
+            plot3D(self, user, sentence, event)

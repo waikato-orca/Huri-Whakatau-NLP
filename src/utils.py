@@ -4,6 +4,7 @@ from nltk.stem import WordNetLemmatizer
 from gensim.utils import simple_preprocess
 from gensim.parsing import preprocessing
 from sqlreader import sqlReader
+import numpy as np
 
 #List of colors to assign to the users
 COLORS = ["red", "blue", "green", "purple", "black", "brown", "orange", "pink"]
@@ -143,3 +144,75 @@ def preprocess(text, stemmer):
         if token not in preprocessing.STOPWORDS and len(token) > 3:
             result.append(lemmatize_stemming(token, stemmer))
     return result
+
+#Plots the data on the 3-D plot based on the selected metrics
+def plot3D(window, user, sentence, event):
+    selection = event.widget.curselection()
+    index = selection[0]
+    sentimentScore = window.sentimentModel.score(sentence)
+    topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
+    fig = window.threeDGraph[0]
+    ax = window.threeDGraph[1]
+    while len(ax.collections) != 0:
+        ax.collections.pop()
+    plotSelectionY = window.threeDGraphYControl_listbox.get(window.threeDGraphYControl_listbox.curselection()[0])
+    plotSelectionZ = window.threeDGraphZControl_listbox.get(window.threeDGraphZControl_listbox.curselection()[0])
+    if len(selection) == 1:
+        x = []
+        y = []
+        z = []
+        x.append(index)
+        if plotSelectionY == "Sentiment":
+            y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+            ax.set_ylim(-2, 2)
+        elif plotSelectionY == "Topic":
+            y.append(topic)
+            ax.set_ylim(-1,15)
+        if plotSelectionZ == "Sentiment":
+            z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+            ax.set_zlim(-2, 2)
+        elif plotSelectionZ == "Topic":
+            z.append(topic)
+            ax.set_zlim(-1,15)
+        z = np.array([z, z])
+        ax.scatter3D(x, y, z, label = user, color = getColor(window.distinct_users, user))
+    else:
+        for duser in window.distinct_users:
+            x = []
+            y = []
+            z = []
+            for i in range(len(selection)):
+                index = selection[i]
+                data = event.widget.get(index)
+                try:
+                    sentence = data.split(": ")[-1]
+                    user = data.split(": ")[0]
+                except:
+                    plotSelection = data
+                sentimentScore = window.sentimentModel.score(sentence)
+                topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
+                if user == duser:
+                    if plotSelectionY == "Sentiment":
+                        x.append(index)
+                        y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+                        ax.set_ylim(-2, 2)
+                    elif plotSelectionY == "Topic":
+                        x.append(index)
+                        y.append(topic)
+                        ax.set_ylim(-1, 15)
+                    if plotSelectionZ == "Sentiment":
+                        z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+                        ax.set_zlim(-2, 2)
+                    elif plotSelectionZ == "Topic":
+                        z.append(topic)
+                        ax.set_zlim(-1,15)
+            z = np.array([z, z])
+            if len(x) == 1:
+                ax.scatter3D(x, y, z, label = duser, color = getColor(window.distinct_users, duser))
+            else:
+                ax.plot_wireframe(x, y, z, label = duser, color = getColor(window.distinct_users, duser))
+    ax.set_xlabel("Responses")
+    ax.set_xlim(0, len(window.sentences))
+    ax.set_ylabel(plotSelectionY)
+    ax.set_zlabel(plotSelectionZ)
+    fig.canvas.draw()
