@@ -85,6 +85,12 @@ def plot2D(window, user, sentence, event, selection):
             else:
                 y.append(0)
             ax.set_ylim(-0.5, 1.5)
+        elif plotSelection == "Personal":
+            if window.posTagger.isPersonal(sentence):
+                y.append(1)
+            else:
+                y.append(0)
+            ax.set_ylim(-0.5, 1.5)
         ax.scatter(x, y, label = user, color = getColor(window.distinct_users, user))
     else:
         resetCounts(window.distinct_users)
@@ -113,6 +119,12 @@ def plot2D(window, user, sentence, event, selection):
                             duser.questionCount += 1
                         y.append(duser.questionCount)
                         ax.set_ylim(-1, 15)
+                    elif plotSelection == "Personal":
+                        x.append(index)
+                        if window.posTagger.isPersonal(sentence):
+                            duser.pronounCount += 1
+                        y.append(duser.pronounCount)
+                        ax.set_ylim(-1, 30)
             if len(x) == 1:
                 ax.scatter(x, y, label = duser.name, color = getColor(window.distinct_users, duser.name))
             else:
@@ -186,6 +198,12 @@ def plot3D(window, user, sentence, event, selection):
             else:
                 y.append(0)
             ax.set_ylim(-0.5, 1.5)
+        elif plotSelectionY == "Personal":
+            if window.posTagger.isPersonal(sentence):
+                y.append(1)
+            else:
+                y.append(0)
+            ax.set_ylim(-0.5, 1.5)
         if plotSelectionZ == "Sentiment":
             z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
             ax.set_zlim(-2, 2)
@@ -194,6 +212,12 @@ def plot3D(window, user, sentence, event, selection):
             ax.set_zlim(-1,15)
         elif plotSelectionZ == "Questions":
             if window.questionModel.isQuestion(sentence):
+                z.append(1)
+            else:
+                z.append(0)
+            ax.set_zlim(-0.5, 1.5)
+        elif plotSelectionZ == "Personal":
+            if window.posTagger.isPersonal(sentence):
                 z.append(1)
             else:
                 z.append(0)
@@ -228,6 +252,12 @@ def plot3D(window, user, sentence, event, selection):
                             duser.questionCount += 1
                         y.append(duser.questionCount)
                         ax.set_ylim(-1, 15)
+                    elif plotSelectionY == "Personal":
+                        x.append(index)
+                        if window.posTagger.isPersonal(sentence):
+                            duser.pronounCount += 1
+                        y.append(duser.pronounCount)
+                        ax.set_ylim(-1, 30)
                     if plotSelectionZ == "Sentiment":
                         z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
                         ax.set_zlim(-2, 2)
@@ -239,6 +269,11 @@ def plot3D(window, user, sentence, event, selection):
                             duser.questionCount += 1
                         z.append(duser.questionCount)
                         ax.set_zlim(-1, 15)
+                    elif plotSelectionZ == "Personal":
+                        if window.posTagger.isPersonal(sentence):
+                            duser.pronounCount += 1
+                        z.append(duser.pronounCount)
+                        ax.set_zlim(-1, 30)
             z = np.array([z, z])
             if len(x) == 1:
                 ax.scatter3D(x, y, z, label = duser.name, color = getColor(window.distinct_users, duser.name))

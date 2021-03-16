@@ -7,6 +7,7 @@ from sentiment import *
 from lda import *
 from cloud import *
 from question import *
+from pos import *
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
@@ -17,6 +18,7 @@ class Window:
         self.topicModel = LDAModel(self.topicCollection)
         self.cloudModel = CloudModel()
         self.questionModel = QuestionModel()
+        self.posTagger = PosTagger()
         self.createMenu()
         self.createTabs()
         self.createFrames()
