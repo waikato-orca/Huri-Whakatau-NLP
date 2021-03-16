@@ -6,6 +6,7 @@ from utils import *
 from sentiment import *
 from lda import *
 from cloud import *
+from question import *
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
@@ -15,6 +16,7 @@ class Window:
         self.sentimentModel = SentimentModel()
         self.topicModel = LDAModel(self.topicCollection)
         self.cloudModel = CloudModel()
+        self.questionModel = QuestionModel()
         self.createMenu()
         self.createTabs()
         self.createFrames()
@@ -205,6 +207,7 @@ class Window:
             user = sentenceData.split(": ")[0]
             plot2D(self, user, sentence, event, sentenceSelection)
 
+    #Callback for the change of 3-D plot metrics
     def callback3D(self, event):
         selection = event.widget.curselection()
         if selection:

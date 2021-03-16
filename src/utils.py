@@ -4,6 +4,7 @@ from nltk.stem import WordNetLemmatizer
 from gensim.utils import simple_preprocess
 from gensim.parsing import preprocessing
 from sqlreader import sqlReader
+from user import *
 import numpy as np
 
 #List of colors to assign to the users
@@ -45,14 +46,15 @@ def showDiscussion(window):
 def getDistinctUsers(window, users):
     distinct_users = []
     for user in users:
-        if user not in distinct_users:
-            distinct_users.append(user)
+        if not checkUser(user, distinct_users):
+            userObj = User(user)
+            distinct_users.append(userObj)
     return distinct_users
 
 #Creates the labels for the distinct users and populates the legend frames
 def populateLegend(window, widget):
     for user in window.distinct_users:
-        label = Label(widget, text = user, foreground = getColor(window.distinct_users, user))
+        label = Label(widget, text = user.name, foreground = getColor(window.distinct_users, user.name))
         label.pack(padx = 5, pady = 5)
 
 #Plots the data on the 2-D Graph based on the metric selected
@@ -77,8 +79,15 @@ def plot2D(window, user, sentence, event, selection):
         elif plotSelection == "Topic":
             y.append(topic)
             ax.set_ylim(-1,15)
+        elif plotSelection == "Questions":
+            if window.questionModel.isQuestion(sentence):
+                y.append(1)
+            else:
+                y.append(0)
+            ax.set_ylim(-0.5, 1.5)
         ax.scatter(x, y, label = user, color = getColor(window.distinct_users, user))
     else:
+        resetCounts(window.distinct_users)
         for duser in window.distinct_users:
             x = []
             y = []
@@ -89,7 +98,7 @@ def plot2D(window, user, sentence, event, selection):
                 user = data.split(": ")[0]
                 sentimentScore = window.sentimentModel.score(sentence)
                 topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
-                if user == duser:
+                if user == duser.name:
                     if plotSelection == "Sentiment":
                         x.append(index)
                         y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
@@ -98,10 +107,16 @@ def plot2D(window, user, sentence, event, selection):
                         x.append(index)
                         y.append(topic)
                         ax.set_ylim(-1, 15)
+                    elif plotSelection == "Questions":
+                        x.append(index)
+                        if window.questionModel.isQuestion(sentence):
+                            duser.questionCount += 1
+                        y.append(duser.questionCount)
+                        ax.set_ylim(-1, 15)
             if len(x) == 1:
-                ax.scatter(x, y, label = duser, color = getColor(window.distinct_users, duser))
+                ax.scatter(x, y, label = duser.name, color = getColor(window.distinct_users, duser.name))
             else:
-                ax.plot(x, y, label = duser, color = getColor(window.distinct_users, duser))
+                ax.plot(x, y, label = duser.name, color = getColor(window.distinct_users, duser.name))
     ax.set_xlabel("Responses")
     ax.set_xlim(0, len(window.sentences))
     ax.set_ylabel(plotSelection)
@@ -111,7 +126,7 @@ def plot2D(window, user, sentence, event, selection):
 def getColor(distinct_users, user):
     colors = COLORS[:len(distinct_users)]
     for a_user, color in zip(distinct_users, colors):
-        if a_user == user:
+        if a_user.name == user:
             return color
 
 #Creates the topic collection for easier access for other methods
@@ -165,15 +180,28 @@ def plot3D(window, user, sentence, event, selection):
         elif plotSelectionY == "Topic":
             y.append(topic)
             ax.set_ylim(-1,15)
+        elif plotSelectionY == "Questions":
+            if window.questionModel.isQuestion(sentence):
+                y.append(1)
+            else:
+                y.append(0)
+            ax.set_ylim(-0.5, 1.5)
         if plotSelectionZ == "Sentiment":
             z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
             ax.set_zlim(-2, 2)
         elif plotSelectionZ == "Topic":
             z.append(topic)
             ax.set_zlim(-1,15)
+        elif plotSelectionZ == "Questions":
+            if window.questionModel.isQuestion(sentence):
+                z.append(1)
+            else:
+                z.append(0)
+            ax.set_zlim(-0.5, 1.5)
         z = np.array([z, z])
         ax.scatter3D(x, y, z, label = user, color = getColor(window.distinct_users, user))
     else:
+        resetCounts(window.distinct_users)
         for duser in window.distinct_users:
             x = []
             y = []
@@ -185,7 +213,7 @@ def plot3D(window, user, sentence, event, selection):
                 user = data.split(": ")[0]
                 sentimentScore = window.sentimentModel.score(sentence)
                 topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
-                if user == duser:
+                if user == duser.name:
                     if plotSelectionY == "Sentiment":
                         x.append(index)
                         y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
@@ -194,19 +222,42 @@ def plot3D(window, user, sentence, event, selection):
                         x.append(index)
                         y.append(topic)
                         ax.set_ylim(-1, 15)
+                    elif plotSelectionY == "Questions":
+                        x.append(index)
+                        if window.questionModel.isQuestion(sentence):
+                            duser.questionCount += 1
+                        y.append(duser.questionCount)
+                        ax.set_ylim(-1, 15)
                     if plotSelectionZ == "Sentiment":
                         z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
                         ax.set_zlim(-2, 2)
                     elif plotSelectionZ == "Topic":
                         z.append(topic)
                         ax.set_zlim(-1,15)
+                    elif plotSelectionZ == "Questions":
+                        if window.questionModel.isQuestion(sentence):
+                            duser.questionCount += 1
+                        z.append(duser.questionCount)
+                        ax.set_zlim(-1, 15)
             z = np.array([z, z])
             if len(x) == 1:
-                ax.scatter3D(x, y, z, label = duser, color = getColor(window.distinct_users, duser))
+                ax.scatter3D(x, y, z, label = duser.name, color = getColor(window.distinct_users, duser.name))
             else:
-                ax.plot_wireframe(x, y, z, label = duser, color = getColor(window.distinct_users, duser))
+                ax.plot_wireframe(x, y, z, label = duser.name, color = getColor(window.distinct_users, duser.name))
     ax.set_xlabel("Responses")
     ax.set_xlim(0, len(window.sentences))
     ax.set_ylabel(plotSelectionY)
     ax.set_zlabel(plotSelectionZ)
     fig.canvas.draw()
+
+#Resets the counts for all the users in the discussion to 0
+def resetCounts(users):
+    for user in users:
+        user.resetCounts()
+
+#Checks whether a User object of the given username exists in a list
+def checkUser(username, users):
+    for user in users:
+        if username == user.name:
+            return True
+    return False
