@@ -93,7 +93,7 @@ class Window:
         scrollbar2.pack(side = "right", fill = 'y')
         self.twoDGraphControl_listbox.pack()
         scrollbar2.config(command = self.twoDGraphControl_listbox.yview)
-        # self.twoDGraphControl_listbox.bind("<<ListboxSelect>>", self.callback2D)
+        self.twoDGraphControl_listbox.bind("<<ListboxSelect>>", self.callback2D)
         self.fillListboxes(self.twoDGraphControl_listbox)
         self.twoDGraphControl_listbox.selection_set(first=0)
 
@@ -102,7 +102,7 @@ class Window:
         scrollbar3.pack(side = "right", fill = 'y')
         self.threeDGraphYControl_listbox.pack()
         scrollbar3.config(command = self.threeDGraphYControl_listbox.yview)
-        # self.threeDGraphYControl_listbox.bind("<<ListboxSelect>>", self.callback3DY)
+        self.threeDGraphYControl_listbox.bind("<<ListboxSelect>>", self.callback3D)
         self.fillListboxes(self.threeDGraphYControl_listbox)
         self.threeDGraphYControl_listbox.selection_set(first=0)
 
@@ -111,7 +111,7 @@ class Window:
         scrollbar4.pack(side = "right", fill = 'y')
         self.threeDGraphZControl_listbox.pack()
         scrollbar4.config(command = self.threeDGraphZControl_listbox.yview)
-        # self.threeDGraphZControl_listbox.bind("<<ListboxSelect>>", self.callback3DZ)
+        self.threeDGraphZControl_listbox.bind("<<ListboxSelect>>", self.callback3D)
         self.fillListboxes(self.threeDGraphZControl_listbox)
         self.threeDGraphZControl_listbox.selection_set(first=1)
 
@@ -190,5 +190,28 @@ class Window:
                 wordcloud = self.cloudModel.batchGenerate(sentenceList)
                 self.cloud[1].imshow(wordcloud, interpolation='bilinear')
                 self.cloud[0].canvas.draw()
-            plot2D(self, user, sentence, event)
-            plot3D(self, user, sentence, event)
+            plot2D(self, user, sentence, event, selection)
+            plot3D(self, user, sentence, event, selection)
+
+    #Callback for the change of 2-D plot metrics
+    def callback2D(self, event):
+        selection = event.widget.curselection()
+        if selection:
+            index = selection[0]
+            data = event.widget.get(index)
+            sentenceSelection = self.discussion_listbox.curselection()
+            sentenceData = self.discussion_listbox.get(self.discussion_listbox.curselection()[0])
+            sentence = sentenceData.split(": ")[-1]
+            user = sentenceData.split(": ")[0]
+            plot2D(self, user, sentence, event, sentenceSelection)
+
+    def callback3D(self, event):
+        selection = event.widget.curselection()
+        if selection:
+            index = selection[0]
+            data = event.widget.get(index)
+            sentenceSelection = self.discussion_listbox.curselection()
+            sentenceData = self.discussion_listbox.get(self.discussion_listbox.curselection()[0])
+            sentence = sentenceData.split(": ")[-1]
+            user = sentenceData.split(": ")[0]
+            plot3D(self, user, sentence, event, sentenceSelection)

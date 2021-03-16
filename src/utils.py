@@ -27,8 +27,10 @@ def openFile(window):
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.distinct_users = getDistinctUsers(window, window.users)
-    populateLegend(window, window.legendFrame)
     window.discussion_listbox.delete(0, END)
+    for child in window.legendFrame.winfo_children():
+        child.destroy()
+    populateLegend(window, window.legendFrame)
     showDiscussion(window)
     window.topicModel.train(window.sentences)
     getTopicCollection(window)
@@ -54,9 +56,8 @@ def populateLegend(window, widget):
         label.pack(padx = 5, pady = 5)
 
 #Plots the data on the 2-D Graph based on the metric selected
-def plot2D(window, user, sentence, event):
-    selection = event.widget.curselection()
-    index = selection[0]
+def plot2D(window, user, sentence, event, selection):
+    index = window.discussion_listbox.curselection()[0]
     sentimentScore = window.sentimentModel.score(sentence)
     topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
     fig = window.twoDGraph[0]
@@ -83,12 +84,9 @@ def plot2D(window, user, sentence, event):
             y = []
             for i in range(len(selection)):
                 index = selection[i]
-                data = event.widget.get(index)
-                try:
-                    sentence = data.split(": ")[-1]
-                    user = data.split(": ")[0]
-                except:
-                    plotSelection = data
+                data = window.discussion_listbox.get(index)
+                sentence = data.split(": ")[-1]
+                user = data.split(": ")[0]
                 sentimentScore = window.sentimentModel.score(sentence)
                 topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
                 if user == duser:
@@ -146,9 +144,8 @@ def preprocess(text, stemmer):
     return result
 
 #Plots the data on the 3-D plot based on the selected metrics
-def plot3D(window, user, sentence, event):
-    selection = event.widget.curselection()
-    index = selection[0]
+def plot3D(window, user, sentence, event, selection):
+    index = window.discussion_listbox.curselection()[0]
     sentimentScore = window.sentimentModel.score(sentence)
     topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
     fig = window.threeDGraph[0]
@@ -183,12 +180,9 @@ def plot3D(window, user, sentence, event):
             z = []
             for i in range(len(selection)):
                 index = selection[i]
-                data = event.widget.get(index)
-                try:
-                    sentence = data.split(": ")[-1]
-                    user = data.split(": ")[0]
-                except:
-                    plotSelection = data
+                data = window.discussion_listbox.get(index)
+                sentence = data.split(": ")[-1]
+                user = data.split(": ")[0]
                 sentimentScore = window.sentimentModel.score(sentence)
                 topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
                 if user == duser:
