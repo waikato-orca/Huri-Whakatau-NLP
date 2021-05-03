@@ -383,23 +383,29 @@ def barycentric(window):
 #Plot the vectors within the structure constructed for barycentric allocation
 def plotPolyB(user, cvector, window):
     hyperpara = []
-    vector = np.array([0, 0, 0])
     for ouser in window.user_responses:
+        vector = None
         user_dict = window.user_responses[ouser]
         for id in user_dict:
-            if int(id) < window.baryIndex:
+            if int(id) < window.baryIndex or int(id) == 0:
                 udict = user_dict[id]
                 vector = udict["vector"]
             else:
                 break
-        dist = ((cvector[0] - vector[0]) ** 2 + (cvector[1] - vector[1]) ** 2 + (cvector[2] - vector[2]) ** 2) ** 0.5
+        if vector is None:
+            dist = -1
+        else:               
+            dist = ((cvector[0] - vector[0]) ** 2 + (cvector[1] - vector[1]) ** 2 + (cvector[2] - vector[2]) ** 2) ** 0.5
         hyperpara.append(dist)
     total = 0
     for distance in hyperpara:
-        total += distance
+        if distance != -1:
+            total += distance
     for i in range(len(hyperpara)):
         if hyperpara[i] == 0:
-            para = 2 * total
+            para = 2 * total + 1
+        elif hyperpara[i] == -1:
+            para = 0
         else:
             para = total / hyperpara[i]
         hyperpara[i] = para
