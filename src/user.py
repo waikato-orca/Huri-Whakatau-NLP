@@ -4,8 +4,12 @@ class User:
         self.name = name
         self.questionCount = 0
         self.pronounCount = 0
+        self.turnCount = 0
+        self.wordCount = 0
 
     #Resets all the counts of the given user to 0
     def resetCounts(self):
         self.questionCount = 0
         self.pronounCount = 0
+        self.turnCount = 0
+        self.wordCount = 0

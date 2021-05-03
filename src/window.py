@@ -1,30 +1,36 @@
 from tkinter import *
 from tkinter import ttk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-import matplotlib.pyplot as plt
 from utils import *
 from sentiment import *
 from lda import *
 from cloud import *
 from question import *
 from pos import *
+from doc2vector import *
+import matplotlib.pyplot as plt
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
     def __init__(self, root):
         self.topicCollection = {}
+        self.polysB = []
+        self.polyptsB = []
+        self.baryIndex = 0
         self.root = root
         self.sentimentModel = SentimentModel()
         self.topicModel = LDAModel(self.topicCollection)
         self.cloudModel = CloudModel()
         self.questionModel = QuestionModel()
         self.posTagger = PosTagger()
+        self.vectorModel = VectorModel()
         self.createMenu()
         self.createTabs()
         self.createFrames()
         self.createListboxes()
         self.createLabels()
         self.createGraphs()
+        self.createButtons()
 
     #Create the menu bar and add the required options
     def createMenu(self):
@@ -80,6 +86,12 @@ class Window:
         self.threeDGraphYControlFrame.grid(row = 3, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
         self.threeDGraphZControlFrame.grid(row = 3, column = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky="nw")
 
+        self.polyFrameB = LabelFrame(self.baryTab, text = "Barycentric Allocation")
+        self.legendFrameB = LabelFrame(self.baryTab, text = "Legend")
+
+        self.polyFrameB.grid(row = 0, column = 0, columnspan = 5, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "w")
+        self.legendFrameB.grid(row = 3, column = 0, columnspan = 5, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "w")
+
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
         scrollbar = Scrollbar(self.sentenceFrame)
@@ -131,6 +143,10 @@ class Window:
         self.topicLabel.pack(padx = 5, pady = 5)
         self.termsLabel.pack(padx = 5, pady = 5)
 
+        self.sentenceLabelB = Label(self.baryTab, text = "Sentence: ", anchor = "w")
+
+        self.sentenceLabelB.grid(row = 1, column = 0, columnspan = 5, padx = 5, pady = 5, ipadx = 5, ipady = 5)
+
     #Creates all the graphs required for the window
     def createGraphs(self):
         fig = plt.figure(figsize = (4.3,4.2))
@@ -153,6 +169,14 @@ class Window:
         threeGraph.get_tk_widget().pack(fill = "y", side = "left")
         ax.view_init(30, -135)
         self.threeDGraph = (fig, ax, threeGraph)
+
+    #Creates all the buttons required for the window
+    def createButtons(self):
+        self.nextButtonB = Button(self.baryTab, text = "Next Statement", command = lambda: barycentric(self))
+        self.endButtonB = Button(self.baryTab, text = "Jump to End", command = lambda: jump(self))
+
+        self.nextButtonB.grid(row = 2, column = 0, padx = 5, pady = 5, ipadx = 5, ipady = 5)
+        self.endButtonB.grid(row = 2, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5)
 
     #Fill the listboxes for the graph controls
     def fillListboxes(self, listbox):

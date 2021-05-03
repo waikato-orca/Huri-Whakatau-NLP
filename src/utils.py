@@ -5,7 +5,11 @@ from gensim.utils import simple_preprocess
 from gensim.parsing import preprocessing
 from sqlreader import sqlReader
 from user import *
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+from math import cos, pi, sin
+from tkinter import messagebox
 import numpy as np
+import matplotlib.pyplot as plt
 
 #List of colors to assign to the users
 COLORS = ["red", "blue", "green", "purple", "black", "brown", "orange", "pink"]
@@ -28,13 +32,27 @@ def openFile(window):
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.distinct_users = getDistinctUsers(window, window.users)
+    window.vectorModel.train(window.sentences)
+    window.topicModel.train(window.sentences)
+    getTopicCollection(window)
+    window.user_responses = window.vectorModel.infer(window.users, window.sentences, window.topicModel, window)
     window.discussion_listbox.delete(0, END)
     for child in window.legendFrame.winfo_children():
         child.destroy()
-    populateLegend(window, window.legendFrame)
+    for child in window.legendFrameB.winfo_children():
+        child.destroy()
+    populateLegend(window, window.legendFrame, "top")
+    populateLegend(window, window.legendFrameB, "left")
+    for child in window.polyFrameB.winfo_children():
+        child.destroy()
+    window.baryIndex = 0
+    createBaryPlots(window)
     showDiscussion(window)
-    window.topicModel.train(window.sentences)
-    getTopicCollection(window)
+    window.resultsFile = open("results.csv", "a+")
+    window.resultsFile.write(window.dirname)
+    for user in window.distinct_users:
+        window.resultsFile.write("," + user.name)
+    window.resultsFile.write(",user\n")
 
 #Displays the discussion in the given format to view the raw data
 def showDiscussion(window):
@@ -52,10 +70,10 @@ def getDistinctUsers(window, users):
     return distinct_users
 
 #Creates the labels for the distinct users and populates the legend frames
-def populateLegend(window, widget):
+def populateLegend(window, widget, side):
     for user in window.distinct_users:
         label = Label(widget, text = user.name, foreground = getColor(window.distinct_users, user.name))
-        label.pack(padx = 5, pady = 5)
+        label.pack(padx = 5, pady = 5, side = side)
 
 #Plots the data on the 2-D Graph based on the metric selected
 def plot2D(window, user, sentence, event, selection):
@@ -296,3 +314,125 @@ def checkUser(username, users):
         if username == user.name:
             return True
     return False
+
+#Creates the user-specific barycentric allocation plots
+def createBaryPlots(window):
+    for user in window.distinct_users:
+        plot_width = 13.5/float(len(window.distinct_users))
+        fig = plt.figure(figsize = (plot_width,2.7))
+        ax = fig.add_subplot(111)
+        ax.axis("off")
+        polyB = FigureCanvasTkAgg(fig, window.polyFrameB)
+        polyB.get_tk_widget().pack(side = "left", anchor = 'nw')
+        plotPolygonPts(ax, fig, user, window)
+        textObj = ax.text(0, 1, user.name)
+        window.polysB.append([fig, ax])
+
+#Creates the n-1 polygon structure for the barycentric allocation
+def plotPolygonPts(ax, fig, plotUser, window):
+    x = []
+    y = []
+    n = len(window.distinct_users)
+    r = 0.5 / sin(pi/n)
+    angle = (2 * pi) / n
+    for i in range(n):
+        xcoord = r * cos(i * angle)
+        x.append(xcoord)
+        ycoord = r * sin(i * angle)
+        y.append(ycoord)
+        window.polyptsB.append([xcoord, ycoord])
+    x.append(x[0])
+    y.append(y[0])
+    ax.plot(x, y, color = "black")
+    i = 0
+    for user in window.distinct_users:
+        x1 = [x[i]]
+        y1 = [y[i]]
+        if plotUser is None:
+            ax.scatter(x1, y1, color = getColor(window.distinct_users, user.name))
+        elif plotUser is not None and plotUser != user:
+            ax.scatter(x1, y1, color = getColor(window.distinct_users, user.name))
+        elif plotUser is not None and plotUser == user:
+            ax.scatter(x1, y1, color = getColor(window.distinct_users, user.name), alpha = 0.5)
+        i += 1
+    fig.canvas.draw()
+
+#Allocates the vectors within the structure using their barycentric coordinates
+def barycentric(window):
+    sentence = ""
+    vector = np.ndarray((3,))
+    cuser = ""
+    if window.baryIndex < len(window.sentences):
+        for user in window.user_responses:
+            user_dict = window.user_responses[user]
+            if window.baryIndex in user_dict:
+                for id in user_dict:
+                    udict = user_dict[id]
+                    if id == window.baryIndex:
+                        sentence = udict["sentence"]
+                        cuser = user
+                        vector = udict["vector"]
+                        break
+        window.sentenceLabelB.configure(text = "Sentence: " + cuser + ": " + sentence)
+        plotPolyB(cuser, vector, window)
+        window.baryIndex += 1
+    else:
+        messagebox.showerror(title = "Error", message= "End of Discussion reached.")
+        window.resultsFile.close()
+
+#Plot the vectors within the structure constructed for barycentric allocation
+def plotPolyB(user, cvector, window):
+    hyperpara = []
+    vector = np.array([0, 0, 0])
+    for ouser in window.user_responses:
+        user_dict = window.user_responses[ouser]
+        for id in user_dict:
+            if int(id) < window.baryIndex:
+                udict = user_dict[id]
+                vector = udict["vector"]
+            else:
+                break
+        dist = ((cvector[0] - vector[0]) ** 2 + (cvector[1] - vector[1]) ** 2 + (cvector[2] - vector[2]) ** 2) ** 0.5
+        hyperpara.append(dist)
+    total = 0
+    for distance in hyperpara:
+        total += distance
+    for i in range(len(hyperpara)):
+        if hyperpara[i] == 0:
+            para = 2 * total
+        else:
+            para = total / hyperpara[i]
+        hyperpara[i] = para
+    total = 0
+    for distance in hyperpara:
+        total += distance
+    for i in range(len(hyperpara)):
+        para = hyperpara[i] / total
+        hyperpara[i] = para
+    xcoord = 0
+    ycoord = 0
+    for para1, coord in zip(hyperpara, window.polyptsB):
+        xcoord += para1 * coord[0]
+        ycoord += para1 * coord[1]
+    ax = None
+    fig = None
+    for i in range(len(window.distinct_users)):
+        users = window.distinct_users[i]
+        if users.name == user:
+            ax = window.polysB[i][1]
+            fig = window.polysB[i][0]
+            break
+    ax.scatter([xcoord], [ycoord], color = getColor(window.distinct_users, user))
+    string = str(window.baryIndex)
+    for para in hyperpara:
+        string += "," + str(para)
+    string += "," + user
+    window.resultsFile.write(string + "\n")
+    fig.canvas.draw()
+
+#Jump to the end of the discussion and observe the results at the end
+def jump(window):
+    while window.baryIndex < len(window.sentences):
+        barycentric(window)
+    messagebox.showerror(title = "Error", message= "End of Discussion reached.")
+    window.resultsFile.close()

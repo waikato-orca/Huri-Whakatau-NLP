@@ -1,5 +1,4 @@
 import stanza
-stanza.install_corenlp()
 from stanza.server import CoreNLPClient
 
 ##Question model that is being used for question detection
