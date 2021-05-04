@@ -31,6 +31,7 @@ class Window:
         self.createLabels()
         self.createGraphs()
         self.createButtons()
+        # self.createRadioButtons()
 
     #Create the menu bar and add the required options
     def createMenu(self):
@@ -177,6 +178,16 @@ class Window:
 
         self.nextButtonB.grid(row = 2, column = 0, padx = 5, pady = 5, ipadx = 5, ipady = 5)
         self.endButtonB.grid(row = 2, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5)
+
+    # #Creates all the necessary radio buttons for the window
+    # def createRadioButtons(self):
+    #     self.transform = IntVar()
+    #     self.transform.set(0)
+    #     self.selfRadioButton = Radiobutton(self.baryTab, text = "Self Barycentric Transformation", variable = self.transform, value = 0)
+    #     self.nonselfRadioButton = Radiobutton(self.baryTab, text = "Non-self Barycentric Transformation", variable = self.transform, value = 1)
+
+    #     self.selfRadioButton.grid(row = 2, column = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5)
+    #     self.nonselfRadioButton.grid(row = 2, column = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5)
 
     #Fill the listboxes for the graph controls
     def fillListboxes(self, listbox):

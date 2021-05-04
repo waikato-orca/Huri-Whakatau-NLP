@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import filedialog
+from tkinter import filedialog, simpledialog
 from nltk.stem import WordNetLemmatizer
 from gensim.utils import simple_preprocess
 from gensim.parsing import preprocessing
@@ -46,7 +46,11 @@ def openFile(window):
     for child in window.polyFrameB.winfo_children():
         child.destroy()
     window.baryIndex = 0
-    createBaryPlots(window)
+    window.transform = simpledialog.askstring(title = "Barycentric Transformation", prompt = "Choose the barycentric transformation variant: Self(S) or Nonself(N)", parent = window.root)
+    if window.transform.lower() == "s" or window.transform.lower() == "self":
+        createBaryPlots(window, "self")
+    elif window.transform.lower() == "n" or window.transform.lower() == "nonself":
+        createBaryPlots(window, "nonself")
     showDiscussion(window)
     window.resultsFile = open("results.csv", "a+")
     window.resultsFile.write(window.dirname)
@@ -316,19 +320,31 @@ def checkUser(username, users):
     return False
 
 #Creates the user-specific barycentric allocation plots
-def createBaryPlots(window):
-    for user in window.distinct_users:
-        plot_width = 13.5/float(len(window.distinct_users))
-        fig = plt.figure(figsize = (plot_width,2.7))
-        ax = fig.add_subplot(111)
-        ax.axis("off")
-        polyB = FigureCanvasTkAgg(fig, window.polyFrameB)
-        polyB.get_tk_widget().pack(side = "left", anchor = 'nw')
-        plotPolygonPts(ax, fig, user, window)
-        textObj = ax.text(0, 1, user.name)
-        window.polysB.append([fig, ax])
+def createBaryPlots(window, transform):
+    if transform == "self":
+        for user in window.distinct_users:
+            plot_width = 13.5/float(len(window.distinct_users))
+            fig = plt.figure(figsize = (plot_width,2.7))
+            ax = fig.add_subplot(111)
+            ax.axis("off")
+            polyB = FigureCanvasTkAgg(fig, window.polyFrameB)
+            polyB.get_tk_widget().pack(side = "left", anchor = 'nw')
+            plotPolygonPts(ax, fig, user, window)
+            textObj = ax.text(0, 1, user.name)
+            window.polysB.append([fig, ax])
+    else:
+        for user in window.distinct_users:
+            plot_width = 13.5/float(len(window.distinct_users))
+            fig = plt.figure(figsize = (plot_width,2.7))
+            ax = fig.add_subplot(111)
+            ax.axis("off")
+            polyB = FigureCanvasTkAgg(fig, window.polyFrameB)
+            polyB.get_tk_widget().pack(side = "left", anchor = 'nw')
+            plotPolygonPtsN(ax, fig, user, window)
+            textObj = ax.text(0, 1, user.name)
+            window.polysB.append([fig, ax])
 
-#Creates the n-1 polygon structure for the barycentric allocation
+#Creates the n polygon structure for the barycentric allocation
 def plotPolygonPts(ax, fig, plotUser, window):
     x = []
     y = []
@@ -357,6 +373,36 @@ def plotPolygonPts(ax, fig, plotUser, window):
         i += 1
     fig.canvas.draw()
 
+#Creates the n-1 polygon structure for the barycentric allocation
+def plotPolygonPtsN(ax, fig, plotUser, window):
+    x = []
+    y = []
+    n = len(window.distinct_users) - 1
+    r = 0.5 / sin(pi/n)
+    angle = (2 * pi) / n
+    for i in range(n):
+        xcoord = r * cos(i * angle)
+        x.append(xcoord)
+        ycoord = r * sin(i * angle)
+        y.append(ycoord)
+        window.polyptsB.append([xcoord, ycoord])
+    x.append(x[0])
+    y.append(y[0])
+    ax.plot(x, y, color = "black")
+    i = 0
+    for user in window.distinct_users:
+        if user != plotUser:
+            x1 = [x[i]]
+            y1 = [y[i]]
+            if plotUser is None:
+                ax.scatter(x1, y1, color = getColor(window.distinct_users, user.name))
+            elif plotUser is not None and plotUser != user:
+                ax.scatter(x1, y1, color = getColor(window.distinct_users, user.name))
+            elif plotUser is not None and plotUser == user:
+                ax.scatter(x1, y1, color = getColor(window.distinct_users, user.name), alpha = 0.5)
+            i += 1
+    fig.canvas.draw()
+
 #Allocates the vectors within the structure using their barycentric coordinates
 def barycentric(window):
     sentence = ""
@@ -374,20 +420,23 @@ def barycentric(window):
                         vector = udict["vector"]
                         break
         window.sentenceLabelB.configure(text = "Sentence: " + cuser + ": " + sentence)
-        plotPolyB(cuser, vector, window)
+        if window.transform.lower() == "s" or window.transform.lower() == "self":
+            plotPolyB(cuser, vector, window)
+        elif window.transform.lower() == "n" or window.transform.lower() == "nonself":
+            plotPolyBN(cuser, vector, window)
         window.baryIndex += 1
     else:
         messagebox.showerror(title = "Error", message= "End of Discussion reached.")
         window.resultsFile.close()
 
-#Plot the vectors within the structure constructed for barycentric allocation
+#Plot the vectors within the structure constructed for self Q space barycentric allocation
 def plotPolyB(user, cvector, window):
     hyperpara = []
     for ouser in window.user_responses:
         vector = None
         user_dict = window.user_responses[ouser]
         for id in user_dict:
-            if int(id) < window.baryIndex or int(id) == 0:
+            if int(id) <= window.baryIndex:
                 udict = user_dict[id]
                 vector = udict["vector"]
             else:
@@ -415,6 +464,68 @@ def plotPolyB(user, cvector, window):
     for i in range(len(hyperpara)):
         para = hyperpara[i] / total
         hyperpara[i] = para
+    xcoord = 0
+    ycoord = 0
+    for para1, coord in zip(hyperpara, window.polyptsB):
+        xcoord += para1 * coord[0]
+        ycoord += para1 * coord[1]
+    ax = None
+    fig = None
+    for i in range(len(window.distinct_users)):
+        users = window.distinct_users[i]
+        if users.name == user:
+            ax = window.polysB[i][1]
+            fig = window.polysB[i][0]
+            break
+    ax.scatter([xcoord], [ycoord], color = getColor(window.distinct_users, user))
+    string = str(window.baryIndex)
+    for para in hyperpara:
+        string += "," + str(para)
+    string += "," + user
+    window.resultsFile.write(string + "\n")
+    fig.canvas.draw()
+
+#Plot the vectors within the structure constructed for non-self Q space barycentric allocation
+def plotPolyBN(user, cvector, window):
+    hyperpara = []
+    for ouser in window.user_responses:
+        if ouser != user:
+            vector = None
+            user_dict = window.user_responses[ouser]
+            for id in user_dict:
+                if int(id) <= window.baryIndex:
+                    udict = user_dict[id]
+                    vector = udict["vector"]
+                else:
+                    break
+            if vector is None:
+                dist = -1
+            else:               
+                dist = ((cvector[0] - vector[0]) ** 2 + (cvector[1] - vector[1]) ** 2 + (cvector[2] - vector[2]) ** 2) ** 0.5
+            hyperpara.append(dist)
+    total = 0
+    for distance in hyperpara:
+        if distance != -1:
+            total += distance
+    for i in range(len(hyperpara)):
+        if hyperpara[i] == 0:
+            para = 2 * total + 1
+        elif hyperpara[i] == -1:
+            para = 0
+        else:
+            para = total / hyperpara[i]
+        hyperpara[i] = para
+    total = 0
+    for distance in hyperpara:
+        total += distance
+    if total == 0:
+        for i in range(len(hyperpara)):
+            para = 1 / len(hyperpara)
+            hyperpara[i] = para
+    else:
+        for i in range(len(hyperpara)):
+            para = hyperpara[i] / total
+            hyperpara[i] = para
     xcoord = 0
     ycoord = 0
     for para1, coord in zip(hyperpara, window.polyptsB):
