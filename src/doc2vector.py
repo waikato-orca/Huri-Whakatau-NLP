@@ -9,6 +9,7 @@ import numpy as np
 class VectorModel:
     def __init__(self):
         print("Vector Model: doc2vec")
+        # self.model = None
 
     #Train the model on the discussion data provided
     def train(self, sentences):

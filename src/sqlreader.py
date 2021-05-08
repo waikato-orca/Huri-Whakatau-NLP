@@ -57,6 +57,7 @@ class sqlReader:
 
     #Extracts the relevant information from the data returned by the SQL query
     def sentenceExtraction(self, data):
+        f = open("welfareA.txt",mode="w")
         sentences = []
         users = []
         sql = "(SELECT id, name FROM t_user)"
@@ -72,4 +73,6 @@ class sqlReader:
             sentences.append(sentence)
             user = names[user]
             users.append(user)
+            f.write(user + ": " + sentence + "\n")
+        f.close()
         return sentences, users

@@ -32,6 +32,9 @@ def openFile(window):
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.distinct_users = getDistinctUsers(window, window.users)
+    # i = 0
+    # for i in range(15):
+    window.initialize()
     window.vectorModel.train(window.sentences)
     window.topicModel.train(window.sentences)
     getTopicCollection(window)
@@ -57,6 +60,8 @@ def openFile(window):
     for user in window.distinct_users:
         window.resultsFile.write("," + user.name)
     window.resultsFile.write(",user\n")
+    jump(window)
+    messagebox.showerror(title = "Error", message= "End of Discussion reached.")
 
 #Displays the discussion in the given format to view the raw data
 def showDiscussion(window):
@@ -420,6 +425,7 @@ def barycentric(window):
                         vector = udict["vector"]
                         break
         window.sentenceLabelB.configure(text = "Sentence: " + cuser + ": " + sentence)
+        print(vector)
         if window.transform.lower() == "s" or window.transform.lower() == "self":
             plotPolyB(cuser, vector, window)
         elif window.transform.lower() == "n" or window.transform.lower() == "nonself":
@@ -551,5 +557,5 @@ def plotPolyBN(user, cvector, window):
 def jump(window):
     while window.baryIndex < len(window.sentences):
         barycentric(window)
-    messagebox.showerror(title = "Error", message= "End of Discussion reached.")
+    # messagebox.showerror(title = "Error", message= "End of Discussion reached.")
     window.resultsFile.close()

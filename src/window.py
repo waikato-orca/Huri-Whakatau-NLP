@@ -13,17 +13,8 @@ import matplotlib.pyplot as plt
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
     def __init__(self, root):
-        self.topicCollection = {}
-        self.polysB = []
-        self.polyptsB = []
-        self.baryIndex = 0
         self.root = root
-        self.sentimentModel = SentimentModel()
-        self.topicModel = LDAModel(self.topicCollection)
-        self.cloudModel = CloudModel()
-        self.questionModel = QuestionModel()
-        self.posTagger = PosTagger()
-        self.vectorModel = VectorModel()
+        # self.initialize()
         self.createMenu()
         self.createTabs()
         self.createFrames()
@@ -32,6 +23,18 @@ class Window:
         self.createGraphs()
         self.createButtons()
         # self.createRadioButtons()
+
+    def initialize(self):
+        self.topicCollection = {}
+        self.polysB = []
+        self.polyptsB = []
+        self.baryIndex = 0
+        self.sentimentModel = SentimentModel()
+        self.topicModel = LDAModel(self.topicCollection)
+        self.cloudModel = CloudModel()
+        self.questionModel = QuestionModel()
+        self.posTagger = PosTagger()
+        self.vectorModel = VectorModel()
 
     #Create the menu bar and add the required options
     def createMenu(self):
