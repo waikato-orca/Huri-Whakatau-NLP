@@ -8,6 +8,7 @@ from user import *
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from math import cos, pi, sin
 from tkinter import messagebox
+from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -16,6 +17,7 @@ COLORS = ["red", "blue", "green", "purple", "black", "brown", "orange", "pink"]
 
 #Opens the file with the raw data that is to be analysed
 def openFile(window):
+    SEED = 654654
     file = filedialog.askopenfilenames(initialdir="/Users/Admin/Desktop/Huri-Whakatau-NLP/data/raw", title="Select Discussion", filetypes=(("json files", "*.json"),("all files", "*.*")))
     window.reader = sqlReader("root", "123456789", "jr_slack")
     if len(file) == 1:
@@ -32,36 +34,37 @@ def openFile(window):
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.distinct_users = getDistinctUsers(window, window.users)
-    # i = 0
-    # for i in range(15):
-    window.initialize()
-    window.vectorModel.train(window.sentences)
-    window.topicModel.train(window.sentences)
-    getTopicCollection(window)
-    window.user_responses = window.vectorModel.infer(window.users, window.sentences, window.topicModel, window)
-    window.discussion_listbox.delete(0, END)
-    for child in window.legendFrame.winfo_children():
-        child.destroy()
-    for child in window.legendFrameB.winfo_children():
-        child.destroy()
-    populateLegend(window, window.legendFrame, "top")
-    populateLegend(window, window.legendFrameB, "left")
-    for child in window.polyFrameB.winfo_children():
-        child.destroy()
-    window.baryIndex = 0
-    window.transform = simpledialog.askstring(title = "Barycentric Transformation", prompt = "Choose the barycentric transformation variant: Self(S) or Nonself(N)", parent = window.root)
-    if window.transform.lower() == "s" or window.transform.lower() == "self":
-        createBaryPlots(window, "self")
-    elif window.transform.lower() == "n" or window.transform.lower() == "nonself":
-        createBaryPlots(window, "nonself")
-    showDiscussion(window)
-    window.resultsFile = open("results.csv", "a+")
-    window.resultsFile.write(window.dirname)
-    for user in window.distinct_users:
-        window.resultsFile.write("," + user.name)
-    window.resultsFile.write(",user\n")
-    jump(window)
-    messagebox.showerror(title = "Error", message= "End of Discussion reached.")
+    i = 0
+    for i in range(1):
+        SEED += 1
+        window.initialize(SEED)
+        window.vectorModel.train(window.sentences)
+        window.topicModel.train(window.sentences)
+        getTopicCollection(window)
+        window.user_responses = window.vectorModel.infer(window.users, window.sentences, window.topicModel, window)
+        window.discussion_listbox.delete(0, END)
+        for child in window.legendFrame.winfo_children():
+            child.destroy()
+        for child in window.legendFrameB.winfo_children():
+            child.destroy()
+        populateLegend(window, window.legendFrame, "top")
+        populateLegend(window, window.legendFrameB, "left")
+        for child in window.polyFrameB.winfo_children():
+            child.destroy()
+        window.baryIndex = 0
+        window.transform = simpledialog.askstring(title = "Barycentric Transformation", prompt = "Choose the barycentric transformation variant: Self(S) or Nonself(N)", parent = window.root)
+        if window.transform.lower() == "s" or window.transform.lower() == "self":
+            createBaryPlots(window, "self")
+        elif window.transform.lower() == "n" or window.transform.lower() == "nonself":
+            createBaryPlots(window, "nonself")
+        showDiscussion(window)
+        window.resultsFile = open("results.csv", "a+")
+        window.resultsFile.write(window.dirname)
+        for user in window.distinct_users:
+            window.resultsFile.write("," + user.name)
+        window.resultsFile.write(",user\n")
+        # jump(window)
+    # messagebox.showerror(title = "Error", message= "End of Discussion reached.")
 
 #Displays the discussion in the given format to view the raw data
 def showDiscussion(window):
@@ -102,6 +105,14 @@ def plot2D(window, user, sentence, event, selection):
         x.append(index)
         if plotSelection == "Sentiment":
             y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+            # if sentimentScore["compound"] != 0:
+            #     y.append(sentimentScore["compound"])
+            # elif sentimentScore["pos"] != 0:
+            #     y.append(sentimentScore["pos"])
+            # elif sentimentScore["neg"] != 0:
+            #     y.append(sentimentScore["neg"])
+            # else:
+            #     y.append(0.0)
             ax.set_ylim(-2, 2)
         elif plotSelection == "Topic":
             y.append(topic)
@@ -135,6 +146,14 @@ def plot2D(window, user, sentence, event, selection):
                     if plotSelection == "Sentiment":
                         x.append(index)
                         y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+                        # if sentimentScore["compound"] != 0:
+                        #     y.append(sentimentScore["compound"])
+                        # elif sentimentScore["pos"] != 0:
+                        #     y.append(sentimentScore["pos"])
+                        # elif sentimentScore["neg"] != 0:
+                        #     y.append(sentimentScore["neg"])
+                        # else:
+                        #     y.append(0.0)
                         ax.set_ylim(-2, 2)
                     elif plotSelection == "Topic":
                         x.append(index)
@@ -215,6 +234,14 @@ def plot3D(window, user, sentence, event, selection):
         x.append(index)
         if plotSelectionY == "Sentiment":
             y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+            # if sentimentScore["compound"] != 0:
+            #     y.append(sentimentScore["compound"])
+            # elif sentimentScore["pos"] != 0:
+            #     y.append(sentimentScore["pos"])
+            # elif sentimentScore["neg"] != 0:
+            #     y.append(sentimentScore["neg"])
+            # else:
+            #     y.append(0.0)
             ax.set_ylim(-2, 2)
         elif plotSelectionY == "Topic":
             y.append(topic)
@@ -233,6 +260,14 @@ def plot3D(window, user, sentence, event, selection):
             ax.set_ylim(-0.5, 1.5)
         if plotSelectionZ == "Sentiment":
             z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+            # if sentimentScore["compound"] != 0:
+            #     z.append(sentimentScore["compound"])
+            # elif sentimentScore["pos"] != 0:
+            #     z.append(sentimentScore["pos"])
+            # elif sentimentScore["neg"] != 0:
+            #     z.append(sentimentScore["neg"])
+            # else:
+            #     z.append(0.0)
             ax.set_zlim(-2, 2)
         elif plotSelectionZ == "Topic":
             z.append(topic)
@@ -268,6 +303,14 @@ def plot3D(window, user, sentence, event, selection):
                     if plotSelectionY == "Sentiment":
                         x.append(index)
                         y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+                        # if sentimentScore["compound"] != 0:
+                        #     y.append(sentimentScore["compound"])
+                        # elif sentimentScore["pos"] != 0:
+                        #     y.append(sentimentScore["pos"])
+                        # elif sentimentScore["neg"] != 0:
+                        #     y.append(sentimentScore["neg"])
+                        # else:
+                        #     y.append(0.0)
                         ax.set_ylim(-2, 2)
                     elif plotSelectionY == "Topic":
                         x.append(index)
@@ -287,6 +330,14 @@ def plot3D(window, user, sentence, event, selection):
                         ax.set_ylim(-1, 30)
                     if plotSelectionZ == "Sentiment":
                         z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
+                        # if sentimentScore["compound"] != 0:
+                        #     z.append(sentimentScore["compound"])
+                        # elif sentimentScore["pos"] != 0:
+                        #     z.append(sentimentScore["pos"])
+                        # elif sentimentScore["neg"] != 0:
+                        #     z.append(sentimentScore["neg"])
+                        # else:
+                        #     z.append(0.0)
                         ax.set_zlim(-2, 2)
                     elif plotSelectionZ == "Topic":
                         z.append(topic)
@@ -483,13 +534,67 @@ def plotPolyB(user, cvector, window):
             ax = window.polysB[i][1]
             fig = window.polysB[i][0]
             break
-    ax.scatter([xcoord], [ycoord], color = getColor(window.distinct_users, user))
+    ax.scatter([xcoord], [ycoord], color = getColor(window.distinct_users, user), alpha = window.baryIndex/len(window.sentences))
     string = str(window.baryIndex)
     for para in hyperpara:
         string += "," + str(para)
     string += "," + user
     window.resultsFile.write(string + "\n")
     fig.canvas.draw()
+
+#Plot the vectors within the structure constructed for self Q space barycentric allocation
+# def plotPolyB(user, cvector, window):
+#     cvector = np.array(cvector)
+#     cvector = np.reshape(cvector, (1, -1))
+#     hyperpara = []
+#     for ouser in window.user_responses:
+#         vector = None
+#         user_dict = window.user_responses[ouser]
+#         for id in user_dict:
+#             if int(id) <= window.baryIndex:
+#                 udict = user_dict[id]
+#                 prevSent = udict["sentence"]
+#                 vector = udict["vector"]
+#             else:
+#                 break
+#         if vector is None:
+#             dist = -1
+#         else:
+#             vector = np.array(vector)
+#             vector = np.reshape(vector, (1, -1))              
+#             dist = cosine_similarity(vector, cvector)[0][0]
+#             dist = abs(dist)
+#         hyperpara.append(dist)
+#     total = 0
+#     for distance in hyperpara:
+#         if distance != -1:
+#             total += distance
+#     for i in range(len(hyperpara)):
+#         if hyperpara[i] == -1:
+#             para = 0
+#         else:
+#             para = hyperpara[i] / total
+#         hyperpara[i] = para
+#     xcoord = 0
+#     ycoord = 0
+#     for para1, coord in zip(hyperpara, window.polyptsB):
+#         xcoord += para1 * coord[0]
+#         ycoord += para1 * coord[1]
+#     ax = None
+#     fig = None
+#     for i in range(len(window.distinct_users)):
+#         users = window.distinct_users[i]
+#         if users.name == user:
+#             ax = window.polysB[i][1]
+#             fig = window.polysB[i][0]
+#             break
+#     ax.scatter([xcoord], [ycoord], color = getColor(window.distinct_users, user))
+#     string = str(window.baryIndex)
+#     for para in hyperpara:
+#         string += "," + str(para)
+#     string += "," + user
+#     window.resultsFile.write(string + "\n")
+#     fig.canvas.draw()
 
 #Plot the vectors within the structure constructed for non-self Q space barycentric allocation
 def plotPolyBN(user, cvector, window):
@@ -553,9 +658,68 @@ def plotPolyBN(user, cvector, window):
     window.resultsFile.write(string + "\n")
     fig.canvas.draw()
 
+# #Plot the vectors within the structure constructed for non-self Q space barycentric allocation
+# def plotPolyBN(user, cvector, window):
+#     cvector = np.array(cvector)
+#     cvector = np.reshape(cvector, (1, -1))
+#     hyperpara = []
+#     for ouser in window.user_responses:
+#         if ouser != user:
+#             vector = None
+#             user_dict = window.user_responses[ouser]
+#             for id in user_dict:
+#                 if int(id) <= window.baryIndex:
+#                     udict = user_dict[id]
+#                     vector = udict["vector"]
+#                 else:
+#                     break
+#             if vector is None:
+#                 dist = -1
+#             else:               
+#                 vector = np.array(vector)
+#                 vector = np.reshape(vector, (1, -1))              
+#                 dist = cosine_similarity(vector, cvector)[0][0]
+#                 dist = abs(dist)
+#             hyperpara.append(dist)
+#     total = 0
+#     for distance in hyperpara:
+#         if distance != -1:
+#             total += distance
+#     if total == 0:
+#         for i in range(len(hyperpara)):
+#             para = 1 / len(hyperpara)
+#             hyperpara[i] = para
+#     else:
+#         for i in range(len(hyperpara)):
+#             if hyperpara[i] == -1:
+#                 para = 0
+#             else:
+#                 para = hyperpara[i] / total
+#             hyperpara[i] = para
+#     xcoord = 0
+#     ycoord = 0
+#     for para1, coord in zip(hyperpara, window.polyptsB):
+#         xcoord += para1 * coord[0]
+#         ycoord += para1 * coord[1]
+#     ax = None
+#     fig = None
+#     for i in range(len(window.distinct_users)):
+#         users = window.distinct_users[i]
+#         if users.name == user:
+#             ax = window.polysB[i][1]
+#             fig = window.polysB[i][0]
+#             break
+#     ax.scatter([xcoord], [ycoord], color = getColor(window.distinct_users, user))
+#     string = str(window.baryIndex)
+#     for para in hyperpara:
+#         string += "," + str(para)
+#     string += "," + user
+#     window.resultsFile.write(string + "\n")
+#     fig.canvas.draw()
+
 #Jump to the end of the discussion and observe the results at the end
 def jump(window):
     while window.baryIndex < len(window.sentences):
         barycentric(window)
-    # messagebox.showerror(title = "Error", message= "End of Discussion reached.")
+    messagebox.showerror(title = "Error", message= "End of Discussion reached.")
     window.resultsFile.close()

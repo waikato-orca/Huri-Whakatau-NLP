@@ -7,8 +7,9 @@ import numpy as np
 
 ##Doc2Vec model that will be used for inferring vectors
 class VectorModel:
-    def __init__(self):
+    def __init__(self, seed):
         print("Vector Model: doc2vec")
+        self.seed = seed
         # self.model = None
 
     #Train the model on the discussion data provided
@@ -20,7 +21,7 @@ class VectorModel:
         stoplist = set(stopwords.words('english'))
         texts = [[word for word in document.lower().split()] for document in self.corpus]
         texts = [TaggedDocument(doc, [i]) for i, doc in enumerate(texts)]
-        self.model = Doc2Vec(texts, vector_size = 3, window = 2, min_count = 1, workers = 4, epochs = 100)
+        self.model = Doc2Vec(texts, vector_size = 3, window = 2, min_count = 1, workers = 4, epochs = 100, seed = self.seed)
 
     #Infer a vector for the provided sentence
     def infer(self, users, sentences, topicModel, window):

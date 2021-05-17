@@ -24,7 +24,7 @@ class Window:
         self.createButtons()
         # self.createRadioButtons()
 
-    def initialize(self):
+    def initialize(self, seed):
         self.topicCollection = {}
         self.polysB = []
         self.polyptsB = []
@@ -34,7 +34,7 @@ class Window:
         self.cloudModel = CloudModel()
         self.questionModel = QuestionModel()
         self.posTagger = PosTagger()
-        self.vectorModel = VectorModel()
+        self.vectorModel = VectorModel(seed)
 
     #Create the menu bar and add the required options
     def createMenu(self):
@@ -139,11 +139,17 @@ class Window:
     def createLabels(self):
         self.polarityLabel = Label(self.sentimentFrame, text = "Polarity: ", width = 30, anchor = W, justify = LEFT)
         self.subjectivityLabel = Label(self.sentimentFrame, text = "Subjectivity: ", width = 30, anchor = W, justify = LEFT)
+        # self.posLabel = Label(self.sentimentFrame, text = "Positive: ", width = 30, anchor = W, justify = LEFT)
+        # self.negLabel = Label(self.sentimentFrame, text = "Negative: ", width = 30, anchor = W, justify = LEFT)
+        # self.compoundLabel = Label(self.sentimentFrame, text = "Compound: ", width = 30, anchor = W, justify = LEFT)   
         self.topicLabel = Label(self.topicFrame, text = "Topic: ", width = 30, anchor = W, justify = LEFT)
         self.termsLabel = Label(self.topicFrame, text = "Terms: ", width = 30, anchor = W, justify = LEFT)
 
         self.polarityLabel.pack(padx = 5, pady = 5)
         self.subjectivityLabel.pack(padx = 5, pady = 5)
+        # self.posLabel.pack(padx = 5, pady = 5)
+        # self.negLabel.pack(padx = 5, pady = 5)
+        # self.compoundLabel.pack(padx = 5, pady = 5)
         self.topicLabel.pack(padx = 5, pady = 5)
         self.termsLabel.pack(padx = 5, pady = 5)
 
@@ -216,6 +222,9 @@ class Window:
             terms = self.topicModel.showTerms(topic)
             self.polarityLabel.configure(text = "Polarity: " + str(sentimentScore.polarity))
             self.subjectivityLabel.configure(text = "Subjectivity: " + str(sentimentScore.subjectivity))
+            # self.posLabel.configure(text = "Positive: " + str(sentimentScore["pos"]))
+            # self.negLabel.configure(text = "Negative: " + str(sentimentScore["neg"]))
+            # self.compoundLabel.configure(text = "Compound: " + str(sentimentScore["compound"]))
             self.topicLabel.configure(text = "Topic: " + topic)
             self.termsLabel.configure(text = "Terms: " + terms)
             if len(selection) == 1:
