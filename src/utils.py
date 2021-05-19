@@ -116,7 +116,7 @@ def plot2D(window, user, sentence, event, selection):
             ax.set_ylim(-2, 2)
         elif plotSelection == "Topic":
             y.append(topic)
-            ax.set_ylim(-1,15)
+            ax.set_ylim(-1,4)
         elif plotSelection == "Questions":
             if window.questionModel.isQuestion(sentence):
                 y.append(1)
@@ -158,7 +158,7 @@ def plot2D(window, user, sentence, event, selection):
                     elif plotSelection == "Topic":
                         x.append(index)
                         y.append(topic)
-                        ax.set_ylim(-1, 15)
+                        ax.set_ylim(-1, 4)
                     elif plotSelection == "Questions":
                         x.append(index)
                         if window.questionModel.isQuestion(sentence):
@@ -245,7 +245,7 @@ def plot3D(window, user, sentence, event, selection):
             ax.set_ylim(-2, 2)
         elif plotSelectionY == "Topic":
             y.append(topic)
-            ax.set_ylim(-1,15)
+            ax.set_ylim(-1,4)
         elif plotSelectionY == "Questions":
             if window.questionModel.isQuestion(sentence):
                 y.append(1)
@@ -271,7 +271,7 @@ def plot3D(window, user, sentence, event, selection):
             ax.set_zlim(-2, 2)
         elif plotSelectionZ == "Topic":
             z.append(topic)
-            ax.set_zlim(-1,15)
+            ax.set_zlim(-1,4)
         elif plotSelectionZ == "Questions":
             if window.questionModel.isQuestion(sentence):
                 z.append(1)
@@ -315,7 +315,7 @@ def plot3D(window, user, sentence, event, selection):
                     elif plotSelectionY == "Topic":
                         x.append(index)
                         y.append(topic)
-                        ax.set_ylim(-1, 15)
+                        ax.set_ylim(-1, 4)
                     elif plotSelectionY == "Questions":
                         x.append(index)
                         if window.questionModel.isQuestion(sentence):
@@ -341,7 +341,7 @@ def plot3D(window, user, sentence, event, selection):
                         ax.set_zlim(-2, 2)
                     elif plotSelectionZ == "Topic":
                         z.append(topic)
-                        ax.set_zlim(-1,15)
+                        ax.set_zlim(-1,4)
                     elif plotSelectionZ == "Questions":
                         if window.questionModel.isQuestion(sentence):
                             duser.questionCount += 1

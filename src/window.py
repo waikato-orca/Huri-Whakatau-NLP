@@ -3,7 +3,7 @@ from tkinter import ttk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from utils import *
 from sentiment import *
-from lda import *
+from topic import *
 from cloud import *
 from question import *
 from pos import *
@@ -30,7 +30,7 @@ class Window:
         self.polyptsB = []
         self.baryIndex = 0
         self.sentimentModel = SentimentModel()
-        self.topicModel = LDAModel(self.topicCollection)
+        self.topicModel = TopicModel(self.topicCollection)
         self.cloudModel = CloudModel()
         self.questionModel = QuestionModel()
         self.posTagger = PosTagger()
