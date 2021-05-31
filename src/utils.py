@@ -13,11 +13,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #List of colors to assign to the users
-COLORS = ["red", "blue", "green", "purple", "black", "brown", "orange", "pink"]
+COLORS = ["red", "blue", "green", "purple", "black", "orange", "pink", "brown"]
 
 #Opens the file with the raw data that is to be analysed
 def openFile(window):
-    SEED = 654654
     file = filedialog.askopenfilenames(initialdir="/Users/Admin/Desktop/Huri-Whakatau-NLP/data/raw", title="Select Discussion", filetypes=(("json files", "*.json"),("all files", "*.*")))
     window.reader = sqlReader("root", "123456789", "jr_slack")
     if len(file) == 1:
@@ -34,37 +33,31 @@ def openFile(window):
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.distinct_users = getDistinctUsers(window, window.users)
-    i = 0
-    for i in range(1):
-        SEED += 1
-        window.initialize(SEED)
-        window.vectorModel.train(window.sentences)
-        window.topicModel.train(window.sentences)
-        getTopicCollection(window)
-        window.user_responses = window.vectorModel.infer(window.users, window.sentences, window.topicModel, window)
-        window.discussion_listbox.delete(0, END)
-        for child in window.legendFrame.winfo_children():
-            child.destroy()
-        for child in window.legendFrameB.winfo_children():
-            child.destroy()
-        populateLegend(window, window.legendFrame, "top")
-        populateLegend(window, window.legendFrameB, "left")
-        for child in window.polyFrameB.winfo_children():
-            child.destroy()
-        window.baryIndex = 0
-        window.transform = simpledialog.askstring(title = "Barycentric Transformation", prompt = "Choose the barycentric transformation variant: Self(S) or Nonself(N)", parent = window.root)
-        if window.transform.lower() == "s" or window.transform.lower() == "self":
-            createBaryPlots(window, "self")
-        elif window.transform.lower() == "n" or window.transform.lower() == "nonself":
-            createBaryPlots(window, "nonself")
-        showDiscussion(window)
-        window.resultsFile = open("results.csv", "a+")
-        window.resultsFile.write(window.dirname)
-        for user in window.distinct_users:
-            window.resultsFile.write("," + user.name)
-        window.resultsFile.write(",user\n")
-        # jump(window)
-    # messagebox.showerror(title = "Error", message= "End of Discussion reached.")
+    window.vectorModel.train(window.sentences)
+    window.topicModel.train(window.sentences)
+    getTopicCollection(window)
+    window.user_responses = window.vectorModel.infer(window.users, window.sentences, window.topicModel, window)
+    window.discussion_listbox.delete(0, END)
+    for child in window.legendFrame.winfo_children():
+        child.destroy()
+    for child in window.legendFrameB.winfo_children():
+        child.destroy()
+    populateLegend(window, window.legendFrame, "top")
+    populateLegend(window, window.legendFrameB, "left")
+    for child in window.polyFrameB.winfo_children():
+        child.destroy()
+    window.baryIndex = 0
+    window.transform = simpledialog.askstring(title = "Barycentric Transformation", prompt = "Choose the barycentric transformation variant: Self(S) or Nonself(N)", parent = window.root)
+    if window.transform.lower() == "s" or window.transform.lower() == "self":
+        createBaryPlots(window, "self")
+    elif window.transform.lower() == "n" or window.transform.lower() == "nonself":
+        createBaryPlots(window, "nonself")
+    showDiscussion(window)
+    window.resultsFile = open("results.csv", "a+")
+    window.resultsFile.write(window.dirname)
+    for user in window.distinct_users:
+        window.resultsFile.write("," + user.name)
+    window.resultsFile.write(",user\n")
 
 #Displays the discussion in the given format to view the raw data
 def showDiscussion(window):
@@ -102,33 +95,46 @@ def plot2D(window, user, sentence, event, selection):
     if len(selection) == 1:
         x = []
         y = []
-        x.append(index)
         if plotSelection == "Sentiment":
-            y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
-            # if sentimentScore["compound"] != 0:
-            #     y.append(sentimentScore["compound"])
-            # elif sentimentScore["pos"] != 0:
-            #     y.append(sentimentScore["pos"])
-            # elif sentimentScore["neg"] != 0:
-            #     y.append(sentimentScore["neg"])
-            # else:
-            #     y.append(0.0)
+            x.append(index)
+            if window.sentimentModel.model == "vader":
+                if sentimentScore["compound"] != 0:
+                    y.append(sentimentScore["compound"])
+                elif sentimentScore["pos"] != 0:
+                    y.append(sentimentScore["pos"])
+                elif sentimentScore["neg"] != 0:
+                    y.append(sentimentScore["neg"])
+                else:
+                    y.append(0.0)
+            else:
+                y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
             ax.set_ylim(-2, 2)
         elif plotSelection == "Topic":
+            x.append(index)
             y.append(topic)
-            ax.set_ylim(-1,4)
+            ax.set_ylim(-1,3)
         elif plotSelection == "Questions":
+            x.append(index)
             if window.questionModel.isQuestion(sentence):
                 y.append(1)
             else:
                 y.append(0)
             ax.set_ylim(-0.5, 1.5)
         elif plotSelection == "Personal":
+            x.append(index)
             if window.posTagger.isPersonal(sentence):
                 y.append(1)
             else:
                 y.append(0)
             ax.set_ylim(-0.5, 1.5)
+        elif plotSelection == "Turns":
+            x.append(index)
+            y.append(1)
+            ax.set_ylim(-0.5, 1.5)
+        elif plotSelection == "Words":
+            x.append(index)
+            y.append(len(simple_preprocess(sentence)))
+            ax.set_ylim(-0.5, 60)
         ax.scatter(x, y, label = user, color = getColor(window.distinct_users, user))
     else:
         resetCounts(window.distinct_users)
@@ -138,39 +144,61 @@ def plot2D(window, user, sentence, event, selection):
             for i in range(len(selection)):
                 index = selection[i]
                 data = window.discussion_listbox.get(index)
-                sentence = data.split(": ")[-1]
+                if len(data.split(': ')) > 2:
+                    sentence = ""
+                    temp = data.split(': ')[1:]
+                    for sent in temp:
+                        sentence += sent + " "
+                else:
+                    sentence = data.split(': ')[-1]
                 user = data.split(": ")[0]
                 sentimentScore = window.sentimentModel.score(sentence)
                 topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
                 if user == duser.name:
                     if plotSelection == "Sentiment":
                         x.append(index)
-                        y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
-                        # if sentimentScore["compound"] != 0:
-                        #     y.append(sentimentScore["compound"])
-                        # elif sentimentScore["pos"] != 0:
-                        #     y.append(sentimentScore["pos"])
-                        # elif sentimentScore["neg"] != 0:
-                        #     y.append(sentimentScore["neg"])
-                        # else:
-                        #     y.append(0.0)
+                        if window.sentimentModel.model == "vader":
+                            if sentimentScore["compound"] != 0:
+                                y.append(sentimentScore["compound"])
+                            elif sentimentScore["pos"] != 0:
+                                y.append(sentimentScore["pos"])
+                            elif sentimentScore["neg"] != 0:
+                                y.append(sentimentScore["neg"])
+                            else:
+                                y.append(0.0)
+                        else:
+                            y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
                         ax.set_ylim(-2, 2)
                     elif plotSelection == "Topic":
                         x.append(index)
                         y.append(topic)
-                        ax.set_ylim(-1, 4)
+                        ax.set_ylim(-1, 3)
                     elif plotSelection == "Questions":
                         x.append(index)
                         if window.questionModel.isQuestion(sentence):
                             duser.questionCount += 1
                         y.append(duser.questionCount)
+                        print(duser.name + " " + str(duser.questionCount))
                         ax.set_ylim(-1, 15)
                     elif plotSelection == "Personal":
                         x.append(index)
                         if window.posTagger.isPersonal(sentence):
                             duser.pronounCount += 1
                         y.append(duser.pronounCount)
+                        print(duser.name + " " + str(duser.pronounCount))
                         ax.set_ylim(-1, 30)
+                    elif plotSelection == "Turns":
+                        x.append(index)
+                        duser.turnCount += 1
+                        y.append(duser.turnCount)
+                        print(duser.name + " " + str(duser.turnCount))
+                        ax.set_ylim(-0.5, 50)
+                    elif plotSelection == "Words":
+                        x.append(index)
+                        duser.wordCount += len(simple_preprocess(sentence))
+                        y.append(duser.wordCount)
+                        print(duser.name + " " + str(duser.wordCount))
+                        ax.set_ylim(-0.5, 300)
             if len(x) == 1:
                 ax.scatter(x, y, label = duser.name, color = getColor(window.distinct_users, duser.name))
             else:
@@ -233,19 +261,21 @@ def plot3D(window, user, sentence, event, selection):
         z = []
         x.append(index)
         if plotSelectionY == "Sentiment":
-            y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
-            # if sentimentScore["compound"] != 0:
-            #     y.append(sentimentScore["compound"])
-            # elif sentimentScore["pos"] != 0:
-            #     y.append(sentimentScore["pos"])
-            # elif sentimentScore["neg"] != 0:
-            #     y.append(sentimentScore["neg"])
-            # else:
-            #     y.append(0.0)
+            if window.sentimentModel.model == "vader":
+                if sentimentScore["compound"] != 0:
+                    y.append(sentimentScore["compound"])
+                elif sentimentScore["pos"] != 0:
+                    y.append(sentimentScore["pos"])
+                elif sentimentScore["neg"] != 0:
+                    y.append(sentimentScore["neg"])
+                else:
+                    y.append(0.0)
+            else:
+                y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
             ax.set_ylim(-2, 2)
         elif plotSelectionY == "Topic":
             y.append(topic)
-            ax.set_ylim(-1,4)
+            ax.set_ylim(-1,7)
         elif plotSelectionY == "Questions":
             if window.questionModel.isQuestion(sentence):
                 y.append(1)
@@ -258,20 +288,30 @@ def plot3D(window, user, sentence, event, selection):
             else:
                 y.append(0)
             ax.set_ylim(-0.5, 1.5)
+        elif plotSelectionY == "Turns":
+            x.append(index)
+            y.append(1)
+            ax.set_ylim(-0.5, 1.5)
+        elif plotSelectionY == "Words":
+            x.append(index)
+            y.append(len(simple_preprocess(sentence)))
+            ax.set_ylim(-0.5, 60)
         if plotSelectionZ == "Sentiment":
-            z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
-            # if sentimentScore["compound"] != 0:
-            #     z.append(sentimentScore["compound"])
-            # elif sentimentScore["pos"] != 0:
-            #     z.append(sentimentScore["pos"])
-            # elif sentimentScore["neg"] != 0:
-            #     z.append(sentimentScore["neg"])
-            # else:
-            #     z.append(0.0)
+            if window.sentimentModel.model == "vader":
+                if sentimentScore["compound"] != 0:
+                    z.append(sentimentScore["compound"])
+                elif sentimentScore["pos"] != 0:
+                    z.append(sentimentScore["pos"])
+                elif sentimentScore["neg"] != 0:
+                    z.append(sentimentScore["neg"])
+                else:
+                    z.append(0.0)
+            else:
+                z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
             ax.set_zlim(-2, 2)
         elif plotSelectionZ == "Topic":
             z.append(topic)
-            ax.set_zlim(-1,4)
+            ax.set_zlim(-1,7)
         elif plotSelectionZ == "Questions":
             if window.questionModel.isQuestion(sentence):
                 z.append(1)
@@ -284,6 +324,14 @@ def plot3D(window, user, sentence, event, selection):
             else:
                 z.append(0)
             ax.set_zlim(-0.5, 1.5)
+        elif plotSelectionZ == "Turns":
+            x.append(index)
+            z.append(1)
+            ax.set_zlim(-0.5, 1.5)
+        elif plotSelectionZ == "Words":
+            x.append(index)
+            z.append(len(simple_preprocess(sentence)))
+            ax.set_zlim(-0.5, 60)
         z = np.array([z, z])
         ax.scatter3D(x, y, z, label = user, color = getColor(window.distinct_users, user))
     else:
@@ -295,27 +343,35 @@ def plot3D(window, user, sentence, event, selection):
             for i in range(len(selection)):
                 index = selection[i]
                 data = window.discussion_listbox.get(index)
-                sentence = data.split(": ")[-1]
+                if len(data.split(': ')) > 2:
+                    sentence = ""
+                    temp = data.split(': ')[1:]
+                    for sent in temp:
+                        sentence += sent + " "
+                else:
+                    sentence = data.split(': ')[-1]
                 user = data.split(": ")[0]
                 sentimentScore = window.sentimentModel.score(sentence)
                 topic = window.topicCollection[window.topicModel.classify(sentence)]["index"]
                 if user == duser.name:
                     if plotSelectionY == "Sentiment":
                         x.append(index)
-                        y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
-                        # if sentimentScore["compound"] != 0:
-                        #     y.append(sentimentScore["compound"])
-                        # elif sentimentScore["pos"] != 0:
-                        #     y.append(sentimentScore["pos"])
-                        # elif sentimentScore["neg"] != 0:
-                        #     y.append(sentimentScore["neg"])
-                        # else:
-                        #     y.append(0.0)
+                        if window.sentimentModel.model == "vader":
+                            if sentimentScore["compound"] != 0:
+                                y.append(sentimentScore["compound"])
+                            elif sentimentScore["pos"] != 0:
+                                y.append(sentimentScore["pos"])
+                            elif sentimentScore["neg"] != 0:
+                                y.append(sentimentScore["neg"])
+                            else:
+                                y.append(0.0)
+                        else:
+                            y.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
                         ax.set_ylim(-2, 2)
                     elif plotSelectionY == "Topic":
                         x.append(index)
                         y.append(topic)
-                        ax.set_ylim(-1, 4)
+                        ax.set_ylim(-1, 7)
                     elif plotSelectionY == "Questions":
                         x.append(index)
                         if window.questionModel.isQuestion(sentence):
@@ -328,20 +384,32 @@ def plot3D(window, user, sentence, event, selection):
                             duser.pronounCount += 1
                         y.append(duser.pronounCount)
                         ax.set_ylim(-1, 30)
+                    elif plotSelectionY == "Turns":
+                        x.append(index)
+                        duser.turnCount += 1
+                        y.append(duser.turnCount)
+                        ax.set_ylim(-0.5, 50)
+                    elif plotSelectionY == "Words":
+                        x.append(index)
+                        duser.wordCount += len(simple_preprocess(sentence))
+                        y.append(duser.wordCount)
+                        ax.set_ylim(-0.5, 300)
                     if plotSelectionZ == "Sentiment":
-                        z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
-                        # if sentimentScore["compound"] != 0:
-                        #     z.append(sentimentScore["compound"])
-                        # elif sentimentScore["pos"] != 0:
-                        #     z.append(sentimentScore["pos"])
-                        # elif sentimentScore["neg"] != 0:
-                        #     z.append(sentimentScore["neg"])
-                        # else:
-                        #     z.append(0.0)
+                        if window.sentimentModel.model == "vader":
+                            if sentimentScore["compound"] != 0:
+                                z.append(sentimentScore["compound"])
+                            elif sentimentScore["pos"] != 0:
+                                z.append(sentimentScore["pos"])
+                            elif sentimentScore["neg"] != 0:
+                                z.append(sentimentScore["neg"])
+                            else:
+                                z.append(0.0)
+                        else:
+                            z.append(sentimentScore.polarity + (0.5 * sentimentScore.subjectivity))
                         ax.set_zlim(-2, 2)
                     elif plotSelectionZ == "Topic":
                         z.append(topic)
-                        ax.set_zlim(-1,4)
+                        ax.set_zlim(-1,7)
                     elif plotSelectionZ == "Questions":
                         if window.questionModel.isQuestion(sentence):
                             duser.questionCount += 1
@@ -352,6 +420,16 @@ def plot3D(window, user, sentence, event, selection):
                             duser.pronounCount += 1
                         z.append(duser.pronounCount)
                         ax.set_zlim(-1, 30)
+                    elif plotSelectionY == "Turns":
+                        x.append(index)
+                        duser.turnCount += 1
+                        z.append(duser.turnCount)
+                        ax.set_zlim(-0.5, 50)
+                    elif plotSelectionZ == "Words":
+                        x.append(index)
+                        duser.wordCount += len(simple_preprocess(sentence))
+                        z.append(duser.wordCount)
+                        ax.set_zlim(-0.5, 300)
             z = np.array([z, z])
             if len(x) == 1:
                 ax.scatter3D(x, y, z, label = duser.name, color = getColor(window.distinct_users, duser.name))
@@ -476,7 +554,6 @@ def barycentric(window):
                         vector = udict["vector"]
                         break
         window.sentenceLabelB.configure(text = "Sentence: " + cuser + ": " + sentence)
-        print(vector)
         if window.transform.lower() == "s" or window.transform.lower() == "self":
             plotPolyB(cuser, vector, window)
         elif window.transform.lower() == "n" or window.transform.lower() == "nonself":

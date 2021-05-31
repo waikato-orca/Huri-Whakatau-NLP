@@ -14,7 +14,8 @@ import matplotlib.pyplot as plt
 class Window:
     def __init__(self, root):
         self.root = root
-        # self.initialize()
+        SEED = 654654
+        self.initialize(SEED)
         self.createMenu()
         self.createTabs()
         self.createFrames()
@@ -29,8 +30,8 @@ class Window:
         self.polysB = []
         self.polyptsB = []
         self.baryIndex = 0
-        self.sentimentModel = SentimentModel()
-        self.topicModel = TopicModel(self.topicCollection)
+        self.sentimentModel = SentimentModel("vader")
+        self.topicModel = TopicModel(self.topicCollection, "lda")
         self.cloudModel = CloudModel()
         self.questionModel = QuestionModel()
         self.posTagger = PosTagger()
@@ -137,19 +138,25 @@ class Window:
 
     #Creates all the required labels for the window
     def createLabels(self):
-        self.polarityLabel = Label(self.sentimentFrame, text = "Polarity: ", width = 30, anchor = W, justify = LEFT)
-        self.subjectivityLabel = Label(self.sentimentFrame, text = "Subjectivity: ", width = 30, anchor = W, justify = LEFT)
-        # self.posLabel = Label(self.sentimentFrame, text = "Positive: ", width = 30, anchor = W, justify = LEFT)
-        # self.negLabel = Label(self.sentimentFrame, text = "Negative: ", width = 30, anchor = W, justify = LEFT)
-        # self.compoundLabel = Label(self.sentimentFrame, text = "Compound: ", width = 30, anchor = W, justify = LEFT)   
+        if self.sentimentModel.model == "vader":
+            self.posLabel = Label(self.sentimentFrame, text = "Positive: ", width = 30, anchor = W, justify = LEFT)
+            self.negLabel = Label(self.sentimentFrame, text = "Negative: ", width = 30, anchor = W, justify = LEFT)
+            self.neutLabel = Label(self.sentimentFrame, text = "Neutral: ", width = 30, anchor = W, justify = LEFT)
+            self.compoundLabel = Label(self.sentimentFrame, text = "Compound: ", width = 30, anchor = W, justify = LEFT)   
+        else:
+            self.polarityLabel = Label(self.sentimentFrame, text = "Polarity: ", width = 30, anchor = W, justify = LEFT)
+            self.subjectivityLabel = Label(self.sentimentFrame, text = "Subjectivity: ", width = 30, anchor = W, justify = LEFT)
         self.topicLabel = Label(self.topicFrame, text = "Topic: ", width = 30, anchor = W, justify = LEFT)
         self.termsLabel = Label(self.topicFrame, text = "Terms: ", width = 30, anchor = W, justify = LEFT)
 
-        self.polarityLabel.pack(padx = 5, pady = 5)
-        self.subjectivityLabel.pack(padx = 5, pady = 5)
-        # self.posLabel.pack(padx = 5, pady = 5)
-        # self.negLabel.pack(padx = 5, pady = 5)
-        # self.compoundLabel.pack(padx = 5, pady = 5)
+        if self.sentimentModel.model == "vader":
+            self.posLabel.pack(padx = 5, pady = 5)
+            self.negLabel.pack(padx = 5, pady = 5)
+            self.neutLabel.pack(padx = 5, pady = 5)
+            self.compoundLabel.pack(padx = 5, pady = 5)
+        else:
+            self.polarityLabel.pack(padx = 5, pady = 5)
+            self.subjectivityLabel.pack(padx = 5, pady = 5)
         self.topicLabel.pack(padx = 5, pady = 5)
         self.termsLabel.pack(padx = 5, pady = 5)
 
@@ -206,8 +213,8 @@ class Window:
         listbox.insert(END, "Personal")
         listbox.insert(END, "Turns")
         listbox.insert(END, "Words")
-        listbox.insert(END, "Orderliness")
-        listbox.insert(END, "Objectivity")
+        # listbox.insert(END, "Orderliness")
+        # listbox.insert(END, "Objectivity")
 
     #Callback for the discussion listbox
     def callbackSentence(self, event):
@@ -216,15 +223,24 @@ class Window:
             index = selection[0]
             data = event.widget.get(index)
             user = data.split(': ')[0]
-            sentence = data.split(': ')[-1]
+            if len(data.split(': ')) > 2:
+                sentence = ""
+                temp = data.split(': ')[1:]
+                for sent in temp:
+                    sentence += sent + " "
+            else:
+                sentence = data.split(': ')[-1]
             sentimentScore = self.sentimentModel.score(sentence)
             topic = self.topicModel.classify(sentence)
             terms = self.topicModel.showTerms(topic)
-            self.polarityLabel.configure(text = "Polarity: " + str(sentimentScore.polarity))
-            self.subjectivityLabel.configure(text = "Subjectivity: " + str(sentimentScore.subjectivity))
-            # self.posLabel.configure(text = "Positive: " + str(sentimentScore["pos"]))
-            # self.negLabel.configure(text = "Negative: " + str(sentimentScore["neg"]))
-            # self.compoundLabel.configure(text = "Compound: " + str(sentimentScore["compound"]))
+            if self.sentimentModel.model == "vader":
+                self.posLabel.configure(text = "Positive: " + str(sentimentScore["pos"]))
+                self.negLabel.configure(text = "Negative: " + str(sentimentScore["neg"]))
+                self.neutLabel.configure(text = "Neutral: " + str(sentimentScore["neu"]))
+                self.compoundLabel.configure(text = "Compound: " + str(sentimentScore["compound"]))
+            else:
+                self.polarityLabel.configure(text = "Polarity: " + str(sentimentScore.polarity))
+                self.subjectivityLabel.configure(text = "Subjectivity: " + str(sentimentScore.subjectivity))
             self.topicLabel.configure(text = "Topic: " + topic)
             self.termsLabel.configure(text = "Terms: " + terms)
             if len(selection) == 1:
@@ -236,7 +252,13 @@ class Window:
                 for i in range(len(selection)):
                     index = selection[i]
                     data = event.widget.get(index)
-                    sentence = data.split(": ")[-1]
+                    if len(data.split(': ')) > 2:
+                        sentence = ""
+                        temp = data.split(': ')[1:]
+                        for sent in temp:
+                            sentence += sent + " "
+                    else:
+                        sentence = data.split(': ')[-1]
                     sentenceList.append(sentence)
                 wordcloud = self.cloudModel.batchGenerate(sentenceList)
                 self.cloud[1].imshow(wordcloud, interpolation='bilinear')

@@ -1,75 +1,13 @@
-Borys Lang: Nothing to worry about, who cares
-Attack Helicopter: Not much to worry about
-Borys Lang: Yeah, that's 2/4 on this point
-Attack Helicopter: The only thing to worry about is Siri going to war with alexa
-Borys Lang: Yeah but that's just like, a trade war, so that's all goods
-manymagpie: I don't think that's likely. Siri's too polite. But that might not be the only concern.
-Attack Helicopter: Ask Siri to lend you money
-Borys Lang: Do you dare raise more concerns about AI?
-Attack Helicopter: Do it a couple of times and see all the excuses she has
-Borys Lang: I for one, welcome our new AI overlords
-Attack Helicopter: Are you a uni student?
-manymagpie: Trying to think of some,
-manymagpie: but I mean outside of cartoony outcomes like AI wars
-Borys Lang: Okay...
-manymagpie: more mundane things like economic or cultural impacts.
-Borys Lang: Such as?
-manymagpie: Who makes the AI and what are their working conditions?
-Borys Lang: Wait what, are you arguing for droid rights?
-Attack Helicopter: When anything funky starts happening, I will just pack my guitars and guns and go live on the back of my ranch
-manymagpie: What does the AI mean to people? What is it a symbol of?
-Attack Helicopter: So nothing for me to worry about
-Borys Lang: But you're an Attack Helicopter. What do you have to be afraid of?
-moonmoth: Well I guess some concerns may be that AI can replace human beings on some occupations and then people will lose their jobs
-Attack Helicopter: Then again AI will need servicing
-manymagpie: Personally I'm not worried about that.
-manymagpie: Exactly. People will have to make/fix/organize the AI.
-Attack Helicopter: Therefore the workforce would need to change tack and shift the skill base
-Borys Lang: But the AI can work for you too, and jobs have been being 'lost' since forever.
-Attack Helicopter: Why are you not worried about people losing their jobs?
-manymagpie: The process of shifting skill base is not exactly painless.
-Attack Helicopter: No
-Attack Helicopter: True
-manymagpie: What was the question? Was it 'should we ban AI' or just 'are there concerns'?
-moonmoth: The latter one
-Attack Helicopter: But if major AI workforces were introduced, people would lose their jobs and spending potential
-Attack Helicopter: therfore,
-Attack Helicopter: if this happened in a large scale in the market
-Attack Helicopter: There would be less demand on the products the Ais make
-Attack Helicopter: Decreasing their value
-Attack Helicopter: Make any sense?
-moonmoth: Yes that's a good point
-Borys Lang: Well, the reason AI are replacing humans would be because they are more cost effective at the job, which could be because we overpay the human workers or that the AI are actually better.
-The thing is, you can always find a new productive thing to do, and when the AI does your previous task better and you find a new task, overrall productivity is greater.
-
-It's really just our economic system that is the concern here, it's got no more to do with AI than it does with hammers
-manymagpie: It seems to me we haven't been able to think of concerns that are particular to AI
-Borys Lang: Yes
-Attack Helicopter: Like the lack of facial expressions
-Borys Lang: In time those may be modelled. I don't see that as a real concern anyway though
-manymagpie: I still think there might be some cultural concerns, but that's more about how people interpret it than the AI itself.
-Attack Helicopter: What cultural concerns?
-Borys Lang: What cultural concerns do you have with wheelbarrows any more than an AI?
-manymagpie: I'd double down on that and say wheelbarrows can be powerful symbols.
-Attack Helicopter: Consuming CNN
-Borys Lang: Then AI too could be powerful symbols, no?
-manymagpie: So much depends on a wheelbarrow, as the poet William Carlos Williams said
-Attack Helicopter: There would need to be a monopoly token that looked like an AI
-manymagpie: Yes. But again, that's not the fault of the AI itself.
-Borys Lang: Great, wheelbarrows are useful and so are AI
-manymagpie: And if it is a problem, I think it would not be solved by saying, 'Let's not make AI'
-Borys Lang: But there is no 'look' of an AI. They come in many forms
-Borys Lang: Okay, moonmoth, you haven't said much?
-Borys Lang: Are we all agreed that there's no real concerns?
-Attack Helicopter: OK, so AI (and wheelbarrows) are useful tools, so long as we use them in a way that is honoring to God and respects man, there should be no probolem
-manymagpie: Yeah, that's where I'm at. I'm ready to agree.
-Attack Helicopter: Furthermore
-Borys Lang: Yep, I'm gonna thumbs up
-Attack Helicopter: If concern is actually worry...
-Attack Helicopter: It's unessesary
-moonmoth: Right. Well I guess I would agree on this point.
-manymagpie: Also, I think the concerns would need to be more articulate and more AI-specific to justify a group conclusion that there are concerns.
-Attack Helicopter: What
-Borys Lang: Yes, I agree
-Borys Lang: moonmoth has yet to thumbs up
-Attack Helicopter: Can you in good conscience thump it up moonmoth
+A: I like ketchup
+B: I like mustard
+A: What is there to like about mustard?
+D: I like ketchup
+A: Ketchup is so much better
+C: I really do not like ketchup or mustard. However, I prefer ketchup over mustard.
+B: Mustard is perfect for a lot of dishes, and it doesnt sweeten things too much
+D: I really like helicopters too
+A: What do helicopters have to do with this?
+A: Now that I think about it ketchup does make things too sweet at times
+C: I agree!
+B: Right? Mustard is just overall quite balanced
+A: I guess you are right
