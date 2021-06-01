@@ -33,6 +33,7 @@ def openFile(window):
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.distinct_users = getDistinctUsers(window, window.users)
+    window.createSliders(window.distinct_users)
     window.vectorModel.train(window.sentences)
     window.topicModel.train(window.sentences)
     getTopicCollection(window)
@@ -795,8 +796,103 @@ def plotPolyBN(user, cvector, window):
 #     fig.canvas.draw()
 
 #Jump to the end of the discussion and observe the results at the end
-def jump(window):
+def jump(window, string):
     while window.baryIndex < len(window.sentences):
-        barycentric(window)
+        if string == "barycentric":
+            barycentric(window)
+        elif string == "slider":
+            sliderUpdate(window)
     messagebox.showerror(title = "Error", message= "End of Discussion reached.")
     window.resultsFile.close()
+
+#Update attitude metrics for all the interlocutors
+def sliderUpdate(window):
+    if window.baryIndex < len(window.sentences):
+        midpoint = window.baryIndex/2
+        for user in window.distinct_users:
+            prev_vector = user.lastResponse
+            for u in window.user_responses:
+                if u == user.name:
+                    user_dict = window.user_responses[u]
+                    for id in user_dict:
+                        if id <= window.baryIndex:
+                            udict = user_dict[id]
+                            vec = udict["vector"]
+                            if id < midpoint:
+                                user.firstPos = [(user.firstPos[0] + vec[0]) / 2, (user.firstPos[1] + vec[1]) / 2, (user.firstPos[2] + vec[2]) / 2]
+                            else:
+                                user.finalPos = [(user.finalPos[0] + vec[0]) / 2, (user.finalPos[1] + vec[1]) / 2, (user.finalPos[2] + vec[2]) / 2]
+                        if id == window.baryIndex:
+                            udict = user_dict[id]
+                            current_user = user
+                            current_vector = udict["vector"]
+                    user.shift = ((user.finalPos[0] - user.firstPos[0])**2 + (user.finalPos[1] - user.firstPos[1])**2 + (user.finalPos[2] - user.firstPos[2])**2) ** 0.5
+                    break
+        jump = ((current_vector[0] - prev_vector[0])**2 + (current_vector[1] - prev_vector[1])**2 + (current_vector[2] - prev_vector[2])**2) ** 0.5        
+        if current_user.semJump != 0:
+            avg = (current_user.semJump + jump) / 2
+        else:
+            avg = jump
+        current_user.semJump = avg
+        range, min = getRange("idealogue", window.distinct_users)
+        for user in window.distinct_users:
+            set = (user.shift - min) / range
+            user.idealogue._draw_gradient(set)
+        range, min = getRange("orderliness", window.distinct_users)
+        set = 1 - ((avg - min) / range)
+        current_user.lastResponse = current_vector
+        for user in window.distinct_users:
+            set = 1 - ((user.semJump - min) / range)
+            user.chaos._draw_gradient(set)
+        current_user.pronounCount = 0
+        for user in window.distinct_users:
+            if current_user.name == user.name:
+                for u in window.user_responses:
+                    if u == user.name:
+                        user_dict = window.user_responses[u]
+                        for id in user_dict:
+                            if id <= window.baryIndex:
+                                udict = user_dict[id]
+                                sentence = udict["sentence"]
+                                if window.posTagger.isPersonal(sentence):
+                                    current_user.pronounCount += 1
+        range, min = getRange("objectivity", window.distinct_users)
+        for user in window.distinct_users:
+            if range != 0:
+                set = 1 - ((user.pronounCount - min) / range)
+            else:
+                set = 0.5
+            user.subjectivity._draw_gradient(set)
+        window.baryIndex += 1
+    else:
+        messagebox.showerror(title = "Error", message= "End of Discussion reached.")
+        window.resultsFile.close()
+
+def getRange(feature, userlist):
+    max = 0
+    min = 100000
+    if feature == "orderliness":
+        for user in userlist:
+            if user.semJump > max:
+                max = user.semJump
+            if user.semJump < min:
+                min = user.semJump
+    elif feature == "objectivity":
+        for user in userlist:
+            if user.pronounCount > max:
+                max = user.pronounCount
+            if user.pronounCount < min:
+                min = user.pronounCount
+    elif feature == "idealogue":
+        for user in userlist:
+            if user.shift > max:
+                max = user.shift
+            if user.shift < min:
+                min = user.shift
+    elif feature == "redundancy":
+        for user in userlist:
+            if len(user.topics) > max:
+                max = len(user.topics)
+            if len(user.topics) < min:
+                min = len(user.topics)
+    return max - min, min

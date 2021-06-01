@@ -6,6 +6,12 @@ class User:
         self.pronounCount = 0
         self.turnCount = 0
         self.wordCount = 0
+        self.firstPos = [0.00, 0.00, 0.00]
+        self.finalPos = [0.00, 0.00, 0.00]
+        self.semJump = 0
+        self.shift = 0
+        self.topics = []
+        self.lastResponse = [0.00, 0.00, 0.00]
 
     #Resets all the counts of the given user to 0
     def resetCounts(self):

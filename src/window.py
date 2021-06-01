@@ -8,6 +8,7 @@ from cloud import *
 from question import *
 from pos import *
 from doc2vector import *
+from colorbar import *
 import matplotlib.pyplot as plt
 
 ##Window class that populates the root window and handles all the tabs and widgets
@@ -96,6 +97,7 @@ class Window:
 
         self.polyFrameB.grid(row = 0, column = 0, columnspan = 5, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "w")
         self.legendFrameB.grid(row = 3, column = 0, columnspan = 5, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "w")
+
 
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
@@ -190,10 +192,16 @@ class Window:
     #Creates all the buttons required for the window
     def createButtons(self):
         self.nextButtonB = Button(self.baryTab, text = "Next Statement", command = lambda: barycentric(self))
-        self.endButtonB = Button(self.baryTab, text = "Jump to End", command = lambda: jump(self))
+        self.endButtonB = Button(self.baryTab, text = "Jump to End", command = lambda: jump(self, "barycentric"))
 
         self.nextButtonB.grid(row = 2, column = 0, padx = 5, pady = 5, ipadx = 5, ipady = 5)
         self.endButtonB.grid(row = 2, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5)
+
+        self.nextButtonA = Button(self.userTab, text = "Next Statement", command = lambda: sliderUpdate(self))
+        self.endButtonA = Button(self.userTab, text = "Jump to End", command = lambda: jump(self, "slider"))
+
+        self.nextButtonA.pack(side = TOP, pady = 5)
+        self.endButtonA.pack(side = TOP, pady = 5)
 
     # #Creates all the necessary radio buttons for the window
     # def createRadioButtons(self):
@@ -204,6 +212,42 @@ class Window:
 
     #     self.selfRadioButton.grid(row = 2, column = 2, padx = 5, pady = 5, ipadx = 5, ipady = 5)
     #     self.nonselfRadioButton.grid(row = 2, column = 3, padx = 5, pady = 5, ipadx = 5, ipady = 5)
+
+    #Creates the slider scales for the attitude analysis
+    def createSliders(self, distinct_users):
+        for user in distinct_users:
+            labelFrame = ttk.LabelFrame(self.userTab, text = user.name)
+            labelFrame.pack(side = TOP, padx = 5, pady = 5)
+            for i in range(4):
+                colorbar1 = ColorScale(labelFrame, val = 0.5)
+                if i == 0:
+                    label = ttk.Label(labelFrame, text = "Ideologue")
+                    label.pack(side = LEFT, padx = 10)
+                    colorbar1.pack(side = LEFT, padx = 10)
+                    user.idealogue = colorbar1
+                    label = ttk.Label(labelFrame, text = "Open-Minded")
+                    label.pack(side = LEFT, padx = 10)
+                elif i == 1:
+                    label = ttk.Label(labelFrame, text = "Chaotic")
+                    label.pack(side = LEFT, padx = 10)
+                    colorbar1.pack(side = LEFT, padx = 10)
+                    user.chaos = colorbar1
+                    label = ttk.Label(labelFrame, text = "Orderly")
+                    label.pack(side = LEFT, padx = 10)
+                elif i == 2:
+                    label = ttk.Label(labelFrame, text = "Subjective")
+                    label.pack(side = LEFT, padx = 10)
+                    colorbar1.pack(side = LEFT, padx = 10)
+                    user.subjectivity = colorbar1
+                    label = ttk.Label(labelFrame, text = "Objective")
+                    label.pack(side = LEFT, padx = 10)
+                else:
+                    label = ttk.Label(labelFrame, text = "Redundant")
+                    label.pack(side = LEFT, padx = 10)
+                    colorbar1.pack(side = LEFT, padx = 10)
+                    user.redundant = colorbar1
+                    label = ttk.Label(labelFrame, text = "Mobile")
+                    label.pack(side = LEFT, padx = 10)
 
     #Fill the listboxes for the graph controls
     def fillListboxes(self, listbox):

@@ -7,7 +7,7 @@ class PosTagger:
 
     #Return whether or not the given sentence contains any personal pronouns 
     def isPersonal(self, text):
-        words = nltk.word_tokenize(text.lower())
+        words = nltk.word_tokenize(text)
         pos = nltk.pos_tag(words)
         for word in pos:
             if word[1] == "PRP" or word[1] == "PRP$":
