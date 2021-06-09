@@ -10,6 +10,7 @@ from pos import *
 from doc2vector import *
 from colorbar import *
 import matplotlib.pyplot as plt
+import numpy as np
 
 ##Window class that populates the root window and handles all the tabs and widgets
 class Window:
@@ -98,6 +99,9 @@ class Window:
         self.polyFrameB.grid(row = 0, column = 0, columnspan = 5, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "w")
         self.legendFrameB.grid(row = 3, column = 0, columnspan = 5, padx = 5, pady = 5, ipadx = 5, ipady = 5, sticky = "w")
 
+        self.heatmapFrameA = LabelFrame(self.userTab, text = "Responsiveness Heatmap")
+
+        self.heatmapFrameA.pack(side = TOP, pady = 10)
 
     #Create all the listboxes required for all the tabs
     def createListboxes(self):
@@ -197,7 +201,7 @@ class Window:
         self.nextButtonB.grid(row = 2, column = 0, padx = 5, pady = 5, ipadx = 5, ipady = 5)
         self.endButtonB.grid(row = 2, column = 1, padx = 5, pady = 5, ipadx = 5, ipady = 5)
 
-        self.nextButtonA = Button(self.userTab, text = "Next Statement", command = lambda: sliderUpdate(self))
+        self.nextButtonA = Button(self.userTab, text = "Next Statement", command = lambda: [sliderUpdate(self), updateHeatmap(self)])
         self.endButtonA = Button(self.userTab, text = "Jump to End", command = lambda: jump(self, "slider"))
 
         self.nextButtonA.pack(side = TOP, pady = 5)
@@ -248,6 +252,37 @@ class Window:
                     user.redundant = colorbar1
                     label = ttk.Label(labelFrame, text = "Mobile")
                     label.pack(side = LEFT, padx = 10)
+
+    #Creates the responsiveness heatmap in the user analysis tab
+    def createHeatmap(self, distinct_users):
+        for child in self.heatmapFrameA.winfo_children():
+            child.destroy()
+        usersX = []
+        usersY = []
+        responsiveness = []
+        for user in distinct_users:
+            arr = np.zeros(len(distinct_users))
+            responsiveness.append(arr)
+            usersX.append(user.name)
+            usersY.append(user.name)
+        fig = plt.figure(figsize = (4.8,3.4))
+        ax = fig.add_subplot(111)
+        ax.set_xticks(np.arange(len(distinct_users)))
+        ax.set_yticks(np.arange(len(distinct_users)))
+        ax.set_xticklabels(usersX)
+        ax.set_yticklabels(usersY)
+        plt.setp(ax.get_xticklabels(), rotation=45, ha="right", rotation_mode="anchor")
+        for i in range(len(distinct_users)):
+            for j in range(len(distinct_users)):
+                text = ax.text(j, i, responsiveness[i][j], ha="center", va="center", color="w")
+        fig.tight_layout()
+        heatmap = FigureCanvasTkAgg(fig, self.heatmapFrameA)
+        heatmap.get_tk_widget().pack(fill = "y")
+        im = ax.imshow(responsiveness)
+        cbar = ax.figure.colorbar(im, ax=ax)
+        cbar.ax.set_ylabel("Responsiveness", rotation=-90, va="bottom")
+        fig.canvas.draw()
+        self.heatmap = (fig, ax, heatmap, responsiveness)
 
     #Fill the listboxes for the graph controls
     def fillListboxes(self, listbox):

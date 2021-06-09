@@ -33,6 +33,7 @@ def openFile(window):
             data.extend(window.reader.read_data(sql))
     window.sentences, window.users = window.reader.sentenceExtraction(data)
     window.distinct_users = getDistinctUsers(window, window.users)
+    window.createHeatmap(window.distinct_users)
     window.createSliders(window.distinct_users)
     window.vectorModel.train(window.sentences)
     window.topicModel.train(window.sentences)
@@ -802,6 +803,7 @@ def jump(window, string):
             barycentric(window)
         elif string == "slider":
             sliderUpdate(window)
+            updateHeatmap(window)
     messagebox.showerror(title = "Error", message= "End of Discussion reached.")
     window.resultsFile.close()
 
@@ -838,13 +840,16 @@ def sliderUpdate(window):
         for user in window.distinct_users:
             set = (user.shift - min) / range
             user.idealogue._draw_gradient(set)
+            print("Open-mindedness: " + str(set))
         range, min = getRange("orderliness", window.distinct_users)
         set = 1 - ((avg - min) / range)
         current_user.lastResponse = current_vector
         for user in window.distinct_users:
             set = 1 - ((user.semJump - min) / range)
             user.chaos._draw_gradient(set)
+            print("Orderliness: " + str(set))
         current_user.pronounCount = 0
+        current_user.topics = []
         for user in window.distinct_users:
             if current_user.name == user.name:
                 for u in window.user_responses:
@@ -854,8 +859,11 @@ def sliderUpdate(window):
                             if id <= window.baryIndex:
                                 udict = user_dict[id]
                                 sentence = udict["sentence"]
+                                topic = udict["topic"]
                                 if window.posTagger.isPersonal(sentence):
                                     current_user.pronounCount += 1
+                                if topic not in current_user.topics:
+                                    current_user.topics.append(topic)
         range, min = getRange("objectivity", window.distinct_users)
         for user in window.distinct_users:
             if range != 0:
@@ -863,11 +871,21 @@ def sliderUpdate(window):
             else:
                 set = 0.5
             user.subjectivity._draw_gradient(set)
+            print("Objectivity: " + str(set))
+        range, min = getRange("redundancy", window.distinct_users)
+        for user in window.distinct_users:
+            if range != 0:
+                set = (len(user.topics) - min) / range
+            else:
+                set = 0.5
+            user.redundant._draw_gradient(set)
+            print("Mobility: " + str(set))
         window.baryIndex += 1
     else:
         messagebox.showerror(title = "Error", message= "End of Discussion reached.")
         window.resultsFile.close()
 
+#Gets the range of scores for the users' attitude metrics
 def getRange(feature, userlist):
     max = 0
     min = 100000
@@ -896,3 +914,47 @@ def getRange(feature, userlist):
             if len(user.topics) < min:
                 min = len(user.topics)
     return max - min, min
+
+#Updates the responsiveness heatmap when nextButtonA is clicked
+def updateHeatmap(window):
+    if window.baryIndex < len(window.sentences):
+        current_vector = np.ndarray((3,))
+        prev_user = ""
+        current_user = ""
+        for user in window.user_responses:
+            user_dict = window.user_responses[user]
+            if window.baryIndex in user_dict:
+                for id in user_dict:
+                    if id == window.baryIndex:
+                        udict = user_dict[id]
+                        current_user = user
+                        current_vector = udict["vector"]
+                        break
+        for i in range(window.baryIndex):
+            prev_vector = [0.00, 0.00, 0.00]
+            prev_user = ""
+            for user in window.user_responses:
+                user_dict = window.user_responses[user]
+                if i in user_dict:
+                    for id in user_dict:
+                        if id == i:
+                            udict = user_dict[id]
+                            prev_vector = udict["vector"]
+                            prev_user = user
+            for userObj in window.distinct_users:
+                if userObj.name == current_user:
+                    current_user = userObj
+                if userObj.name == prev_user:
+                    prev_user = userObj
+            if prev_user != current_user:
+                prev_distance = window.heatmap[-1][window.distinct_users.index(current_user)][window.distinct_users.index(prev_user)]
+                distance = ((current_vector[0] - prev_vector[0])**2 + (current_vector[1] - prev_vector[1])**2 + (current_vector[2] - prev_vector[2])**2 ) ** 0.5
+                new_distance = (prev_distance + distance)/2
+                window.heatmap[-1][window.distinct_users.index(current_user)][window.distinct_users.index(prev_user)] = new_distance
+        while len(window.heatmap[1].texts) != 0:
+            window.heatmap[1].texts.pop()
+        for i in range(len(window.distinct_users)):
+            for j in range(len(window.distinct_users)):
+                text = window.heatmap[1].text(j, i, "{:.2f}".format(window.heatmap[-1][i][j]), ha="center", va="center", color="w")
+        window.heatmap[1].imshow(window.heatmap[-1])
+        window.heatmap[0].canvas.draw()
