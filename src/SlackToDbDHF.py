@@ -1,10 +1,10 @@
 # Program stores Slack workspace data from json files into a database
-# with pre-created tables provided in schema2.sql
+# with pre-created tables provided in schema.sql
 #
 # Instructions:
 #   Start up database
 #   Ensure database name matches the one in this program - default: jr_slack
-#   Create db tables using the schema2.sql file
+#   Create db tables using the schema.sql file
 #   Run program:
 #       For each Slack workspace/folder:
 #           1) File -> Open Users -> browse to open users.json
