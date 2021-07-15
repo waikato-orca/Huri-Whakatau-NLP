@@ -30,6 +30,6 @@ threadpoolctl==2.1.0
 torch==1.8.0
 tqdm==4.58.0
 typing-extensions==3.7.4.3
-urllib3==1.26.4
+urllib3==1.26.5
 vaderSentiment==3.3.2
 wordcloud==1.8.1
