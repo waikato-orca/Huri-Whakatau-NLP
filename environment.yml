@@ -44,3 +44,4 @@ dependencies:
   - pip:
     - smart-open==4.2.0
     - torch==1.8.0
+    - sentence-transformers==2.0.*
